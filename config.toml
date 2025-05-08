@@ -1,4 +1,4 @@
-baseURL = "http://localhost/"
+baseURL = "https://dazzling-speculoos-bd5446.netlify.app/"
 title = "工作機械はおもしろい"
 theme = "PaperMod"
 languageCode = "ja-jp"
