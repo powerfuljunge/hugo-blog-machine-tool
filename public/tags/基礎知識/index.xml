@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>基礎知識 on 工作機械はおもしろい</title>
+    <link>http://localhost:1313/tags/%E5%9F%BA%E7%A4%8E%E7%9F%A5%E8%AD%98/</link>
+    <description>Recent content in 基礎知識 on 工作機械はおもしろい</description>
+    <generator>Hugo -- 0.147.0</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Thu, 01 May 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E5%9F%BA%E7%A4%8E%E7%9F%A5%E8%AD%98/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>住宅ローンの基礎知識</title>
+      <link>http://localhost:1313/posts/test-a/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/test-a/</guid>
+      <description>&lt;p&gt;住宅ローンを組む際に知っておくべき基本的なポイントを解説します。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

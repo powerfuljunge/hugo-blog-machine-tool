@@ -1,0 +1,33 @@
+{{ define "main" }}
+<div class="content-wrap" style="display: flex; flex-wrap: nowrap; gap: 2rem;">
+  <div class="main-column" style="flex: 3;">
+
+{{ with .Params.cover.image }}
+<div class="featured-image-outer">
+  <div class="featured-image-wrapper-single">
+    <img src="{{ . }}" alt="{{ $.Title }}" class="featured-image-full-single">
+    {{ with $.Params.categories }}
+    <div class="category-badge-single">{{ index . 0 }}</div>
+    {{ end }}
+  </div>
+</div>
+{{ end }}
+
+{{ partial "breadcrumbs.html" . }}
+
+    <article class="post">
+      <header class="post-header">
+        <h1>{{ .Title }}</h1>
+        <p class="post-date">{{ .Date.Format "2006-01-02" }}</p>
+      </header>
+      <div class="post-content">
+        {{ .Content }}
+      </div>
+    </article>
+  </div>
+
+  <aside class="sidebar" style="flex: 1;">
+    {{ partial "sidebar.html" . }}
+  </aside>
+</div>
+{{ end }}

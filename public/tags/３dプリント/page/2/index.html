@@ -1,0 +1,607 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="noindex, nofollow">
+<title>３Dプリント | 工作機械はおもしろい</title>
+
+<link rel="stylesheet" href="/css/custom.css">
+<meta name="keywords" content="">
+<meta name="description" content="">
+<meta name="author" content="">
+<link rel="canonical" href="http://localhost:1313/tags/%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88/">
+
+<script defer src="/js/custom-search.js"></script>
+
+
+  <link crossorigin="anonymous" href="/assets/css/stylesheet.f49d66caae9ea0fd43f21f29e71a8d3e284517ed770f2aa86fa012953ad3c9ef.css" integrity="sha256-9J1myq6eoP1D8h8p5xqNPihFF&#43;13Dyqob6ASlTrTye8=" rel="preload stylesheet" as="style">
+<link rel="icon" href="http://localhost:1313/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/favicon-32x32.png">
+<link rel="apple-touch-icon" href="http://localhost:1313/apple-touch-icon.png">
+<link rel="mask-icon" href="http://localhost:1313/safari-pinned-tab.svg">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<link rel="alternate" type="application/rss+xml" href="http://localhost:1313/tags/%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88/index.xml">
+<link rel="alternate" hreflang="ja" href="http://localhost:1313/tags/%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88/">
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+    <style>開発者ツールの Elements > <head> セクション で、以下のような記述があるか確認してください：
+
+        html
+        ￼Copy
+        ￼Edit
+        <link rel="stylesheet" href="/css/custom.css">
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --theme: rgb(29, 30, 32);
+                --entry: rgb(46, 46, 51);
+                --primary: rgb(218, 218, 219);
+                --secondary: rgb(155, 156, 157);
+                --tertiary: rgb(65, 66, 68);
+                --content: rgb(196, 196, 197);
+                --code-block-bg: rgb(46, 46, 51);
+                --code-bg: rgb(55, 56, 62);
+                --border: rgb(51, 51, 51);
+            }
+
+            .list {
+                background: var(--theme);
+            }
+
+            .list:not(.dark)::-webkit-scrollbar-track {
+                background: 0 0;
+            }
+
+            .list:not(.dark)::-webkit-scrollbar-thumb {
+                border-color: var(--theme);
+            }
+        }
+
+    </style>
+</noscript>
+</head>
+<body>
+  
+<script>
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.body.classList.add('dark');
+    } else if (localStorage.getItem("pref-theme") === "light") {
+        document.body.classList.remove('dark')
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.body.classList.add('dark');
+    }
+
+</script>
+
+<header class="header">
+    <nav class="nav">
+        <div class="logo">
+            <a href="http://localhost:1313/" accesskey="h" title="工作機械はおもしろい (Alt + H)">工作機械はおもしろい</a>
+            <div class="logo-switches">
+                <button id="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="Toggle theme">
+                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
+            </div>
+        </div>
+        <ul id="menu">
+            <li>
+                <a href="http://localhost:1313/" title="ホーム">
+                    <span>ホーム</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/terms-of-service/" title="特商法表記">
+                    <span>特商法表記</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+
+  
+  <div class="post-list">
+    
+    
+    <article class="post-entry">
+      <a href="/%E3%80%90mm%E3%80%91china-market-insider-2022-11-30/" class="entry-card">
+    
+        
+          <div class="featured-image-wrapper">
+            <img src="/images/2022/12/nio_EP9_Photo_for_Release-2409953977.jpg" alt="【MM】China Market Insider 2022/11/30" class="featured-image" />
+            
+              <div class="category-badge">中国</div>
+            
+          </div>
+        
+    
+        <div class="entry-text">
+          <header class="entry-header">
+            <h2>【MM】China Market Insider 2022/11/30</h2>
+            <p class="post-date">2022-12-05</p>
+          </header>
+    
+          <div class="entry-content">
+            <p>中国製電気自動車が、どうして鉄道輸送でドイツへ？ Warum E-Autos aus China jetzt per Zug kommen (Bild: © Eisenhans - stock.adobe.com) Chinas Exportoffensive für E-Autos hat Konsequenzen für die Logistikbranche. Warum der Transport über die Schiene nun zur ... https://www.maschinenmarkt.vogel.de/warum-e-autos-aus-china-jetzt-per-zug-kommen-a-9dfb2b45f660b37a6c08dbe29261e2f2/?cmp=nl-97&amp;#038;uuid=59f81756f7bccffdf98785bb65dd9f7e 自動車輸出大国ドイツが中国に脅かされている
+ドイツの専門誌の記事だから、当然ドイツ目線で書かれている
+問題の核心は 中国は今年10月の自動車輸出が337,000台となって
+ドイツを世界一の座から引きずり落とした
+そのうち、電気自動車が109,000台
+これは、全輸出の32％を占めるだけじゃなく、前年同期比プラス81.2％でもある
+中国製電気自動車がドイツにどんどん入ってくる事実
+やっぱり**電気自動車は、自動車産業の構造を変える**存在と見るべきだろう
+ドイツの専門誌が中国製をどう表現しているかというと
+割安な価格で満足な品質 「悪くない」という評価ですね
+鉄道輸送なら15日で電気自動車がドイツに届く わざわざ記事にした背景は 自動車の輸送なら船だろう！ という前提
+でも、鉄道輸送が今話題になるのは
+この9月に**中国政府が禁止していた鉄道輸送を解禁した**から
+中国の自動車輸出の急増で、船賃はコロナ前の**4倍**に膨れ上がっているが
+それでも船が全然足りていない！！
+そんな状況での鉄道輸送解禁
+自動車メーカが放っておくはずがない
+というより自動車メーカがプレッシャーをかけたのではないか？
+そんなに簡単に鉄道輸送に切り替わるのか？ 鉄道輸送のルートは
+中国　→　ロシア　→　ベラルーシ　→　ポーランド　→　ドイツ（ハンブルグ）
+ロシアを通るのが、ドイツ人の目から見ると大きなリスク
+ドイツはもちろん中国も、ロシアのウクライナ侵攻後は輸送量を減らしていた
+中国とヨーロッパを結ぶ鉄道路線 Trans-Eurasia Logistics というか
+„China Railway Express” は、2008年に設立された合弁会社
+…</p>
+          </div>
+        </div>
+    
+      </a>
+    </article>
+    
+    <article class="post-entry">
+      <a href="/3d-printing-in-praxis-daimler-truck-ag/" class="entry-card">
+    
+        
+          <div class="featured-image-wrapper">
+            <img src="/images/2021/10/3d-druck_industry-3225119__480.jpg" alt="３Dプリントの実用化レベルに驚いた" class="featured-image" />
+            
+              <div class="category-badge">製造技術</div>
+            
+          </div>
+        
+    
+        <div class="entry-text">
+          <header class="entry-header">
+            <h2>３Dプリントの実用化レベルに驚いた</h2>
+            <p class="post-date">2022-12-03</p>
+          </header>
+    
+          <div class="entry-content">
+            <p>Maschinenmarkt誌の３Dプリンターの記事に思わず引き込まれてしまいました
+これからの製造業を大きく変える可能性があると思ったのです
+Ersatzteile: selbst gedruckt, statt lange gewartet (Bild: Daimler Truck AG) Wer Produktionsstabilität denkt, muss Ersatzteile sagen. Schnell werden diese zum kritischen Faktor für einen verlässlichen Fertigungsb... https://www.maschinenmarkt.vogel.de/ersatzteile-selbst-gedruckt-statt-lange-gewartet-a-42e1964db060fdd08569d35b2611dc59/?cmp=nl-97&amp;#038;uuid=59f81756f7bccffdf98785bb65dd9f7e ３Dプリントの可能性にわくわくした ３Dプリンターの実用化がここまで進んでいるとは思わなかったー
+記事の内容に何を考えたかというと
+バス、トラックのスペアパーツを３Dプリントのデータライセンスで提供する
+それがすでに現実のものになっている しかも、決まりにうるさいドイツ企業で導入されている 解決すべき問題はいろいろと出てくるだろうが
+これはまちがいなく避けて通れないトレンドになる 解決すべき問題を気にして、対応が遅れる企業は取り残されるだろう 画期的な新製品は、そのコンセプトが受け入れられたら
+初期のトラブルがあったとしても、顧客から受け入れられていく スペアパーツを３Dプリントデータで納入する サービスを始めたのは　Daimler Truck AG
+温室効果ガスの話題になると
+内燃エンジンの自動車や航空機はアウト、バスや電車はOK
+今年の６月から**Omniplus**という名称のサービスを開始している
+３Dプリント・ライセンスショップを開設して
+Mercedes-Benz と Setra ブランドのバスのスペアパーツを販売している
+３Dプリントって何か、分からない人のために 興奮して３Dプリントのこと書いたけど
+そもそも３Dプリントって何？っていう人がいるかもしれないので
+簡単な説明のサイトを探してみました
+3D プリントとは | 3D プリント ソフトウェア | Autodesk 3D プリントについて説明します。3D プリント対応のデザインソフトやお客様のケーススタディ、学生向けの 3D プリント学習リソースをご覧いただけます。 https://www.autodesk.co.jp/solutions/3d-printing アディティブ・マニュファクチャリングとか、AM 技術 (additive manufacturing)とかも言ったりする
+サービスのメリットは 部品を輸送する必要がない CO2が排出されない 持続可能性という観点からも有効 在庫量を減らせる メーカは必要かどうか分からないスペアパーツの製造・在庫を減らせる 顧客は、モノによっては長い納期のスペアパーツを待つ必要がない パーツを必要とする場所で作れる DIYスペアパーツの考え方はバス会社の運行安定性を高め、関連コストの削減に繋がる Omniplusの制限 現在、対象となる３DプリンターはFarsoon Technologies社のものに限定されている Daimlerによれば、対象は増えるとのこと
+…</p>
+          </div>
+        </div>
+    
+      </a>
+    </article>
+    
+    <article class="post-entry">
+      <a href="/these-are-the-ten-cheapest-ev/" class="entry-card">
+    
+        
+          <div class="featured-image-wrapper">
+            <img src="/images/2022/11/e-mobility-car.jpg" alt="電気自動車（EV)は高い　最安EVベスト10" class="featured-image" />
+            
+              <div class="category-badge">ドイツ</div>
+            
+          </div>
+        
+    
+        <div class="entry-text">
+          <header class="entry-header">
+            <h2>電気自動車（EV)は高い　最安EVベスト10</h2>
+            <p class="post-date">2022-11-27</p>
+          </header>
+    
+          <div class="entry-content">
+            <p>Maschinenmarkt誌の姉妹誌であるkonstruktionspraxis誌に
+ドイツで手に入る安いEVの記事がありました
+Das sind die zehn günstigsten E-Autos (Bild: Nissan) E-Autos kosten deutlich mehr Geld als vergleichbare Fahrzeuge mit Verbrennungsmotor. Es gibt nur wenige BEV unter 30.000 Euro. https://www.konstruktionspraxis.vogel.de/elektroauto-e-auto-preise-a-da3eeb530fda8fd9bdf7c612a28be3d6/?cmp=nl-112&amp;#038;uuid=821095a901c09ea66b2383b90637a5bd 最安EVとは言っても3万ユーロ前後 記事のリンクを見ると、クルマの写真とともにモデル名と金額が載っています
+ランキングをまとめると以下のようです
+Rank &lt;td&gt; Brand &lt;/td&gt; &lt;td&gt; Model &lt;/td&gt; &lt;td&gt; Euro &lt;/td&gt; 1 &lt;td&gt; Dacia &lt;/td&gt; &lt;td&gt; Spring &lt;/td&gt; &lt;td&gt; 22,550 &lt;/td&gt; 2 &lt;td&gt; Next E-GO Mobile SE &lt;/td&gt; &lt;td&gt; E Wave X &lt;/td&gt; &lt;td&gt; 25,000 &lt;/td&gt; 3 &lt;td&gt; Renault &lt;/td&gt; &lt;td&gt; Twingo &lt;/td&gt; &lt;td&gt; 28,000 &lt;/td&gt; 4 &lt;td&gt; MG &lt;/td&gt; &lt;td&gt; MG 4 Electric &lt;/td&gt; &lt;td&gt; 28,420 &lt;/td&gt; 5 &lt;td&gt; SAIC &lt;/td&gt; &lt;td&gt; ZS &lt;/td&gt; &lt;td&gt; 30,420 &lt;/td&gt; 6 &lt;td&gt; Fiat &lt;/td&gt; &lt;td&gt; 500 e &lt;/td&gt; &lt;td&gt; 31,000 &lt;/td&gt; 7 &lt;td&gt; MG &lt;/td&gt; &lt;td&gt; MG 5 &lt;/td&gt; &lt;td&gt; 32,000 &lt;/td&gt; 8 &lt;td&gt; Nissan &lt;/td&gt; &lt;td&gt; Leaf &lt;/td&gt; &lt;td&gt; 33,400 &lt;/td&gt; &lt;td&gt; Renault &lt;/td&gt; &lt;td&gt; Zoe &lt;/td&gt; &lt;td&gt; 33,400 &lt;/td&gt; 9 &lt;td&gt; Opel &lt;/td&gt; &lt;td&gt; Corsa E &lt;/td&gt; &lt;td&gt; 34,000 &lt;/td&gt; 10 &lt;td&gt; Peugeot &lt;/td&gt; &lt;td&gt; E-208 &lt;/td&gt; &lt;td&gt; 35,350 &lt;/td&gt; 電気自動車は同等の内燃エンジン搭載車と比べるとかなり値段が高い
+バッテリー駆動のBEVで3万ユーロ以下のものはほとんど無い
+…</p>
+          </div>
+        </div>
+    
+      </a>
+    </article>
+    
+    <article class="post-entry">
+      <a href="/e-mobility-and-sheet-metal-components/" class="entry-card">
+    
+        
+          <div class="featured-image-wrapper">
+            <img src="/images/2022/11/bipolar-plate_maxresdefault-3637186606.jpg" alt="eモビリティと部品加工 – 板金加工" class="featured-image" />
+            
+              <div class="category-badge">自動車</div>
+            
+          </div>
+        
+    
+        <div class="entry-text">
+          <header class="entry-header">
+            <h2>eモビリティと部品加工 – 板金加工</h2>
+            <p class="post-date">2022-11-26</p>
+          </header>
+    
+          <div class="entry-content">
+            <p>Maschinenmarkt誌に掲載された記事です
+https://www.maschinenmarkt.vogel.de/e-mobilitaet-fordert-flexiblere-formen-der-blechverarbeitung-a-959c1af0cf688d6f23f823fbc5d97256/?cmp=nl-97&amp;uuid=59f81756f7bccffdf98785bb65dd9f7e https://www.maschinenmarkt.vogel.de/e-mobilitaet-fordert-flexiblere-formen-der-blechverarbeitung-a-959c1af0cf688d6f23f823fbc5d97256/?cmp=nl-97&amp;#038;uuid=59f81756f7bccffdf98785bb65dd9f7e 板金加工に限らず、部品製造全般にも同様のことが当てはまると思います
+eモビリティで部品加工に必要な要件とは？ eモビリティの動向が自動車部品下請けにとっては
+全く新しい部品が必要になる 加工プロセスの更なる柔軟性が要求される なので、チャンスをものにするのに必要な要件は
+板金加工業者は自動化製造ラインを最適化する 柔軟な金型・ツールを導入する EVの主流はどうなるかわからないが、部品は・・・ 電気自動車（EV)で、長期的に何が主流になるのかは決まっていないと言います
+それは、以下のどっちだ、ということです
+バッテリーの電気だけを使ってモータで走る車＝BEV（Battery Electric Vehicle） 水素と酸素で発電する燃料電池で走る車＝FCEV（Fuel Cell Electric Vehicle） しかし、部品レベルで見ると、そんなことはどうでもよくて
+ステーター・ローターの製造だろうが、燃料電池のバイポーラ・プレートの製造だろうが
+その根幹には、いずれにせよ板金加工の製造工程があると言うのです
+EVの技術的方向性と下請けの投資 大量の部品を加工するのに、最適化された金型・ツールがあると良い、とある一方で
+現実的に、ほとんどの企業は、
+新しい金型・ツールを買う 新しいプレスを買う その他必要な設備を買う そういう大きな投資をするには
+EVの技術的方向性が定まっていない今のタイミングでは二の足を踏む
+モータにも、技術的形態がいろいろあって、それぞれにメリットとデメリットがある
+外部励磁同期モータからラジアル磁束非同期モータまでいろいろ種類があって
+その設計や機能は大きく異なる
+なので、寸法が変わると板金も全く別物になってしまう
+電気自動車向け部品加工の投資をさらに複雑にしているのは 電気自動車の場合、システムトポロジーが非常に多く考えられることも複雑な要因となっている
+システムトポロジーって難しい言い回しだな・・・
+要するに、組み合わせの可能性が多いってことなんだけど
+例えば、どんなことかというと
+1つまたは2つの電気モータを備えた軸並列設計 ホイールに近い同軸システム こんな感じで、駆動の方法だけでもいろいろある
+言葉では分かりにくいだろうから、イメージが湧くように、いくつか写真を集めてみた
+出典：https://www.nzz.ch/mobilitaet/auto-mobil/audi-ingenieur-marc-baur-erklaert-den-elektronischen-quattro-ld.1545152 出典：NTN　https://www.ntn.co.jp/japan/news/press/news201800034.html
+今加工している部品が、その後も予定どおりの数量で必要なのかどうか分からない
+開発のスピードが速い商品にはあるあるの問題ですね
+開発のスピードに製造が追いついていけない
+…</p>
+          </div>
+        </div>
+    
+      </a>
+    </article>
+    
+    <article class="post-entry">
+      <a href="/german-machine-export-as-of-september-2022-vdma-press-release-2022-11-15/" class="entry-card">
+    
+        
+          <div class="featured-image-wrapper">
+            <img src="/images/2022/11/vdma_202211_machine-export-sep2022.jpg" alt="ドイツ機械輸出 VDMA プレスリリース 2022/11/15" class="featured-image" />
+            
+              <div class="category-badge">ドイツ</div>
+            
+          </div>
+        
+    
+        <div class="entry-text">
+          <header class="entry-header">
+            <h2>ドイツ機械輸出 VDMA プレスリリース 2022/11/15</h2>
+            <p class="post-date">2022-11-20</p>
+          </header>
+    
+          <div class="entry-content">
+            <p>2022年9月のドイツ機械輸出の結果とコメントです
+ドイツ機械産業の輸出は好調を維持 中国とロシアへの輸出が減ったものの、米国への輸出でそれをカバーできた
+しかし、実際には値上げ効果が大きい
+2022年1-9月期は、前年同期比+4.0％の1,403億ユーロ。
+現在の為替レートで、20兆3,000億円くらいですね。
+値上げ分を調整した実質輸出高は-2.8％ということで、微減とも取れます。
+国別、地域別での状況 2022年1-9月期のドイツ機械輸出高を国別、地域別で見ると
+ランキング &lt;td class=&quot;has-text-align-center&quot; data-align=&quot;center&quot;&gt; 国 &lt;/td&gt; &lt;td class=&quot;has-text-align-right&quot; data-align=&quot;right&quot;&gt; 百万ユーロ &lt;/td&gt; &lt;td class=&quot;has-text-align-right&quot; data-align=&quot;right&quot;&gt; 前年同期比 &lt;/td&gt; &lt;td class=&quot;has-text-align-right&quot; data-align=&quot;right&quot;&gt; シェア &lt;/td&gt; 1 &lt;td class=&quot;has-text-align-center&quot; data-align=&quot;center&quot;&gt; USA &lt;/td&gt; &lt;td class=&quot;has-text-align-right&quot; data-align=&quot;right&quot;&gt; 17,946.1 &lt;/td&gt; &lt;td class=&quot;has-text-align-right&quot; data-align=&quot;right&quot;&gt; 19.4% &lt;/td&gt; &lt;td class=&quot;has-text-align-right&quot; data-align=&quot;right&quot;&gt; 12.8% &lt;/td&gt; 2 &lt;td class=&quot;has-text-align-center&quot; data-align=&quot;center&quot;&gt; 中国 &lt;/td&gt; &lt;td class=&quot;has-text-align-right&quot; data-align=&quot;right&quot;&gt; 14,055.8 &lt;/td&gt; &lt;td class=&quot;has-text-align-right&quot; data-align=&quot;right&quot;&gt; -2.8% &lt;/td&gt; &lt;td class=&quot;has-text-align-right&quot; data-align=&quot;right&quot;&gt; 10.0% &lt;/td&gt; 17 &lt;td class=&quot;has-text-align-center&quot; data-align=&quot;center&quot;&gt; ロシア &lt;/td&gt; &lt;td class=&quot;has-text-align-right&quot; data-align=&quot;right&quot;&gt; 2,310.8 &lt;/td&gt; &lt;td class=&quot;has-text-align-right&quot; data-align=&quot;right&quot;&gt; -44.4% &lt;/td&gt; &lt;td class=&quot;has-text-align-right&quot; data-align=&quot;right&quot;&gt; 1.6% &lt;/td&gt; &lt;td class=&quot;has-text-align-center&quot; data-align=&quot;center&quot;&gt; &lt;/td&gt; &lt;td class=&quot;has-text-align-right&quot; data-align=&quot;right&quot;&gt; &lt;/td&gt; &lt;td class=&quot;has-text-align-right&quot; data-align=&quot;right&quot;&gt; &lt;/td&gt; &lt;td class=&quot;has-text-align-right&quot; data-align=&quot;right&quot;&gt; &lt;/td&gt; &lt;td class=&quot;has-text-align-center&quot; data-align=&quot;center&quot;&gt; EU-27 &lt;/td&gt; &lt;td class=&quot;has-text-align-right&quot; data-align=&quot;right&quot;&gt; 61,366.6 &lt;/td&gt; &lt;td class=&quot;has-text-align-right&quot; data-align=&quot;right&quot;&gt; 2.1% &lt;/td&gt; &lt;td class=&quot;has-text-align-right&quot; data-align=&quot;right&quot;&gt; 43.7% &lt;/td&gt; VDMA資料より作成 2022年1-9月期のEU内輸出は、614億ユーロ。これは、前年同期比名目+2.1％。
+輸出全体の43.7％を占めています。
+足元が最大地域というのは心強いですね。
+…</p>
+          </div>
+        </div>
+    
+      </a>
+    </article>
+    
+    <article class="post-entry">
+      <a href="/bauma2022-construction-machines-exhibition-high-light/" class="entry-card">
+    
+        
+          <div class="featured-image-wrapper">
+            <img src="/images/2022/11/baumaschine_compressor-2580482__480.jpg" alt="Bauma2022 建設機械展示会ハイライト" class="featured-image" />
+            
+              <div class="category-badge">イベント</div>
+            
+          </div>
+        
+    
+        <div class="entry-text">
+          <header class="entry-header">
+            <h2>Bauma2022 建設機械展示会ハイライト</h2>
+            <p class="post-date">2022-11-15</p>
+          </header>
+    
+          <div class="entry-content">
+            <p>Maschinenmarkt誌に建設機械の展示会特集があった
+Die Highlights von der Bauma 2022 in Bildern (Bild: Sandro Kipar/VCG) Egal ob große Baumaschinen oder kleine Steuereinheiten, die extreme Bedingungen aushalten müssen: auf der Bauma ist für jeden etwas dab... https://www.maschinenmarkt.vogel.de/die-highlights-von-der-bauma-2022-in-bildern-a-6759066bd81e48d13a0b77793f3ad5e2/ 開発のポイントは何か？ 環境保護の観点から
+カーボンニュートラル 遠隔操作（無人作業） 劣悪環境に耐える周辺装置 乗用車と方向性は同じだが
+パワーの必要な作業に従事する機械ならではの特徴もある
+Bauma　建設機械の展示会　ー　その概要 さて、いったいどういう展示会なのか？
+Baumaの英文サイトがありますので参照ください
+Experience the world&#39;s leading construction machinery trade fair - bauma bauma 2025: World&#39;s leading construction machinery trade fair ✓ 614,000 m² ✓ more than 3,200 international exhibitors ► Experience the heartbeat of our industry... https://bauma.de/en/ ミュンヘンの展示会場で開催されます
+…</p>
+          </div>
+        </div>
+    
+      </a>
+    </article>
+    
+    <article class="post-entry">
+      <a href="/historic-sales-record-for-the-trumpf-group-annual-report-2021-22/" class="entry-card">
+    
+        
+          <div class="featured-image-wrapper">
+            <img src="/images/2022/11/Trumpf_annual_report_2021_22.jpg" alt="Trumpf　過去最高の売上高　2021/22決算" class="featured-image" />
+            
+              <div class="category-badge">ドイツ</div>
+            
+          </div>
+        
+    
+        <div class="entry-text">
+          <header class="entry-header">
+            <h2>Trumpf　過去最高の売上高　2021/22決算</h2>
+            <p class="post-date">2022-11-04</p>
+          </header>
+    
+          <div class="entry-content">
+            <p>Maschinenmarkt誌の2022/10/28付にその記事が公開されている
+Historischer Umsatzrekord für die Trumpf-Gruppe (Bild: Trumpf) Die Trumpf-Gruppe verzeichnet im Geschäftsjahrs 2021/22 ein Plus vn 20,5 Prozent auf 4,2 Milliarden Euro und damit den bisher höchsten Umsatz der... https://www.maschinenmarkt.vogel.de/historischer-umsatzrekord-fuer-die-trumpf-gruppe-a-23161dfa19aa61dda4fc4bf95d02c936/ ドイツのTrumpf社の会計年度は、7月1日から翌年の6月30日まで
+その決算書が10月に公開された
+記事ソースはTrumpfのプレスリリースなので、そっちを見てもらってもいいですね
+https://www.trumpf.com/filestorage/TRUMPF_Master/Corporate/Newsroom/Press_releases/2022_23/Corporate/221027-PR-TRUMPF-FiscalYear-2021-22/20221027-PR-TRUMPF-Fiscal-Year-2021-22.pdf
+コロナ禍でも史上最高の売上高を達成 売上高が、42億2300万ユーロだったので
+現在のレートで円換算すると約6110億円ということになります
+創業99年だそうですが、受注は55億7700万ユーロ（約8070億円）あったので
+創業100周年は、良い成績のまま迎えられそうです
+決算概要 {.wp-block-heading} &lt;td&gt; &lt;/td&gt; &lt;td&gt; 2021/2022 &lt;/td&gt; &lt;td&gt; 前年比 &lt;/td&gt; &lt;td&gt; 2020/2021 &lt;/td&gt; 売上 &lt;td&gt; 百万ユーロ &lt;/td&gt; &lt;td&gt; 4,223 &lt;/td&gt; &lt;td&gt; 20.5% &lt;/td&gt; &lt;td&gt; 3,505 &lt;/td&gt; 部門別 &lt;td&gt; Machine Tool &lt;/td&gt; &lt;td&gt; 2,289 &lt;/td&gt; &lt;td&gt; 12.2% &lt;/td&gt; &lt;td&gt; 2,039 &lt;/td&gt; &lt;td&gt; Laser Technology &lt;/td&gt; &lt;td&gt; 1,609 &lt;/td&gt; &lt;td&gt; 21.7% &lt;/td&gt; &lt;td&gt; 1,322 &lt;/td&gt; &lt;td&gt; EUV &lt;/td&gt; &lt;td&gt; 795 &lt;/td&gt; &lt;td&gt; 81.6% &lt;/td&gt; &lt;td&gt; 437 &lt;/td&gt; 国別 &lt;td&gt; NL &lt;/td&gt; &lt;td&gt; 838 &lt;/td&gt; &lt;td&gt; 81.9% &lt;/td&gt; &lt;td&gt; 461 &lt;/td&gt; &lt;td&gt; USA &lt;/td&gt; &lt;td&gt; 656 &lt;/td&gt; &lt;td&gt; 35.4% &lt;/td&gt; &lt;td&gt; &lt;/td&gt; &lt;td&gt; GER &lt;/td&gt; &lt;td&gt; 589 &lt;/td&gt; &lt;td&gt; 1.6% &lt;/td&gt; &lt;td&gt; 579 &lt;/td&gt; &lt;td&gt; CN &lt;/td&gt; &lt;td&gt; 575 &lt;/td&gt; &lt;td&gt; 9.6% &lt;/td&gt; &lt;td&gt; 525 &lt;/td&gt; 受注 &lt;td&gt; 百万ユーロ &lt;/td&gt; &lt;td&gt; 5,577 &lt;/td&gt; &lt;td&gt; 42.1% &lt;/td&gt; &lt;td&gt; 3,925 &lt;/td&gt; EBIT &lt;td&gt; 百万ユーロ &lt;/td&gt; &lt;td&gt; 468 &lt;/td&gt; &lt;td&gt; 26.8% &lt;/td&gt; &lt;td&gt; 370 &lt;/td&gt; 従業員 &lt;td&gt; 人 &lt;/td&gt; &lt;td&gt; 16,554 &lt;/td&gt; &lt;td&gt; &lt;/td&gt; &lt;td&gt; 14,767 &lt;/td&gt; ＊EBIT：利払前・税引前利益 &lt;td&gt; &lt;/td&gt; &lt;td&gt; &lt;/td&gt; &lt;td&gt; &lt;/td&gt; &lt;td&gt; &lt;/td&gt; Trumpfの決算報告書をベースに作成 EUVビジネスフィールドが売上に大きく貢献 EUVは、Extreme Ultra Violetの略。極端紫外線のことですが
+主に、半導体製造装置のリソグラフィ用光源として最近使われているものです
+…</p>
+          </div>
+        </div>
+    
+      </a>
+    </article>
+    
+    <article class="post-entry">
+      <a href="/mm-china-market-insider-2022-10-26/" class="entry-card">
+    
+        
+          <div class="featured-image-wrapper">
+            <img src="/images/2022/11/mm_china_market_insider.jpeg" alt="【MM】China market insider 2022/10/26" class="featured-image" />
+            
+              <div class="category-badge">中国</div>
+            
+          </div>
+        
+    
+        <div class="entry-text">
+          <header class="entry-header">
+            <h2>【MM】China market insider 2022/10/26</h2>
+            <p class="post-date">2022-10-31</p>
+          </header>
+    
+          <div class="entry-content">
+            <p>Maschinenmarkt誌のシリーズ、China market insiderに
+党大会を終えた習近平発言が取り上げられている
+ドイツの産業界は、今後の中国が取る政策をどう見たのだろう？
+Was Unternehmen von der aktuellen China-Politik erwarten müssen (Bild: © Eisenhans - stock.adobe.com) Aktuelle Äußerungen von Chinas Staatschefs Xi Jinping deuten auf eine rückwärtsgewandte Entwicklung bei der Wirtschaftspol... https://www.maschinenmarkt.vogel.de/was-unternehmen-von-der-aktuellen-china-politik-erwarten-muessen-a-5ef3e8c41086c695e59a61f5434da52d/?cmp=nl-97&amp;#038;uuid=59f81756f7bccffdf98785bb65dd9f7 ゼロコロナ政策堅持 何よりゼロコロナ政策の維持、これが重くのしかかる
+とても悲観的なコメントになっている
+経済的に困難な状況が広がりを見せている中国
+第20回共産党大会を終えて、異例の第3期に突入した党書紀・首相の発言は
+経済成長を全く気にしないという意志の表れなんだろうか？
+経済専門家は、今年第3四半期の成長率を3％程度と見ている
+Bloombergは、3.3％と予測している
+他のアジアの国の経済成長が中国を上回る 中国は、今年の経済成長を5.5％と想定しているが
+その実現は無理だろう
+世界銀行によれば、中国を除くアジアの成長率は5.3％と見込まれており
+ここ最近では初めて、中国以外のアジアの成長が中国を上回ることになりそうだ
+党大会を終えての習近平総書記の演説内容 柔軟性のシグナルを期待していたが、その期待は裏切られた
+柔軟性と言っているのは
+経済成長を必要と判断して、現状の厳しい制限を柔軟に運用するということ
+しかし、演説で言ったことは・・・
+ゼロコロナ政策は全く正しい
+多くの人民の命を救っているし、国際的にも高く評価されている
+中国駐在のドイツ、欧州の経済界代表は
+3年にも及ぶ隔絶された中国、1週間以上の隔離を緩和して欲しいと思っており
+中国以外の国々は新型コロナとの共生を始めているが、中国だけは違う
+そういう風に考えている
+習総書記が言った
+ウイルスとの戦いは「ダイナミックに」行われなければならない
+良くは分からないが
+これが唯一裏口を開けたままにした発言だったと解釈し
+既に隔離期間が短縮されるのではないかという憶測さえ流れているそうだ
+EU商工会議所北京事務所は、演説を聞いて
+経済成長と安定を犠牲にしている、と表現している
+自給自足は中国にとって重要な目標であることに変わりない 米国との経済・テクノロジー戦争の影響もあって
+独自の開発を余儀なくされた面もあるが
+中国は
+半導体、電気自動車、AI、再生可能エネルギー、自動化、ロボット
+などのハイテク産業に注力することになる
+それはドイツにとっても悪いことではない
+中国政府が潤沢な補助金を出すことは
+ドイツにとって大きなビジネスチャンスだからだ
+…</p>
+          </div>
+        </div>
+    
+      </a>
+    </article>
+    
+    <article class="post-entry">
+      <a href="/mm-china-market-insider-2022-10-19/" class="entry-card">
+    
+        
+          <div class="featured-image-wrapper">
+            <img src="/images/2022/10/robot_world_report_2022.jpg" alt="【MM】China Market Insider　2022/10/19" class="featured-image" />
+            
+              <div class="category-badge">中国</div>
+            
+          </div>
+        
+    
+        <div class="entry-text">
+          <header class="entry-header">
+            <h2>【MM】China Market Insider　2022/10/19</h2>
+            <p class="post-date">2022-10-29</p>
+          </header>
+    
+          <div class="entry-content">
+            <p>China Market Insider っていうのを専門誌のMaschinenmarkt（MM)が特集している
+2022年10月19日付が今回のもの
+Die jüngsten Trends beim Thema Smart Manufacturing (Bild: © Eisenhans - stock.adobe.com) Die Automatisierung der chinesischen Fertigungsindustrie macht weiter schnelle Fortschritte – trotz der vielen Corona-Lock... https://www.maschinenmarkt.vogel.de/die-juengsten-trends-beim-thema-smart-manufacturing-a-1d02767eedb582cf89a3cbe501bd0f39/?cmp=nl-97&amp;#038;uuid=59f81756f7bccffdf98785bb65dd9f7e スマートマニュファクチャリングでの最近のトレンド
+それが今回の切り口だ
+Robotはどれくらい普及しているのか？ ロボットの導入状況をスマートマニュファクチャリングを測る尺度にしている
+２０２１年にインストールされたロボットは
+「World Robotics 2022」というレポートによると
+世界中で５１万７千台。前年比＋３１％ 史上最高のインストール台数 ２０１６－２０２１年平均で毎年＋１１％の伸び これまでの累計インストール台数は、３５０万台 これが全体の数字
+中国のロボット普及は？ 何と2021年に納入されたロボットは半分以上が中国
+２６万８千台
+世界中にインストールされたロボット全部の半分以上って凄すぎる
+2位は日本だけど、中国がダントツの1位
+World Robotics 2022から抜粋
+「World Robotics 2022」の詳細が見たい？ 詳細が見たい人は、下のリンクから入手してください
+「World Robotics 2022」
+International Federation of Robotics (IFR)
+…</p>
+          </div>
+        </div>
+    
+      </a>
+    </article>
+    
+    <article class="post-entry">
+      <a href="/dmg-mori-dmu600-gantry-linear/" class="entry-card">
+    
+        
+          <div class="featured-image-wrapper">
+            <img src="/images/2022/10/dmu600mod.jpg" alt="DMG MoriのDMU600 Gantry linear" class="featured-image" />
+            
+              <div class="category-badge">工作機械</div>
+            
+          </div>
+        
+    
+        <div class="entry-text">
+          <header class="entry-header">
+            <h2>DMG MoriのDMU600 Gantry linear</h2>
+            <p class="post-date">2022-10-23</p>
+          </header>
+    
+          <div class="entry-content">
+            <p>ドイツの専門誌mavにAudiの金型部門に納入されたDMU600 Gantry linearの記事が掲載された
+https://mav.industrie.de/fertigung/maschinen/innovativer-dreiklang/#slider-intro-6 https://mav.industrie.de/fertigung/maschinen/innovativer-dreiklang/#slider-intro-6 エンドユーザであるAudiがDMG Moriと連携して開発した
+それだけなら特別でもないが
+スライドカバーメーカの協力が無ければ実現は難しかった
+Audiが欲しかった機械は？ Audiの本社工場Neckersulmの金型部門に
+フォルクスワーゲングループで最速・最高精度の大物ワーク加工機を導入する
+それを実現するには新しく機械を開発する必要があった
+どんな機械が必要かを協議した結果
+ガントリータイプの機械 高速な仕上げプロセス 高い形状精度 手作業による修正工程を大幅に短縮して、ホンモノの生産性向上を達成することを目指した
+問題は、そんな機械が現実的に存在しないことだった
+業界で経験とノウハウを持つパートナーとの連携が必要だという結論になった
+DMG Moriに話を持ちかけた 要求仕様書に基づいて開発を担当したのは
+Deckel Maho Pfronten GmbHの開発グループだった
+その方針は
+DMU Gantry linearをベースに、最高の面粗度をこれまでに無かった速度で実現する 3 m/s2が可能なリニアモータ駆動の採用 機械構造の静的・動的剛性を強化 広範な温度管理による温度変化対応 DMU Gantry linearというのはどんな機械か？
+下の動画を見てください
+DMU 600 Gantry linear の構造・仕様は
+Xが固定のベッド Y軸は一体もののコラム 横の壁は基礎の一部で、強化コンクリート製 最大ワーク荷重：150 t テーブルサイズ：5000 x 3000 mm 加工範囲：6000 x 3500 mm ラムは干渉を抑えた構造で最大ストローク 2000 mm（オプション） 主軸： 12000 min-1/300 Nm ギヤ主軸 max. 1445 Nm モータ主軸　max. 28000 min-1 ヘッドチェンジャ C/Aヘッド C/Bヘッド リニアモータは良いけど・・・ リニアモータはかなり強力な永久磁石を使うので
+切粉からしっかり保護する必要がある
+…</p>
+          </div>
+        </div>
+    
+      </a>
+    </article>
+    
+  </div>
+
+  
+    <footer class="page-footer">
+      
+    <ul class="pagination pagination-default">
+      <li class="page-item">
+        <a href="/tags/%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88/" aria-label="First" class="page-link" role="button"><span aria-hidden="true">&laquo;&laquo;</span></a>
+      </li>
+      <li class="page-item">
+        <a href="/tags/%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88/" aria-label="Previous" class="page-link" role="button"><span aria-hidden="true">&laquo;</span></a>
+      </li>
+      <li class="page-item">
+        <a href="/tags/%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88/" aria-label="Page 1" class="page-link" role="button">1</a>
+      </li>
+      <li class="page-item active">
+        <a aria-current="page" aria-label="Page 2" class="page-link" role="button">2</a>
+      </li>
+      <li class="page-item">
+        <a href="/tags/%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88/page/3/" aria-label="Page 3" class="page-link" role="button">3</a>
+      </li>
+      <li class="page-item">
+        <a href="/tags/%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88/page/4/" aria-label="Page 4" class="page-link" role="button">4</a>
+      </li>
+      <li class="page-item">
+        <a href="/tags/%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88/page/3/" aria-label="Next" class="page-link" role="button"><span aria-hidden="true">&raquo;</span></a>
+      </li>
+      <li class="page-item">
+        <a href="/tags/%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88/page/4/" aria-label="Last" class="page-link" role="button"><span aria-hidden="true">&raquo;&raquo;</span></a>
+      </li>
+    </ul>
+    </footer>
+  
+
+  <footer class="site-footer">
+    <p>&copy; 2025 工作機械はおもしろい. All rights reserved.</p>
+  </footer>
+  
+</body>
+</html>

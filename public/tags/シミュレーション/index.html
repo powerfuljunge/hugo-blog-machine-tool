@@ -1,0 +1,522 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="noindex, nofollow">
+<title>シミュレーション | 工作機械はおもしろい</title>
+
+<link rel="stylesheet" href="/css/custom.css">
+<meta name="keywords" content="">
+<meta name="description" content="">
+<meta name="author" content="">
+<link rel="canonical" href="http://localhost:1313/tags/%E3%82%B7%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/">
+
+<script defer src="/js/custom-search.js"></script>
+
+
+  <link crossorigin="anonymous" href="/assets/css/stylesheet.f49d66caae9ea0fd43f21f29e71a8d3e284517ed770f2aa86fa012953ad3c9ef.css" integrity="sha256-9J1myq6eoP1D8h8p5xqNPihFF&#43;13Dyqob6ASlTrTye8=" rel="preload stylesheet" as="style">
+<link rel="icon" href="http://localhost:1313/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/favicon-32x32.png">
+<link rel="apple-touch-icon" href="http://localhost:1313/apple-touch-icon.png">
+<link rel="mask-icon" href="http://localhost:1313/safari-pinned-tab.svg">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<link rel="alternate" type="application/rss+xml" href="http://localhost:1313/tags/%E3%82%B7%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/index.xml">
+<link rel="alternate" hreflang="ja" href="http://localhost:1313/tags/%E3%82%B7%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/">
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+    <style>開発者ツールの Elements > <head> セクション で、以下のような記述があるか確認してください：
+
+        html
+        ￼Copy
+        ￼Edit
+        <link rel="stylesheet" href="/css/custom.css">
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --theme: rgb(29, 30, 32);
+                --entry: rgb(46, 46, 51);
+                --primary: rgb(218, 218, 219);
+                --secondary: rgb(155, 156, 157);
+                --tertiary: rgb(65, 66, 68);
+                --content: rgb(196, 196, 197);
+                --code-block-bg: rgb(46, 46, 51);
+                --code-bg: rgb(55, 56, 62);
+                --border: rgb(51, 51, 51);
+            }
+
+            .list {
+                background: var(--theme);
+            }
+
+            .list:not(.dark)::-webkit-scrollbar-track {
+                background: 0 0;
+            }
+
+            .list:not(.dark)::-webkit-scrollbar-thumb {
+                border-color: var(--theme);
+            }
+        }
+
+    </style>
+</noscript>
+</head>
+<body>
+  
+<script>
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.body.classList.add('dark');
+    } else if (localStorage.getItem("pref-theme") === "light") {
+        document.body.classList.remove('dark')
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.body.classList.add('dark');
+    }
+
+</script>
+
+<header class="header">
+    <nav class="nav">
+        <div class="logo">
+            <a href="http://localhost:1313/" accesskey="h" title="工作機械はおもしろい (Alt + H)">工作機械はおもしろい</a>
+            <div class="logo-switches">
+                <button id="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="Toggle theme">
+                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
+            </div>
+        </div>
+        <ul id="menu">
+            <li>
+                <a href="http://localhost:1313/" title="ホーム">
+                    <span>ホーム</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/terms-of-service/" title="特商法表記">
+                    <span>特商法表記</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+
+  
+  <div class="post-list">
+    
+    
+    <article class="post-entry">
+      <a href="/posts/test1/" class="entry-card">
+    
+        
+          <div class="featured-image-wrapper">
+            <img src="/images/profile-copy.jpg" alt="サンプル記事" class="featured-image" />
+            
+              <div class="category-badge">住宅</div>
+            
+          </div>
+        
+    
+        <div class="entry-text">
+          <header class="entry-header">
+            <h2>サンプル記事</h2>
+            <p class="post-date">2025-05-05</p>
+          </header>
+    
+          <div class="entry-content">
+            <p>本文がここに入ります。
+</p>
+          </div>
+        </div>
+    
+      </a>
+    </article>
+    
+    <article class="post-entry">
+      <a href="/posts/test-d/" class="entry-card">
+    
+        
+    
+        <div class="entry-text">
+          <header class="entry-header">
+            <h2>土地探しのポイント</h2>
+            <p class="post-date">2025-05-04</p>
+          </header>
+    
+          <div class="entry-content">
+            <p>良い土地を見つけるために押さえるべき条件や注意点を紹介します。
+</p>
+          </div>
+        </div>
+    
+      </a>
+    </article>
+    
+    <article class="post-entry">
+      <a href="/posts/test-c/" class="entry-card">
+    
+        
+    
+        <div class="entry-text">
+          <header class="entry-header">
+            <h2>ローン返済のシミュレーション</h2>
+            <p class="post-date">2025-05-03</p>
+          </header>
+    
+          <div class="entry-content">
+            <p>ローン返済を想定した具体的なシミュレーションを紹介します。
+</p>
+          </div>
+        </div>
+    
+      </a>
+    </article>
+    
+    <article class="post-entry">
+      <a href="/posts/test-b/" class="entry-card">
+    
+        
+    
+        <div class="entry-text">
+          <header class="entry-header">
+            <h2>間取り設計のヒント</h2>
+            <p class="post-date">2025-05-02</p>
+          </header>
+    
+          <div class="entry-content">
+            <p>失敗しない間取りのために押さえておきたい設計の考え方をまとめました。
+</p>
+          </div>
+        </div>
+    
+      </a>
+    </article>
+    
+    <article class="post-entry">
+      <a href="/posts/test/" class="entry-card">
+    
+        
+    
+        <div class="entry-text">
+          <header class="entry-header">
+            <h2>テスト記事</h2>
+            <p class="post-date">2025-05-01</p>
+          </header>
+    
+          <div class="entry-content">
+            <p>これはテスト記事の本文です。
+</p>
+          </div>
+        </div>
+    
+      </a>
+    </article>
+    
+    <article class="post-entry">
+      <a href="/posts/test-a/" class="entry-card">
+    
+        
+    
+        <div class="entry-text">
+          <header class="entry-header">
+            <h2>住宅ローンの基礎知識</h2>
+            <p class="post-date">2025-05-01</p>
+          </header>
+    
+          <div class="entry-content">
+            <p>住宅ローンを組む際に知っておくべき基本的なポイントを解説します。
+</p>
+          </div>
+        </div>
+    
+      </a>
+    </article>
+    
+    <article class="post-entry">
+      <a href="/the-airless-brake-is-available-for-all-categories-of-rail-vehicles/" class="entry-card">
+    
+        
+          <div class="featured-image-wrapper">
+            <img src="/images/2023/04/wheel-1957586__480.jpg" alt="ドイツ・イノベーションアワード2023" class="featured-image" />
+            
+              <div class="category-badge">ドイツ</div>
+            
+          </div>
+        
+    
+        <div class="entry-text">
+          <header class="entry-header">
+            <h2>ドイツ・イノベーションアワード2023</h2>
+            <p class="post-date">2023-04-30</p>
+          </header>
+    
+          <div class="entry-content">
+            <p>ドイツでイノベーションっていうと
+どんな技術に注目が集まるのか気になるところです。
+まず、そもそもイノベーションって何か？
+気になるのは私だけ？
+イノベーションに関する考察 日経ビジネスの記事がありました。
+シュンペーターとは？　イノベーション理論の実践例から考察する イノベーション理論を提唱した、20世紀前半を代表する経済学者「ヨーゼフ・シュンペーター」。彼が示したイノベーションの概念は、21世紀の現代においても世界中の企業経営者たちによって実践されている。この記事ではそうした事例やシュンペーターにまつわる話題を過去記事から振り返る。 https://business.nikkei.com/atcl/gen/19/00081/021600322/ シュンペーターっていう名前が登場している。
+経済学者のイメージしかなくて、イノベーションには結びついていなかった。
+シュンペーターが提唱した「イノベーション理論」というのがあって
+ここでいうイノベーションは
+技術革新に限らず
+社会に新たな価値をもたらす創造であればすべてがイノベーションであるという。
+ドイツ・イノベーションアワード　2023 ドイツ語のサイトは↓↓↓
+Der Deutsche Innovationspreis – Preisverleihung 2025 - Der Deutsche Innovationspreis https://der-deutsche-innovationspreis.de/ 2023年の受賞企業は以下のとおりです。
+大企業部門：Siemens Mobility
+圧縮空気を使わない鉄道車両ブレーキ
+これで150年来の技術に終止符を打った。 中企業部門：ibs
+このセメント添加剤　NovoCrete　は、
+路面の耐久性を高め、建設期間を短縮し、コスト、建設中の騒音公害を軽減する。 スタートアップ部門：LUBIS EDA GmbH
+開発したのは
+半導体の製造において、バグとも呼ばれるエラーの検索を容易にするソフトウェア。 Siemensの圧縮空気を使わない鉄道車両ブレーキ 鉄道ブレーキの歴史 鉄道のブレーキの歴史をある程度は知らないと、何が革新的なのか理解ができない。
+簡易な説明の方が理解しやすい、と思って見つけたのが以下のサイト↓↓↓
+&amp;#37444;&amp;#36947;&amp;#36554;&amp;#20001;&amp;#12398;&amp;#12502;&amp;#12524;&amp;#12540;&amp;#12461;&amp;#12398;&amp;#27497;&amp;#12415; http://ktymtskz.my.coocan.jp/asakura/e8.htm 図があるから分かりやすいでしょ？
+確かにエアを使ってブレーキシューを動かす仕組みは変わっていない。
+Siemens Mobilityが開発したエアレスブレーキシステム 特徴として挙げられているのは
+最大40％軽量化され、消費電力が少なくなっている。 システムが取り扱いやすくなり、さまざまな労力が軽減される。 組み立て メンテナンス 列車のアップグレード時間 ブレーキアクチュエータに搭載されたセンサーが、実際のブレーキ力を記録する。
+これにより、いままで以上に正確なブレーキ力の制御が可能になる。 エアレスブレーキは、すべてのカテゴリーの鉄道車両に使用することができる。
+実績としては、2022年からWiener LinienのX-carに標準採用されている。
+関連サイトなど The new air-free brake system from Siemens Brakes（英語）
+https://www.mobility.siemens.com/global/en/portfolio/rail/stories/the-new-airfree-brake-system.html
+ドイツ語
+https://www.mobility.siemens.com/global/de/portfolio/schiene/storys/the-new-airfree-brake-system.html
+Liebherrのプレスリリース：
+https://www.liebherr.com/de/deu/aktuelles/news-pressemitteilungen/detail/liebherr-an-bord-des-neuen-druckluftfreien-bremssystems-von-siemens.html
+Siemensの開発者は何を思っているか Siemensの前出のサイトに質疑応答があります。
+…</p>
+          </div>
+        </div>
+    
+      </a>
+    </article>
+    
+    <article class="post-entry">
+      <a href="/%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0%E3%81%AE%E6%8A%80%E8%A1%93%E8%80%85%E4%B8%8D%E8%B6%B3%E3%81%AF%E4%BD%95%E3%81%A7%EF%BC%9F-vdw%E3%83%97%E3%83%AC%E3%82%B9%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9/" class="entry-card">
+    
+        
+          <div class="featured-image-wrapper">
+            <img src="/images/2023/03/milling-1151344__480.jpg" alt="工作機械の技術者不足は何で？ VDWプレスリリースから" class="featured-image" />
+            
+              <div class="category-badge">工作機械</div>
+            
+          </div>
+        
+    
+        <div class="entry-text">
+          <header class="entry-header">
+            <h2>工作機械の技術者不足は何で？ VDWプレスリリースから</h2>
+            <p class="post-date">2023-03-03</p>
+          </header>
+    
+          <div class="entry-content">
+            <p>いよいよ2023年も3月になって
+2022年の総括から今年の動向に話題が移りだすタイミングです。
+それにしても、コロナ禍による**心理的影響**はものすごい。
+人間の行動がこうも制限されると
+一気に世の中が変わってしまう。
+グローバルになった世界を、一発でぶち壊してしまった。
+いや、グローバルになったために
+地域限定で発生したものが
+あっという間に世界に広がったというべきか。
+ドイツ工作機械連盟（VDW）プレスリリース　2023年2月9日付 ドイツ工作機械連盟（VDW）が2023年2月9日付で公表した
+Franz-Xaver Bernhard会長のコメント。
+大見出し：
+Werkzeugmaschinenindustrie erwartet 2023 Produktionswachstum
+Hersteller vorsichtig optimistisch – Branche muss Aus- und Weiterbildung stärken
+工作機械業界は、2023年 生産の伸びを期待している
+メーカーは、慎重に楽観視 – 業界はトレーニングと継続教育の強化が必要
+小見出し1：
+2022 zweistellig gewachsen
+2022年は2桁の成長だった
+2桁って何が？
+これは生産のこと。
+ガタガタになったサプライチェーンが動き出して
+生産がようやく伸びてきた、っていう意味。
+小見出し2：
+Fachkräfte besser aus- und weiterbilden
+熟練工のためのより良いトレーニングと継続教育
+これはずっと言われ続けてることでもあるが
+製造業の熟練技能者不足が深刻になっていることを意味する。
+要するに 受注の見通しは
+2023年前半で見れば、まだはっきりしないけど
+とりあえずは受注残が12ヶ月分あるから
+メーカは悲観的にならずにいられる
+それよりも大きな問題は
+若い人が工作機械産業で働きたくないって言ってること。
+工作機械は若者に人気がない？ 設計者はドラフターなんて使わなくなった。
+CADで設計するのが当たり前になって
+パソコンの前で、モデルをくるくる回してる方が
+ドラフターに鉛筆で線引いているよりかっこいい。
+そう思ってるんだろうなー。
+CADだってソフトがどんどん変わるから
+それについていくので精一杯で
+変わらないものとか変わっちゃいけないものに
+気がつかないまま、振り回されるだけ・・・
+ドラフターだってCADだって
+所詮は、道具にすぎないんだよ。
+…</p>
+          </div>
+        </div>
+    
+      </a>
+    </article>
+    
+    <article class="post-entry">
+      <a href="/machinery-and-plant-engineering-sector-under-structural-deficits-for-some-time/" class="entry-card">
+    
+        
+          <div class="featured-image-wrapper">
+            <img src="/images/2023/02/Bainco_0109492979.jpeg" alt="ドイツの機械設備産業は存亡の危機にある" class="featured-image" />
+            
+              <div class="category-badge">スイス</div>
+            
+          </div>
+        
+    
+        <div class="entry-text">
+          <header class="entry-header">
+            <h2>ドイツの機械設備産業は存亡の危機にある</h2>
+            <p class="post-date">2023-02-05</p>
+          </header>
+    
+          <div class="entry-content">
+            <p>これはコンサルティング会社Bain &amp; Companyがまとめた報告書です。
+DACH地域とひとまとめにされるのは、D（ドイツ）、A（オーストリア）、CH（スイス）のことです。
+USA、中国との比較で分析されています。
+（出典：Bain &amp; Company)
+注１）DACHは、D（ドイツ）、A（オーストリア）、CH（スイス）
+注２）調査対象：機械設備産業に従事する２０２１年の売上高１億ユーロ以上の企業
+全体で２１９社。内訳は、DACH５７社、USA９９社、中国６３社。
+注３）分類を分かりやすいように意訳すると
+Krisenchampions（危機チャンピオン）：賢い
+Solide finanziert, flexible Kostenstruktur：やりくり上手、コスト意識高い
+Kapitalstarke Unternehmen（財務体質が強い企業）：贅沢
+Solide finanziert, aber Schwächen auf Kostenseite：お金持ち、コスト意識低い
+Wackelkandidaten（不安定企業候補）：微妙
+Auf Kostenseite gut aufgestellt, aber hohe Verschuldung belastet：コスト意識あり、負債多い
+Krisenkandidaten（危機企業候補）：ヤバい
+Hohes Risiko aufgrund starrer Kostenstruktur und hoher Verschuldung：コスト意識低い、負債多い。リスク大。
+DACHの厳しい現状 機械・プラントメーカは、あまり危機感を持っていない。
+それは、現状の受注残が高いレベルにあるからです。
+しかし、世界的な景気後退が予見されており、その影響の兆しが見え始めています。
+ドイツ、オーストリア、スイス企業の**28％が危機的状況**にあるとレポートでは分析されています。
+課題への取り組みを怠らないことが、今後非常に重要になってきます。
+DACH地域の機械・プラント関連企業は、しばらくの間、構造的な問題に悩まされてきた。
+短期間に2度目の例外的とも言える経済状況の煽りを受けて、一部の企業にとってはこれがアキレス腱となる可能性がある。
+特に、硬直的なコスト構造が不利だという。
+USA企業は不況の時に実力を発揮する 一方で、アメリカ企業は、不況になってもコスト調整を素早くすることができる。
+米国機械メーカの2021年の**利益（EBIT）は平均13.1％**あり、DACH企業の9.3％と比べると大きな差がある。
+注）EBITは、Earnings Before Interest, Taxes。支払利息と税金の影響を除いた企業の利益のこと。
+…</p>
+          </div>
+        </div>
+    
+      </a>
+    </article>
+    
+    <article class="post-entry">
+      <a href="/maschinen-check-best-10-milling-machine-by-fertigung-magazine/" class="entry-card">
+    
+        
+          <div class="featured-image-wrapper">
+            <img src="/images/2023/01/grob_platz-1-grob-g150-e667b62f.webp" alt="ベスト10 工作機械 ミリングマシン部門@2023/1/16" class="featured-image" />
+            
+              <div class="category-badge">工作機械</div>
+            
+          </div>
+        
+    
+        <div class="entry-text">
+          <header class="entry-header">
+            <h2>ベスト10 工作機械 ミリングマシン部門@2023/1/16</h2>
+            <p class="post-date">2023-01-17</p>
+          </header>
+    
+          <div class="entry-content">
+            <p>Produktion誌で見つけた記事。
+やはり、工作機械そのものが登場すると、とっても気になります。
+https://www.produktion.de/technik/das-sind-die-top-10-fraesmaschinen-789.html https://www.produktion.de/technik/das-sind-die-top-10-fraesmaschinen-789.html いきなりですが、順位の発表です。
+第一位 Grob G150 2020年に発売されたG150は、既に実績のあるGシリーズがベースで
+それに加えた特徴は：
+高い動的性能 全ての主要ユニットを最適化して、高い動的性能を実現した 高精度 多様なアプリケーションに対応 その他
+様々な自動化機器を用意 段取り替えが容易 最新の機械制御 サービス対応：24時間/365日 スペアパーツの提供や環境は模範的 スペアパーツはGrob4Careウェブショップで直接注文することができ、遅くとも6時間以内に発送される。 出典：Grob
+第二位 Heller HF3500 何が素晴らしいかというと
+Z軸の高い動的性能 加工位置の最適化 新世代の自社製ゼロスピンドル 精密加工用のトリミング 顧客が自由に選択できる機械構成パッケージ 出典：Heller
+第三位 DMG森 DMU 65 Monoblock DMU 65 Monoblockの特徴は、非常に高い汎用性だ。
+その特徴は
+FEM解析による高剛性マシンフレーム ローディングと操作に優れたアクセス性 ユーザーフレンドリーな軸コンセプト 熱の影響を受けるすべてのユニットの高い抗熱変異性 優れた操作ガイダンス 企業内データシステムへのデータ結合 出典：DMG森
+…</p>
+          </div>
+        </div>
+    
+      </a>
+    </article>
+    
+  </div>
+
+  
+    <footer class="page-footer">
+      
+    <ul class="pagination pagination-default">
+      <li class="page-item disabled">
+        <a aria-disabled="true" aria-label="First" class="page-link" role="button" tabindex="-1"><span aria-hidden="true">&laquo;&laquo;</span></a>
+      </li>
+      <li class="page-item disabled">
+        <a aria-disabled="true" aria-label="Previous" class="page-link" role="button" tabindex="-1"><span aria-hidden="true">&laquo;</span></a>
+      </li>
+      <li class="page-item active">
+        <a aria-current="page" aria-label="Page 1" class="page-link" role="button">1</a>
+      </li>
+      <li class="page-item">
+        <a href="/tags/%E3%82%B7%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/page/2/" aria-label="Page 2" class="page-link" role="button">2</a>
+      </li>
+      <li class="page-item">
+        <a href="/tags/%E3%82%B7%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/page/3/" aria-label="Page 3" class="page-link" role="button">3</a>
+      </li>
+      <li class="page-item">
+        <a href="/tags/%E3%82%B7%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/page/4/" aria-label="Page 4" class="page-link" role="button">4</a>
+      </li>
+      <li class="page-item">
+        <a href="/tags/%E3%82%B7%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/page/5/" aria-label="Page 5" class="page-link" role="button">5</a>
+      </li>
+      <li class="page-item">
+        <a href="/tags/%E3%82%B7%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/page/2/" aria-label="Next" class="page-link" role="button"><span aria-hidden="true">&raquo;</span></a>
+      </li>
+      <li class="page-item">
+        <a href="/tags/%E3%82%B7%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/page/5/" aria-label="Last" class="page-link" role="button"><span aria-hidden="true">&raquo;&raquo;</span></a>
+      </li>
+    </ul>
+    </footer>
+  
+
+  <footer class="site-footer">
+    <p>&copy; 2025 工作機械はおもしろい. All rights reserved.</p>
+  </footer>
+  
+</body>
+</html>

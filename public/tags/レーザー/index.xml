@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>レーザー on 工作機械はおもしろい</title>
+    <link>http://localhost:1313/tags/%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC/</link>
+    <description>Recent content in レーザー on 工作機械はおもしろい</description>
+    <generator>Hugo -- 0.147.0</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Sun, 01 Jan 2023 14:38:47 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>百万個の穴を開ける　- ドリルがへたるｗｗｗ</title>
+      <link>http://localhost:1313/million-holes-with-ultrashort-pulse-laser-drilling/</link>
+      <pubDate>Sun, 01 Jan 2023 14:38:47 +0000</pubDate>
+      <guid>http://localhost:1313/million-holes-with-ultrashort-pulse-laser-drilling/</guid>
+      <description>&lt;p&gt;2022年12月のMaschinenmarkt誌で年間人気記事に選ばれていたものです&lt;/p&gt;
+&lt;div class=&#34;blogcard&#34;&gt;
+    &lt;a href=&#34;https://www.maschinenmarkt.vogel.de/wie-man-eine-million-loecher-bohrt-a-1089416/?cmp=nl-97&amp;amp;#038;uuid=59f81756f7bccffdf98785bb65dd9f7e&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+      &lt;div class=&#34;blogcard-container&#34;&gt;
+        &lt;div class=&#34;blogcard-info&#34;&gt;
+          &lt;div class=&#34;blogcard-title&#34;&gt;Wie man eine Million Löcher bohrt&lt;/div&gt;
+          &lt;div class=&#34;blogcard-description&#34;&gt;Der Laser ist das Werkzeug der Wahl, wenn es darum geht, eine große Zahl von gleichartigen Löchern nebeneinander zu bohren. Aber welches Lasersystem ist dann am...&lt;/div&gt;
+          &lt;div class=&#34;blogcard-url&#34;&gt;https://www.maschinenmarkt.vogel.de/wie-man-eine-million-loecher-bohrt-a-1089416/?cmp=nl-97&amp;amp;#038;uuid=59f81756f7bccffdf98785bb65dd9f7e&lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+&lt;p&gt;同じ面に非常に多くの穴を開けるならレーザーという選択肢がおもしろい&lt;br&gt;
+ドリルを使った加工だと摩耗や折損の検知や管理をするのが簡単ではない&lt;/p&gt;
+&lt;p&gt;そもそも、時間だけ考えてもドリル工具での加工は考慮の対象外ですね&lt;/p&gt;
+&lt;h2 class=&#34;wp-block-heading&#34; id=&#34;レーザー光源を用途に応じて使い分ける&#34;&gt;レーザー光源を用途に応じて使い分ける&lt;/h2&gt;
+&lt;p&gt;ここでは、単にレーザーが良いというだけではなく&lt;br&gt;
+どんな穴あけにどのレーザーが適しているのかを追求している&lt;/p&gt;
+&lt;p&gt;ドイツの産学連携は、かなり現実的で産業界にも大きな影響力を持っているのは羨ましい。&lt;br&gt;
+今回登場するのは、有名なフラウンホーファーレーザー技術研究所（Fraunhofer-Institut für Lasertechnik ILT）です。&lt;/p&gt;
+&lt;h2 class=&#34;wp-block-heading&#34; id=&#34;どうしてそんなにたくさんの穴が必要なの&#34;&gt;どうしてそんなにたくさんの穴が必要なの？&lt;/h2&gt;
+&lt;p&gt;コロナ禍で、当面は航空機の利用が減っているけれど、&lt;br&gt;
+航空機業界は燃料消費をもっと削減しようと努力している&lt;/p&gt;
+&lt;ul class=&#34;wp-block-list&#34;&gt;
+  &lt;li&gt;
+    航空機のウィング &lt;ul class=&#34;wp-block-list&#34;&gt;
+      &lt;li&gt;
+        表面は小さな穴がたくさん開いていて&lt;br /&gt;その中を空気が抵抗なく流れる「ハイブリッド層流制御」の原理を応用している&lt;br /&gt;これで最大10％の燃料削減が可能
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    航空機のタービン &lt;ul class=&#34;wp-block-list&#34;&gt;
+      &lt;li&gt;
+        ウィング同様に、小さな穴がエンジン音の騒音減衰に役立つ
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    フィルター技術 &lt;ul class=&#34;wp-block-list&#34;&gt;
+      &lt;li&gt;
+        ミクロンオーダーの穴が開いた金属箔を使えば&lt;br /&gt;排水に含まれるマイクロプラスチックを効率よくろ過できる
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;上記の3件は、異なる分野でたくさんの穴を開けることの必要性を分かりやすく表している&lt;br&gt;
+タービン製造、製紙、プラスチックのリサイクルなどは大きな可能性を秘めた分野といえる&lt;/p&gt;
+&lt;h2 class=&#34;wp-block-heading&#34; id=&#34;レーザーでどうやって穴を開けるの&#34;&gt;レーザーでどうやって穴を開けるの？&lt;/h2&gt;
+&lt;p&gt;レーザーが産業界で普及してから数十年が経ち、用途も多様化している&lt;br&gt;
+マーキング、溶接、切断にとどまらず、穴あけ加工も一般的になっている&lt;/p&gt;
+&lt;p&gt;科学的な見地から言えば、レーザーでの加工は**&lt;span class=&#34;bold-red&#34;&gt;&lt;span class=&#34;fz-18px&#34;&gt;&lt;span class=&#34;fz-20px&#34;&gt;&lt;span class=&#34;marker-under&#34;&gt;非切削型の熱切断プロセス&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;**&lt;/p&gt;
+&lt;p&gt;レーザーで穴をあける時、高速性と高精度のバランスをどう設定するかが重要な役割を果たす&lt;/p&gt;
+&lt;p&gt;最も速い方法は、**&lt;span class=&#34;marker-under&#34;&gt;シングルパルス&lt;/span&gt;**で材料に穴を「撃ちぬく」やり方。&lt;br&gt;
+一方で、&lt;span class=&#34;marker-under&#34;&gt;&lt;strong&gt;ヘリカルドリル加工&lt;/strong&gt;&lt;/span&gt;は最も時間がかかり、特殊な光学系も必要だが、&lt;br&gt;
+その代わりに高い精度が得られる。&lt;/p&gt;
+&lt;p&gt;**&lt;span class=&#34;marker-under&#34;&gt;パーカッションドリリング&lt;/span&gt;**では、同じ箇所に複数のパルスを当てて、レーザーで穴を開ける&lt;/p&gt;
+&lt;p&gt;**&lt;span class=&#34;marker-under&#34;&gt;トレパニング&lt;/span&gt;**は、下穴を開けた後、穴の輪郭をなぞって切り取る&lt;/p&gt;
+&lt;p&gt;穴あけの精度や穴壁の面粗度は、素材やレーザー照射の種類に左右される&lt;br&gt;
+例えば銅は、一般的な赤外線よりも緑や青の光線をよく吸収するといった具合だ&lt;/p&gt;
+&lt;p&gt;パルス幅とパルスエネルギーも結果に影響するから&lt;br&gt;
+**&lt;span class=&#34;marker-under&#34;&gt;超短パルスレーザー&lt;/span&gt;**が特別な存在であると言える&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Trumpf　過去最高の売上高　2021/22決算</title>
+      <link>http://localhost:1313/historic-sales-record-for-the-trumpf-group-annual-report-2021-22/</link>
+      <pubDate>Fri, 04 Nov 2022 06:44:23 +0000</pubDate>
+      <guid>http://localhost:1313/historic-sales-record-for-the-trumpf-group-annual-report-2021-22/</guid>
+      <description>&lt;p&gt;Maschinenmarkt誌の2022/10/28付にその記事が公開されている&lt;/p&gt;
+&lt;div class=&#34;blogcard&#34;&gt;
+    &lt;a href=&#34;https://www.maschinenmarkt.vogel.de/historischer-umsatzrekord-fuer-die-trumpf-gruppe-a-23161dfa19aa61dda4fc4bf95d02c936/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+      &lt;div class=&#34;blogcard-container&#34;&gt;
+        &lt;div class=&#34;blogcard-info&#34;&gt;
+          &lt;div class=&#34;blogcard-title&#34;&gt;Historischer Umsatzrekord für die Trumpf-Gruppe&lt;/div&gt;
+          &lt;div class=&#34;blogcard-description&#34;&gt;(Bild: Trumpf) Die Trumpf-Gruppe verzeichnet im Geschäftsjahrs 2021/22 ein Plus vn 20,5 Prozent auf 4,2 Milliarden Euro und damit den bisher höchsten Umsatz der...&lt;/div&gt;
+          &lt;div class=&#34;blogcard-url&#34;&gt;https://www.maschinenmarkt.vogel.de/historischer-umsatzrekord-fuer-die-trumpf-gruppe-a-23161dfa19aa61dda4fc4bf95d02c936/&lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+&lt;p&gt;ドイツのTrumpf社の会計年度は、7月1日から翌年の6月30日まで&lt;/p&gt;
+&lt;p&gt;その決算書が10月に公開された&lt;br&gt;
+記事ソースはTrumpfのプレスリリースなので、そっちを見てもらってもいいですね&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.trumpf.com/filestorage/TRUMPF_Master/Corporate/Newsroom/Press_releases/2022_23/Corporate/221027-PR-TRUMPF-FiscalYear-2021-22/20221027-PR-TRUMPF-Fiscal-Year-2021-22.pdf&#34;&gt;https://www.trumpf.com/filestorage/TRUMPF_Master/Corporate/Newsroom/Press_releases/2022_23/Corporate/221027-PR-TRUMPF-FiscalYear-2021-22/20221027-PR-TRUMPF-Fiscal-Year-2021-22.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;h2 class=&#34;wp-block-heading&#34; id=&#34;コロナ禍でも史上最高の売上高を達成&#34;&gt;コロナ禍でも史上最高の売上高を達成&lt;/h2&gt;
+&lt;p&gt;売上高が、42億2300万ユーロだったので&lt;br&gt;
+現在のレートで円換算すると約6110億円ということになります&lt;/p&gt;
+&lt;p&gt;創業99年だそうですが、受注は55億7700万ユーロ（約8070億円）あったので&lt;br&gt;
+創業100周年は、良い成績のまま迎えられそうです&lt;/p&gt;
+&lt;h2 id=&#34;決算概要-wp-block-heading&#34;&gt;決算概要 {.wp-block-heading}&lt;figure class=&#34;wp-block-table&#34;&gt;&lt;/h2&gt;
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      　 　 　 　 　 　 　 　 　
+    &lt;/td&gt;
+&lt;pre&gt;&lt;code&gt;&amp;lt;td&amp;gt;
+&amp;lt;/td&amp;gt;
+
+&amp;lt;td&amp;gt;
+  2021/2022
+&amp;lt;/td&amp;gt;
+
+&amp;lt;td&amp;gt;
+  前年比
+&amp;lt;/td&amp;gt;
+
+&amp;lt;td&amp;gt;
+  2020/2021
+&amp;lt;/td&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      売上
+    &lt;/td&gt;
+&lt;pre&gt;&lt;code&gt;&amp;lt;td&amp;gt;
+  百万ユーロ
+&amp;lt;/td&amp;gt;
+
+&amp;lt;td&amp;gt;
+  4,223
+&amp;lt;/td&amp;gt;
+
+&amp;lt;td&amp;gt;
+  20.5%
+&amp;lt;/td&amp;gt;
+
+&amp;lt;td&amp;gt;
+  3,505
+&amp;lt;/td&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      　部門別
+    &lt;/td&gt;
+&lt;pre&gt;&lt;code&gt;&amp;lt;td&amp;gt;
+  Machine Tool
+&amp;lt;/td&amp;gt;
+
+&amp;lt;td&amp;gt;
+  2,289
+&amp;lt;/td&amp;gt;
+
+&amp;lt;td&amp;gt;
+  12.2%
+&amp;lt;/td&amp;gt;
+
+&amp;lt;td&amp;gt;
+  2,039
+&amp;lt;/td&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+    &lt;/td&gt;
+&lt;pre&gt;&lt;code&gt;&amp;lt;td&amp;gt;
+  Laser Technology
+&amp;lt;/td&amp;gt;
+
+&amp;lt;td&amp;gt;
+  1,609
+&amp;lt;/td&amp;gt;
+
+&amp;lt;td&amp;gt;
+  21.7%
+&amp;lt;/td&amp;gt;
+
+&amp;lt;td&amp;gt;
+  1,322
+&amp;lt;/td&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+    &lt;/td&gt;
+&lt;pre&gt;&lt;code&gt;&amp;lt;td&amp;gt;
+  EUV
+&amp;lt;/td&amp;gt;
+
+&amp;lt;td&amp;gt;
+  795
+&amp;lt;/td&amp;gt;
+
+&amp;lt;td&amp;gt;
+  81.6%
+&amp;lt;/td&amp;gt;
+
+&amp;lt;td&amp;gt;
+  437
+&amp;lt;/td&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      　国別
+    &lt;/td&gt;
+&lt;pre&gt;&lt;code&gt;&amp;lt;td&amp;gt;
+  NL
+&amp;lt;/td&amp;gt;
+
+&amp;lt;td&amp;gt;
+  838
+&amp;lt;/td&amp;gt;
+
+&amp;lt;td&amp;gt;
+  81.9%
+&amp;lt;/td&amp;gt;
+
+&amp;lt;td&amp;gt;
+  461
+&amp;lt;/td&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+    &lt;/td&gt;
+&lt;pre&gt;&lt;code&gt;&amp;lt;td&amp;gt;
+  USA
+&amp;lt;/td&amp;gt;
+
+&amp;lt;td&amp;gt;
+  656
+&amp;lt;/td&amp;gt;
+
+&amp;lt;td&amp;gt;
+  35.4%
+&amp;lt;/td&amp;gt;
+
+&amp;lt;td&amp;gt;
+&amp;lt;/td&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+    &lt;/td&gt;
+&lt;pre&gt;&lt;code&gt;&amp;lt;td&amp;gt;
+  GER
+&amp;lt;/td&amp;gt;
+
+&amp;lt;td&amp;gt;
+  589
+&amp;lt;/td&amp;gt;
+
+&amp;lt;td&amp;gt;
+  1.6%
+&amp;lt;/td&amp;gt;
+
+&amp;lt;td&amp;gt;
+  579
+&amp;lt;/td&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+    &lt;/td&gt;
+&lt;pre&gt;&lt;code&gt;&amp;lt;td&amp;gt;
+  CN
+&amp;lt;/td&amp;gt;
+
+&amp;lt;td&amp;gt;
+  575
+&amp;lt;/td&amp;gt;
+
+&amp;lt;td&amp;gt;
+  9.6%
+&amp;lt;/td&amp;gt;
+
+&amp;lt;td&amp;gt;
+  525
+&amp;lt;/td&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      受注
+    &lt;/td&gt;
+&lt;pre&gt;&lt;code&gt;&amp;lt;td&amp;gt;
+  百万ユーロ
+&amp;lt;/td&amp;gt;
+
+&amp;lt;td&amp;gt;
+  5,577
+&amp;lt;/td&amp;gt;
+
+&amp;lt;td&amp;gt;
+  42.1%
+&amp;lt;/td&amp;gt;
+
+&amp;lt;td&amp;gt;
+  3,925
+&amp;lt;/td&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      EBIT
+    &lt;/td&gt;
+&lt;pre&gt;&lt;code&gt;&amp;lt;td&amp;gt;
+  百万ユーロ
+&amp;lt;/td&amp;gt;
+
+&amp;lt;td&amp;gt;
+  468
+&amp;lt;/td&amp;gt;
+
+&amp;lt;td&amp;gt;
+  26.8%
+&amp;lt;/td&amp;gt;
+
+&amp;lt;td&amp;gt;
+  370
+&amp;lt;/td&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      従業員
+    &lt;/td&gt;
+&lt;pre&gt;&lt;code&gt;&amp;lt;td&amp;gt;
+  人
+&amp;lt;/td&amp;gt;
+
+&amp;lt;td&amp;gt;
+  16,554
+&amp;lt;/td&amp;gt;
+
+&amp;lt;td&amp;gt;
+&amp;lt;/td&amp;gt;
+
+&amp;lt;td&amp;gt;
+  14,767
+&amp;lt;/td&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      ＊EBIT：利払前・税引前利益
+    &lt;/td&gt;
+&lt;pre&gt;&lt;code&gt;&amp;lt;td&amp;gt;
+&amp;lt;/td&amp;gt;
+
+&amp;lt;td&amp;gt;
+&amp;lt;/td&amp;gt;
+
+&amp;lt;td&amp;gt;
+&amp;lt;/td&amp;gt;
+
+&amp;lt;td&amp;gt;
+&amp;lt;/td&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;&lt;figcaption class=&#34;wp-element-caption&#34;&gt;Trumpfの決算報告書をベースに作成&lt;/figcaption&gt;&lt;/figure&gt; 
+&lt;h2 class=&#34;wp-block-heading&#34; id=&#34;euvビジネスフィールドが売上に大きく貢献&#34;&gt;EUVビジネスフィールドが売上に大きく貢献&lt;/h2&gt;
+&lt;p&gt;EUVは、Extreme Ultra Violetの略。極端紫外線のことですが&lt;br&gt;
+主に、半導体製造装置のリソグラフィ用光源として最近使われているものです&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

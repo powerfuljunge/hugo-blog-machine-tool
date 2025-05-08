@@ -1,0 +1,78 @@
+baseURL = "http://localhost/"
+title = "工作機械はおもしろい"
+theme = "PaperMod"
+languageCode = "ja-jp"
+defaultContentLanguage = "ja"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[params]
+  ShowReadingTime = true
+  ShowToc = true
+  TocOpen = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  comments = false
+  ShowRecent = true
+  ShowCategories = true
+  ShowTags = true
+  title = "工作機械はおもしろい"
+  subtitle = "工作機械の世界をリアルに語る・・・かな"
+  fuseOpts = { isCaseSensitive = false, shouldSort = true, includeMatches = false, findAllMatches = true, minMatchCharLength = 2 }
+  ShowSearch = false
+  mainSections = ["posts", "machinery"]
+ 
+  [params.cover]
+    image = "images/hero.jpg"
+    alt = "ヒーロー画像"
+    caption = "ようこそ"
+    hidden = false
+
+  [params.homeInfoParams]
+    ShowSidebar = true
+    ShowHomeInfo = false
+
+
+  [params.profileMode]
+    enabled = false
+
+  [params.assets]
+    css = ["css/custom.css"]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[menu]
+
+  [[menu.main]]
+    name = "ホーム"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "特商法表記"
+    url = "/terms-of-service/"
+    weight = 2
+
+[related]
+  threshold = 80
+  includeNewer = true
+  toLower = true
+
+  [[related.indices]]
+    name  = "tags"
+    weight = 100
+
+  [[related.indices]]
+    name  = "categories"
+    weight = 80
+
+

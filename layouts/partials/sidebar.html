@@ -1,0 +1,98 @@
+<!-- サイドバー全体 -->
+
+    <!-- 検索 -->
+    <div class="sidebar-box">
+      <h3>検索</h3>
+      <div style="border: 1px solid #ccc; border-radius: 6px; padding: 0.5rem; background: #f9f9f9;">
+        <input
+          id="search-input"
+          type="text"
+          placeholder="キーワードを入力"
+          style="width: 100%; padding: 0.5rem; border: none; outline: none; background: transparent;"
+        >
+      </div>
+      <ul id="search-results" style="margin-top: 1rem; padding-left: 1rem;"></ul>
+    </div>
+
+    <!-- 関連記事 -->
+    {{ $related := .Site.RegularPages.Related . | first 5 }}
+    {{ if $related }}
+      <div class="sidebar-box">
+        <h3>関連記事</h3>
+        <ul style="list-style: none; padding-left: 0;">
+         {{ range $related }}
+           <li style="margin-bottom: 0.5rem;">
+             <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+           </li>
+         {{ end }}
+       </ul>
+     </div>
+    {{ end }}
+
+    <!-- 最近の投稿 -->
+    <div class="sidebar-box">
+      <h3>最近の投稿</h3>
+      <ul style="list-style: none; padding-left: 0;">
+        {{ range first 5 (where site.RegularPages "Type" "in" site.Params.mainSections) }}
+          <li style="margin-bottom: 0.5rem;">
+            <a href="{{ .RelPermalink }}">{{ .Title }}</a><br>
+            <small style="color: #777;">{{ .Date.Format "2006-01-02" }}</small>
+          </li>          
+        {{ end }}
+      </ul>
+    </div>  
+  
+    <!-- プロフィール -->
+    <div class="sidebar-box">
+      <h3>プロフィール</h3>
+      <div style="text-align: center;">
+        <img src="/images/profile.jpg" alt="プロフィール画像" style="width: 100px; border-radius: 50%; display: block; margin: 0 auto;">
+        <p>工作機械GURU<br>工作機械という目立たないが頼もしい縁の下の力持ちに光を当ててみた。</p>
+      </div>
+    </div>
+  
+    <!-- カテゴリ -->
+    <div class="sidebar-box">
+      <h3>カテゴリ</h3>
+      <ul style="list-style: none; padding-left: 0; margin: 0;">
+        {{ range $name, $taxonomy := .Site.Taxonomies.categories }}
+          <li><a href="{{ "/categories/" | relURL }}{{ $name | urlize }}">{{ $name }}</a></li>
+        {{ else }}
+          <li>カテゴリがありません</li>
+        {{ end }}
+      </ul>
+    </div>
+
+    <!-- タグクラウド -->
+    <div class="sidebar-box">
+      <h3>タグクラウド</h3>
+      <div class="tag-cloud">
+        {{ $min := 0 }}
+        {{ $max := 1 }}
+        {{ range $name, $taxonomy := .Site.Taxonomies.tags }}
+          {{ $count := len $taxonomy }}
+          {{ if gt $count $max }}{{ $max = $count }}{{ end }}
+        {{ end }}
+
+        {{ range $name, $taxonomy := .Site.Taxonomies.tags }}
+          {{ $count := len $taxonomy }}
+          {{ $weight := div (mul 100 $count) $max }}
+          <a href="{{ "/tags/" | relLangURL }}{{ $name | urlize }}" class="tag-weight-{{ div $weight 20 }}">
+            {{ $name }}
+          </a>
+        {{ end }}
+      </div>
+    </div>
+  
+    <!-- 広告 -->
+    <div class="sidebar-box">
+      <h3>広告</h3>
+      <div style="text-align: center;">
+        <a href="https://example.com">
+          <img src="/images/ad-banner.jpg" alt="広告バナー" style="max-width: 100%;">
+        </a>
+        <p><small>※ サンプル広告です</small></p>
+      </div>
+    </div>
+
+  

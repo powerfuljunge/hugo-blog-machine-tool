@@ -1,0 +1,660 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>E Mobility on 工作機械はおもしろい</title>
+    <link>http://localhost:1313/tags/e-mobility/</link>
+    <description>Recent content in E Mobility on 工作機械はおもしろい</description>
+    <generator>Hugo -- 0.147.0</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Sun, 25 Dec 2022 07:58:50 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/e-mobility/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【MM】2022年の人気記事（２）</title>
+      <link>http://localhost:1313/most-interrested-articles-in-maschinenmarkt-magazine-2022/</link>
+      <pubDate>Sun, 25 Dec 2022 07:58:50 +0000</pubDate>
+      <guid>http://localhost:1313/most-interrested-articles-in-maschinenmarkt-magazine-2022/</guid>
+      <description>&lt;p&gt;Maschinenmarkt誌の2022年12月23日配信メルマガに&lt;br&gt;
+今年人気だった記事のまとめがありました&lt;/p&gt;
+&lt;p&gt;今回は、その概略を紹介します&lt;/p&gt;
+&lt;p&gt;それぞれの内容チェックはまた別の機会に&lt;/p&gt;
+&lt;h2 class=&#34;wp-block-heading&#34; id=&#34;低温冷却加工&#34;&gt;低温冷却加工&lt;/h2&gt;
+&lt;p&gt;二酸化炭素を使った低温冷却のレトロフィット装置を開発した&lt;/p&gt;
+&lt;p&gt;稼働中の機械に比較的容易に取り付けることができるという&lt;/p&gt;
+&lt;p&gt;低温冷却というと窒素ガスが使われるのかと思っていましたが、二酸化炭素でも代用できるとなると、ガスとしての取り扱いが格段に楽になるということですね&lt;/p&gt;
+&lt;div class=&#34;blogcard&#34;&gt;
+    &lt;a href=&#34;https://www.maschinenmarkt.vogel.de/kryogene-kuehltechnik-fuer-zerspanungsprozesse-einfach-nachruesten-a-553a6c9ce6b14e757c63b0073ac2446c/?cmp=nl-97&amp;amp;#038;uuid=59f81756f7bccffdf98785bb65dd9f7e&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+      &lt;div class=&#34;blogcard-container&#34;&gt;
+        &lt;div class=&#34;blogcard-info&#34;&gt;
+          &lt;div class=&#34;blogcard-title&#34;&gt;Kryogene Kühltechnik für Zerspanungsprozesse einfach nachrüsten&lt;/div&gt;
+          &lt;div class=&#34;blogcard-description&#34;&gt;(Bild: Sandvik Coromant) Forscher aus Stuttgart haben mit der MHT GmbH Merz &amp;amp; Haag eine Nachrüsteinheit entwickelt, mit der die kryogene Kühlung per Kohlendioxi...&lt;/div&gt;
+          &lt;div class=&#34;blogcard-url&#34;&gt;https://www.maschinenmarkt.vogel.de/kryogene-kuehltechnik-fuer-zerspanungsprozesse-einfach-nachruesten-a-553a6c9ce6b14e757c63b0073ac2446c/?cmp=nl-97&amp;amp;#038;uuid=59f81756f7bccffdf98785bb65dd9f7e&lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+&lt;h2 class=&#34;wp-block-heading&#34; id=&#34;grobの電気自動車用モータ組み立て装置ヘアピンマシン&#34;&gt;Grobの電気自動車用モータ組み立て装置　ヘアピンマシン&lt;/h2&gt;
+&lt;p&gt;自動車部品加工を得意とするGrob-Werke&lt;/p&gt;
+&lt;p&gt;得意といっても、主要部品はシリンダブロックやシリンダヘッドなどだった&lt;/p&gt;
+&lt;p&gt;それが電気自動車の普及をトレンドと見るや&lt;br&gt;
+金属加工とは関係ない商品を次々と開発してきた&lt;/p&gt;
+&lt;p&gt;需要を見極めながら、従来の技術にこだわらない開発姿勢は&lt;br&gt;
+とても柔軟ですばらしい&lt;/p&gt;
+&lt;p&gt;ここで紹介されているのは&lt;/p&gt;
+&lt;p&gt;電気モータのステータ巻線装置、ヘアピンと呼ばれる商品だ&lt;/p&gt;
+&lt;div class=&#34;blogcard&#34;&gt;
+    &lt;a href=&#34;https://www.maschinenmarkt.vogel.de/hairpin-maschine-komplexes-aufgabenpaket-fuer-die-steuerungstechnik-a-3782de1123f713fa9e6553746878a85a/?cmp=nl-97&amp;amp;#038;uuid=59f81756f7bccffdf98785bb65dd9f7e&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+      &lt;div class=&#34;blogcard-container&#34;&gt;
+        &lt;div class=&#34;blogcard-info&#34;&gt;
+          &lt;div class=&#34;blogcard-title&#34;&gt;Hairpin-Maschine: Komplexes Aufgabenpaket für die Steuerungstechnik&lt;/div&gt;
+          &lt;div class=&#34;blogcard-description&#34;&gt;(Bild: Beckhoff) Minimale Zykluszeiten und schnelle Prozesse gelten als Schlüsselkriterien, wenn es um Fertigungsanlagen für die Elektromobilität geht. Warum hi...&lt;/div&gt;
+          &lt;div class=&#34;blogcard-url&#34;&gt;https://www.maschinenmarkt.vogel.de/hairpin-maschine-komplexes-aufgabenpaket-fuer-die-steuerungstechnik-a-3782de1123f713fa9e6553746878a85a/?cmp=nl-97&amp;amp;#038;uuid=59f81756f7bccffdf98785bb65dd9f7e&lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+&lt;h2 class=&#34;wp-block-heading&#34; id=&#34;電気自動車のステータハウジング加工&#34;&gt;電気自動車のステータハウジング加工&lt;/h2&gt;
+&lt;p&gt;電気自動車で内燃エンジンが無くなっても、代わりに電気モータが使われる限り、モータハウジングが金属切削の対象加工物として残る&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>eアクスル製造のエンジニアリング会社 eAx solutions</title>
+      <link>http://localhost:1313/eax-solutions-decided-for-grob-system-to-develop-active-component-solutions/</link>
+      <pubDate>Sun, 11 Dec 2022 15:02:43 +0000</pubDate>
+      <guid>http://localhost:1313/eax-solutions-decided-for-grob-system-to-develop-active-component-solutions/</guid>
+      <description>&lt;p&gt;電気自動車の普及がどんなスピードで進むのかは分かりませんが&lt;br&gt;
+新しい開発がどんどん進んでいるのは、疑いようのない事実です&lt;/p&gt;
+&lt;p&gt;Maschinenmarkt誌に紹介されていたeAx solutions社の記事が目を引きました&lt;/p&gt;
+&lt;div class=&#34;blogcard&#34;&gt;
+    &lt;a href=&#34;https://www.maschinenmarkt.vogel.de/prototypen-in-der-e-mobilitaet-flexibel-fertigen-a-39c48a485362752b2e0558f42c44a77b/?cmp=nl-159&amp;amp;#038;uuid=59f81756f7bccffdf98785bb65dd9f7e&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+      &lt;div class=&#34;blogcard-container&#34;&gt;
+        &lt;div class=&#34;blogcard-info&#34;&gt;
+          &lt;div class=&#34;blogcard-title&#34;&gt;Prototypen in der E-Mobilität flexibel fertigen&lt;/div&gt;
+          &lt;div class=&#34;blogcard-description&#34;&gt;(Bild: Grob-Werke) Dass Grob im Bereich der Elektromobilität nicht nur mit OEMs erfolgreich zusammenarbeitet, zeigt die Kooperation mit eAx solutions. Beim Entw...&lt;/div&gt;
+          &lt;div class=&#34;blogcard-url&#34;&gt;https://www.maschinenmarkt.vogel.de/prototypen-in-der-e-mobilitaet-flexibel-fertigen-a-39c48a485362752b2e0558f42c44a77b/?cmp=nl-159&amp;amp;#038;uuid=59f81756f7bccffdf98785bb65dd9f7e&lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+&lt;h2 class=&#34;wp-block-heading&#34; id=&#34;eax-solutionsとは&#34;&gt;eAx solutionsとは&lt;/h2&gt;
+&lt;div class=&#34;blogcard&#34;&gt;
+    &lt;a href=&#34;https://eax-solutions.com/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+      &lt;div class=&#34;blogcard-container&#34;&gt;
+        &lt;div class=&#34;blogcard-info&#34;&gt;
+          &lt;div class=&#34;blogcard-title&#34;&gt;https://eax-solutions.com/index.html&lt;/div&gt;
+          &lt;div class=&#34;blogcard-description&#34;&gt;&lt;/div&gt;
+          &lt;div class=&#34;blogcard-url&#34;&gt;https://eax-solutions.com/index.html&lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+&lt;p&gt;Our solutionsの中で&lt;br&gt;
+We develop, industrialize and produce electric axle solutions for automotive applications.&lt;br&gt;
+こう説明しています&lt;/p&gt;
+&lt;p&gt;電気自動車のeアクスル開発から量産化までを受け持つBoschの100％子会社で&lt;br&gt;
+現在は70人のチームとのこと&lt;/p&gt;
+&lt;p&gt;主な担当領域は&lt;/p&gt;
+&lt;ul class=&#34;wp-block-list&#34;&gt;
+  &lt;li&gt;
+    アクティブコンポーネントと言われるロータとステータの開発、量産化
+  &lt;/li&gt;
+  &lt;li&gt;
+    eアクスル
+  &lt;/li&gt;
+  &lt;li&gt;
+    革新的な製造設備と技術 &lt;ul class=&#34;wp-block-list&#34;&gt;
+      &lt;li&gt;
+        プロトタイプ製造
+      &lt;/li&gt;
+      &lt;li&gt;
+        小ロット製造
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    量産化対応可能な製品の開発
+  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;eアクスルに関しては、以下のような記事も見つけました&lt;/p&gt;
+&lt;div class=&#34;blogcard&#34;&gt;
+    &lt;a href=&#34;https://newswitch.jp/p/30296&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+      &lt;div class=&#34;blogcard-container&#34;&gt;
+        &lt;div class=&#34;blogcard-info&#34;&gt;
+          &lt;div class=&#34;blogcard-title&#34;&gt;「eアクスル」開発過熱、ＥＶ時代へ日本電産・ボッシュなどが中国・欧州に熱視線 ニュースイッチ by 日刊工業新聞社&lt;/div&gt;
+          &lt;div class=&#34;blogcard-description&#34;&gt;電気自動車（ＥＶ）の基幹部品であるモーターの開発や拡販競争が激しくなっている。特に「ｅアクスル」と呼ばれる、モーターと周辺部品を一体にした装置はＥＶの生産効率を向上でき、需要が急拡大すると見られる。本...&lt;/div&gt;
+          &lt;div class=&#34;blogcard-url&#34;&gt;https://newswitch.jp/p/30296&lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+&lt;h2 class=&#34;wp-block-heading&#34; id=&#34;grobが重要な役割を果たしている&#34;&gt;Grobが重要な役割を果たしている&lt;/h2&gt;
+&lt;p&gt;eAx solutions社はeアクスルの開発も製造エンジニアリングもやってのけるのですが&lt;br&gt;
+そこで重要な存在がGrobの製品だと言うのです&lt;/p&gt;
+&lt;p&gt;Grobの設備が何をしているのかというと&lt;/p&gt;
+&lt;ul class=&#34;wp-block-list&#34;&gt;
+  &lt;li&gt;
+    ヘアピン　ステータ製造
+  &lt;/li&gt;
+  &lt;li&gt;
+    ギア組立
+  &lt;/li&gt;
+  &lt;li&gt;
+    eアクスルの最終組立
+  &lt;/li&gt;
+  &lt;li&gt;
+    eアクスルのテスト
+  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;eAx solutions社は、Grobの設備を導入する前からeアクスルの開発をしていたが&lt;br&gt;
+**&lt;span class=&#34;fz-20px&#34;&gt;&lt;span class=&#34;marker-under&#34;&gt;Grobの設備は、非常にフレキシブル&lt;/span&gt;&lt;/span&gt;**との理由で導入が決まった&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>【MM】China Market Insider 2022/11/30</title>
+      <link>http://localhost:1313/%E3%80%90mm%E3%80%91china-market-insider-2022-11-30/</link>
+      <pubDate>Mon, 05 Dec 2022 10:17:10 +0000</pubDate>
+      <guid>http://localhost:1313/%E3%80%90mm%E3%80%91china-market-insider-2022-11-30/</guid>
+      <description>&lt;h2 class=&#34;wp-block-heading&#34; id=&#34;中国製電気自動車がどうして鉄道輸送でドイツへ&#34;&gt;中国製電気自動車が、どうして鉄道輸送でドイツへ？&lt;/h2&gt;
+&lt;div class=&#34;blogcard&#34;&gt;
+    &lt;a href=&#34;https://www.maschinenmarkt.vogel.de/warum-e-autos-aus-china-jetzt-per-zug-kommen-a-9dfb2b45f660b37a6c08dbe29261e2f2/?cmp=nl-97&amp;amp;#038;uuid=59f81756f7bccffdf98785bb65dd9f7e&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+      &lt;div class=&#34;blogcard-container&#34;&gt;
+        &lt;div class=&#34;blogcard-info&#34;&gt;
+          &lt;div class=&#34;blogcard-title&#34;&gt;Warum E-Autos aus China jetzt per Zug kommen&lt;/div&gt;
+          &lt;div class=&#34;blogcard-description&#34;&gt;(Bild: © Eisenhans - stock.adobe.com) Chinas Exportoffensive für E-Autos hat Konsequenzen für die Logistikbranche. Warum der Transport über die Schiene nun zur ...&lt;/div&gt;
+          &lt;div class=&#34;blogcard-url&#34;&gt;https://www.maschinenmarkt.vogel.de/warum-e-autos-aus-china-jetzt-per-zug-kommen-a-9dfb2b45f660b37a6c08dbe29261e2f2/?cmp=nl-97&amp;amp;#038;uuid=59f81756f7bccffdf98785bb65dd9f7e&lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+&lt;p&gt;自動車輸出大国ドイツが中国に脅かされている&lt;/p&gt;
+&lt;p&gt;ドイツの専門誌の記事だから、当然ドイツ目線で書かれている&lt;/p&gt;
+&lt;h2 class=&#34;wp-block-heading&#34; id=&#34;問題の核心は&#34;&gt;問題の核心は&lt;/h2&gt;
+&lt;p&gt;中国は今年10月の自動車輸出が337,000台となって&lt;br&gt;
+&lt;strong&gt;&lt;span class=&#34;fz-20px&#34;&gt;&lt;span class=&#34;marker-under&#34;&gt;ドイツを世界一の座から引きずり落とした&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;そのうち、電気自動車が109,000台&lt;br&gt;
+これは、全輸出の32％を占めるだけじゃなく、前年同期比プラス81.2％でもある&lt;/p&gt;
+&lt;p&gt;中国製電気自動車がドイツにどんどん入ってくる事実&lt;/p&gt;
+&lt;p&gt;やっぱり**&lt;span class=&#34;fz-22px&#34;&gt;&lt;span class=&#34;marker-under&#34;&gt;電気自動車は、自動車産業の構造を変える&lt;/span&gt;&lt;/span&gt;**存在と見るべきだろう&lt;/p&gt;
+&lt;p&gt;ドイツの専門誌が中国製をどう表現しているかというと&lt;/p&gt;
+&lt;p class=&#34;has-text-align-center&#34;&gt;
+  &lt;span class=&#34;bold-red&#34;&gt;&lt;span class=&#34;fz-22px&#34;&gt;&lt;span class=&#34;marker-under&#34;&gt;割安な価格&lt;/span&gt;で&lt;span class=&#34;marker-under&#34;&gt;満足な品質&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;/p&gt;
+&lt;p&gt;「悪くない」という評価ですね&lt;/p&gt;
+&lt;h2 class=&#34;wp-block-heading&#34; id=&#34;鉄道輸送なら15日で電気自動車がドイツに届く&#34;&gt;鉄道輸送なら15日で電気自動車がドイツに届く&lt;/h2&gt;
+&lt;p&gt;わざわざ記事にした背景は &lt;strong&gt;&lt;span class=&#34;fz-22px&#34;&gt;&lt;span class=&#34;red&#34;&gt;&lt;span class=&#34;marker&#34;&gt;自動車の輸送なら船だろう&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;fz-22px&#34;&gt;&lt;span class=&#34;marker&#34;&gt;&lt;span class=&#34;red&#34;&gt;！&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt; という前提&lt;/p&gt;
+&lt;p&gt;でも、鉄道輸送が今話題になるのは&lt;br&gt;
+この9月に**&lt;span class=&#34;fz-20px&#34;&gt;&lt;span class=&#34;marker-under&#34;&gt;中国政府が禁止していた鉄道輸送を解禁した&lt;/span&gt;&lt;/span&gt;**から&lt;/p&gt;
+&lt;p&gt;中国の&lt;span class=&#34;bold&#34;&gt;&lt;span class=&#34;marker-under&#34;&gt;自動車輸出の急増&lt;/span&gt;&lt;/span&gt;で、船賃はコロナ前の**&lt;span class=&#34;fz-20px&#34;&gt;&lt;span class=&#34;red&#34;&gt;4倍&lt;/span&gt;&lt;/span&gt;**に膨れ上がっているが&lt;br&gt;
+それでも船が全然足りていない！！&lt;/p&gt;
+&lt;p&gt;そんな状況での鉄道輸送解禁&lt;br&gt;
+自動車メーカが放っておくはずがない&lt;/p&gt;
+&lt;p&gt;というより自動車メーカがプレッシャーをかけたのではないか？&lt;/p&gt;
+&lt;h2 class=&#34;wp-block-heading&#34; id=&#34;そんなに簡単に鉄道輸送に切り替わるのか&#34;&gt;そんなに簡単に鉄道輸送に切り替わるのか？&lt;/h2&gt;
+&lt;p&gt;鉄道輸送のルートは&lt;/p&gt;
+&lt;p&gt;中国　→　ロシア　→　ベラルーシ　→　ポーランド　→　ドイツ（ハンブルグ）&lt;/p&gt;
+&lt;p&gt;ロシアを通るのが、ドイツ人の目から見ると大きなリスク&lt;br&gt;
+ドイツはもちろん中国も、ロシアのウクライナ侵攻後は輸送量を減らしていた&lt;/p&gt;
+&lt;p&gt;中国とヨーロッパを結ぶ鉄道路線 Trans-Eurasia Logistics というか&lt;br&gt;
+„China Railway Express” は、2008年に設立された合弁会社&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>電気自動車（EV)は高い　最安EVベスト10</title>
+      <link>http://localhost:1313/these-are-the-ten-cheapest-ev/</link>
+      <pubDate>Sun, 27 Nov 2022 14:22:46 +0000</pubDate>
+      <guid>http://localhost:1313/these-are-the-ten-cheapest-ev/</guid>
+      <description>&lt;p&gt;Maschinenmarkt誌の姉妹誌であるkonstruktionspraxis誌に&lt;br&gt;
+ドイツで手に入る安いEVの記事がありました&lt;/p&gt;
+&lt;div class=&#34;blogcard&#34;&gt;
+    &lt;a href=&#34;https://www.konstruktionspraxis.vogel.de/elektroauto-e-auto-preise-a-da3eeb530fda8fd9bdf7c612a28be3d6/?cmp=nl-112&amp;amp;#038;uuid=821095a901c09ea66b2383b90637a5bd&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+      &lt;div class=&#34;blogcard-container&#34;&gt;
+        &lt;div class=&#34;blogcard-info&#34;&gt;
+          &lt;div class=&#34;blogcard-title&#34;&gt;Das sind die zehn günstigsten E-Autos&lt;/div&gt;
+          &lt;div class=&#34;blogcard-description&#34;&gt;(Bild: Nissan) E-Autos kosten deutlich mehr Geld als vergleichbare Fahrzeuge mit Verbrennungsmotor. Es gibt nur wenige BEV unter 30.000 Euro.&lt;/div&gt;
+          &lt;div class=&#34;blogcard-url&#34;&gt;https://www.konstruktionspraxis.vogel.de/elektroauto-e-auto-preise-a-da3eeb530fda8fd9bdf7c612a28be3d6/?cmp=nl-112&amp;amp;#038;uuid=821095a901c09ea66b2383b90637a5bd&lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+&lt;h2 class=&#34;wp-block-heading&#34; id=&#34;最安evとは言っても3万ユーロ前後&#34;&gt;最安EVとは言っても3万ユーロ前後&lt;/h2&gt;
+&lt;p&gt;記事のリンクを見ると、クルマの写真とともにモデル名と金額が載っています&lt;br&gt;
+ランキングをまとめると以下のようです&lt;figure class=&#34;wp-block-table is-style-stripes&#34;&gt;&lt;/p&gt;
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td class=&#34;has-text-align-center&#34; data-align=&#34;center&#34;&gt;
+      Rank
+    &lt;/td&gt;
+&lt;pre&gt;&lt;code&gt;&amp;lt;td&amp;gt;
+  Brand
+&amp;lt;/td&amp;gt;
+
+&amp;lt;td&amp;gt;
+  Model
+&amp;lt;/td&amp;gt;
+
+&amp;lt;td&amp;gt;
+  Euro
+&amp;lt;/td&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&#34;has-text-align-center&#34; data-align=&#34;center&#34;&gt;
+      1
+    &lt;/td&gt;
+&lt;pre&gt;&lt;code&gt;&amp;lt;td&amp;gt;
+  Dacia
+&amp;lt;/td&amp;gt;
+
+&amp;lt;td&amp;gt;
+  Spring
+&amp;lt;/td&amp;gt;
+
+&amp;lt;td&amp;gt;
+  22,550
+&amp;lt;/td&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&#34;has-text-align-center&#34; data-align=&#34;center&#34;&gt;
+      2
+    &lt;/td&gt;
+&lt;pre&gt;&lt;code&gt;&amp;lt;td&amp;gt;
+  Next E-GO Mobile SE
+&amp;lt;/td&amp;gt;
+
+&amp;lt;td&amp;gt;
+  E Wave X
+&amp;lt;/td&amp;gt;
+
+&amp;lt;td&amp;gt;
+  25,000
+&amp;lt;/td&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&#34;has-text-align-center&#34; data-align=&#34;center&#34;&gt;
+      3
+    &lt;/td&gt;
+&lt;pre&gt;&lt;code&gt;&amp;lt;td&amp;gt;
+  Renault
+&amp;lt;/td&amp;gt;
+
+&amp;lt;td&amp;gt;
+  Twingo
+&amp;lt;/td&amp;gt;
+
+&amp;lt;td&amp;gt;
+  28,000
+&amp;lt;/td&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&#34;has-text-align-center&#34; data-align=&#34;center&#34;&gt;
+      4
+    &lt;/td&gt;
+&lt;pre&gt;&lt;code&gt;&amp;lt;td&amp;gt;
+  MG
+&amp;lt;/td&amp;gt;
+
+&amp;lt;td&amp;gt;
+  MG 4 Electric
+&amp;lt;/td&amp;gt;
+
+&amp;lt;td&amp;gt;
+  28,420
+&amp;lt;/td&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&#34;has-text-align-center&#34; data-align=&#34;center&#34;&gt;
+      5
+    &lt;/td&gt;
+&lt;pre&gt;&lt;code&gt;&amp;lt;td&amp;gt;
+  SAIC
+&amp;lt;/td&amp;gt;
+
+&amp;lt;td&amp;gt;
+  ZS
+&amp;lt;/td&amp;gt;
+
+&amp;lt;td&amp;gt;
+  30,420
+&amp;lt;/td&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&#34;has-text-align-center&#34; data-align=&#34;center&#34;&gt;
+      6
+    &lt;/td&gt;
+&lt;pre&gt;&lt;code&gt;&amp;lt;td&amp;gt;
+  Fiat
+&amp;lt;/td&amp;gt;
+
+&amp;lt;td&amp;gt;
+  500 e
+&amp;lt;/td&amp;gt;
+
+&amp;lt;td&amp;gt;
+  31,000
+&amp;lt;/td&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&#34;has-text-align-center&#34; data-align=&#34;center&#34;&gt;
+      7
+    &lt;/td&gt;
+&lt;pre&gt;&lt;code&gt;&amp;lt;td&amp;gt;
+  MG
+&amp;lt;/td&amp;gt;
+
+&amp;lt;td&amp;gt;
+  MG 5
+&amp;lt;/td&amp;gt;
+
+&amp;lt;td&amp;gt;
+  32,000
+&amp;lt;/td&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&#34;has-text-align-center&#34; data-align=&#34;center&#34;&gt;
+      8
+    &lt;/td&gt;
+&lt;pre&gt;&lt;code&gt;&amp;lt;td&amp;gt;
+  Nissan
+&amp;lt;/td&amp;gt;
+
+&amp;lt;td&amp;gt;
+  Leaf
+&amp;lt;/td&amp;gt;
+
+&amp;lt;td&amp;gt;
+  33,400
+&amp;lt;/td&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&#34;has-text-align-center&#34; data-align=&#34;center&#34;&gt;
+    &lt;/td&gt;
+&lt;pre&gt;&lt;code&gt;&amp;lt;td&amp;gt;
+  Renault
+&amp;lt;/td&amp;gt;
+
+&amp;lt;td&amp;gt;
+  Zoe
+&amp;lt;/td&amp;gt;
+
+&amp;lt;td&amp;gt;
+  33,400
+&amp;lt;/td&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&#34;has-text-align-center&#34; data-align=&#34;center&#34;&gt;
+      9
+    &lt;/td&gt;
+&lt;pre&gt;&lt;code&gt;&amp;lt;td&amp;gt;
+  Opel
+&amp;lt;/td&amp;gt;
+
+&amp;lt;td&amp;gt;
+  Corsa E
+&amp;lt;/td&amp;gt;
+
+&amp;lt;td&amp;gt;
+  34,000
+&amp;lt;/td&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&#34;has-text-align-center&#34; data-align=&#34;center&#34;&gt;
+      10
+    &lt;/td&gt;
+&lt;pre&gt;&lt;code&gt;&amp;lt;td&amp;gt;
+  Peugeot
+&amp;lt;/td&amp;gt;
+
+&amp;lt;td&amp;gt;
+  E-208
+&amp;lt;/td&amp;gt;
+
+&amp;lt;td&amp;gt;
+  35,350
+&amp;lt;/td&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;&lt;/figure&gt; 
+&lt;p&gt;電気自動車は同等の内燃エンジン搭載車と比べるとかなり値段が高い&lt;br&gt;
+バッテリー駆動のBEVで3万ユーロ以下のものはほとんど無い&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>eモビリティと部品加工 – 板金加工</title>
+      <link>http://localhost:1313/e-mobility-and-sheet-metal-components/</link>
+      <pubDate>Sat, 26 Nov 2022 09:47:59 +0000</pubDate>
+      <guid>http://localhost:1313/e-mobility-and-sheet-metal-components/</guid>
+      <description>&lt;p&gt;Maschinenmarkt誌に掲載された記事です&lt;/p&gt;
+&lt;div class=&#34;blogcard&#34;&gt;
+    &lt;a href=&#34;https://www.maschinenmarkt.vogel.de/e-mobilitaet-fordert-flexiblere-formen-der-blechverarbeitung-a-959c1af0cf688d6f23f823fbc5d97256/?cmp=nl-97&amp;amp;#038;uuid=59f81756f7bccffdf98785bb65dd9f7e&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+      &lt;div class=&#34;blogcard-container&#34;&gt;
+        &lt;div class=&#34;blogcard-info&#34;&gt;
+          &lt;div class=&#34;blogcard-title&#34;&gt;https://www.maschinenmarkt.vogel.de/e-mobilitaet-fordert-flexiblere-formen-der-blechverarbeitung-a-959c1af0cf688d6f23f823fbc5d97256/?cmp=nl-97&amp;amp;uuid=59f81756f7bccffdf98785bb65dd9f7e&lt;/div&gt;
+          &lt;div class=&#34;blogcard-description&#34;&gt;&lt;/div&gt;
+          &lt;div class=&#34;blogcard-url&#34;&gt;https://www.maschinenmarkt.vogel.de/e-mobilitaet-fordert-flexiblere-formen-der-blechverarbeitung-a-959c1af0cf688d6f23f823fbc5d97256/?cmp=nl-97&amp;amp;#038;uuid=59f81756f7bccffdf98785bb65dd9f7e&lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+&lt;p&gt;板金加工に限らず、部品製造全般にも同様のことが当てはまると思います&lt;/p&gt;
+&lt;h2 class=&#34;wp-block-heading&#34; id=&#34;eモビリティで部品加工に必要な要件とは&#34;&gt;eモビリティで部品加工に必要な要件とは？&lt;/h2&gt;
+&lt;p&gt;eモビリティの動向が自動車部品下請けにとっては&lt;/p&gt;
+&lt;ul class=&#34;wp-block-list&#34;&gt;
+  &lt;li&gt;
+    全く新しい部品が必要になる
+  &lt;/li&gt;
+  &lt;li&gt;
+    加工プロセスの更なる柔軟性が要求される
+  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;なので、チャンスをものにするのに必要な要件は&lt;/p&gt;
+&lt;ul class=&#34;wp-block-list&#34;&gt;
+  &lt;li&gt;
+    &lt;span class=&#34;fz-20px&#34;&gt;&lt;strong&gt;&lt;span class=&#34;marker-under&#34;&gt;板金加工業者は自動化製造ラインを最適化する&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;strong&gt;&lt;span class=&#34;fz-20px&#34;&gt;&lt;span class=&#34;marker-under&#34;&gt;柔軟な金型・ツールを導入する&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 class=&#34;wp-block-heading&#34; id=&#34;evの主流はどうなるかわからないが部品は&#34;&gt;EVの主流はどうなるかわからないが、部品は・・・&lt;/h2&gt;
+&lt;p&gt;電気自動車（EV)で、長期的に何が主流になるのかは決まっていないと言います&lt;br&gt;
+それは、以下のどっちだ、ということです&lt;/p&gt;
+&lt;ul class=&#34;wp-block-list&#34;&gt;
+  &lt;li&gt;
+    バッテリーの電気だけを使ってモータで走る車＝BEV（Battery Electric Vehicle）
+  &lt;/li&gt;
+  &lt;li&gt;
+    水素と酸素で発電する燃料電池で走る車＝FCEV（Fuel Cell Electric Vehicle）
+  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;しかし、部品レベルで見ると、そんなことはどうでもよくて&lt;/p&gt;
+&lt;p&gt;ステーター・ローターの製造だろうが、燃料電池の&lt;a href=&#34;https://www.gii-news.jp/tsm995814-20211011/&#34; data-type=&#34;URL&#34; data-id=&#34;https://www.gii-news.jp/tsm995814-20211011/&#34;&gt;バイポーラ・プレート&lt;/a&gt;の製造だろうが&lt;br&gt;
+その根幹には、いずれにせよ板金加工の製造工程があると言うのです&lt;/p&gt;
+&lt;h2 class=&#34;wp-block-heading&#34; id=&#34;evの技術的方向性と下請けの投資&#34;&gt;EVの技術的方向性と下請けの投資&lt;/h2&gt;
+&lt;p&gt;大量の部品を加工するのに、最適化された金型・ツールがあると良い、とある一方で&lt;br&gt;
+現実的に、ほとんどの企業は、&lt;/p&gt;
+&lt;ul class=&#34;wp-block-list&#34;&gt;
+  &lt;li&gt;
+    新しい金型・ツールを買う
+  &lt;/li&gt;
+  &lt;li&gt;
+    新しいプレスを買う
+  &lt;/li&gt;
+  &lt;li&gt;
+    その他必要な設備を買う
+  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;そういう大きな投資をするには&lt;br&gt;
+EVの技術的方向性が定まっていない今のタイミングでは二の足を踏む&lt;/p&gt;
+&lt;p&gt;モータにも、技術的形態がいろいろあって、それぞれにメリットとデメリットがある&lt;/p&gt;
+&lt;p&gt;外部励磁同期モータからラジアル磁束非同期モータまでいろいろ種類があって&lt;br&gt;
+その設計や機能は大きく異なる&lt;/p&gt;
+&lt;p&gt;なので、寸法が変わると板金も全く別物になってしまう&lt;/p&gt;
+&lt;h2 class=&#34;wp-block-heading&#34; id=&#34;電気自動車向け部品加工の投資をさらに複雑にしているのは&#34;&gt;電気自動車向け部品加工の投資をさらに複雑にしているのは&lt;/h2&gt;
+&lt;p&gt;電気自動車の場合、システムトポロジーが非常に多く考えられることも複雑な要因となっている&lt;br&gt;
+システムトポロジーって難しい言い回しだな・・・&lt;/p&gt;
+&lt;p&gt;要するに、組み合わせの可能性が多いってことなんだけど&lt;br&gt;
+例えば、どんなことかというと&lt;/p&gt;
+&lt;ul class=&#34;wp-block-list&#34;&gt;
+  &lt;li&gt;
+    1つまたは2つの電気モータを備えた軸並列設計
+  &lt;/li&gt;
+  &lt;li&gt;
+    ホイールに近い同軸システム
+  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;こんな感じで、駆動の方法だけでもいろいろある&lt;br&gt;
+言葉では分かりにくいだろうから、イメージが湧くように、いくつか写真を集めてみた&lt;figure class=&#34;wp-block-image size-full&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; decoding=&#34;async&#34; width=&#34;1471&#34; height=&#34;1043&#34; src=&#34;https://infopolis.org/images/2022/11/af3b9f62-1886-425c-833a-37159b2e142b.webp&#34; alt=&#34;&#34; class=&#34;wp-image-276&#34; srcset=&#34;https://infopolis.org/images/2022/11/af3b9f62-1886-425c-833a-37159b2e142b.webp 1471w, https://infopolis.org/images/2022/11/af3b9f62-1886-425c-833a-37159b2e142b-300x213.webp 300w, https://infopolis.org/images/2022/11/af3b9f62-1886-425c-833a-37159b2e142b-1024x726.webp 1024w, https://infopolis.org/images/2022/11/af3b9f62-1886-425c-833a-37159b2e142b-768x545.webp 768w&#34; sizes=&#34;auto, (max-width: 1471px) 100vw, 1471px&#34; /&gt; &lt;figcaption class=&#34;wp-element-caption&#34;&gt;出典：&lt;a href=&#34;https://www.nzz.ch/mobilitaet/auto-mobil/audi-ingenieur-marc-baur-erklaert-den-elektronischen-quattro-ld.1545152&#34;&gt;https://www.nzz.ch/mobilitaet/auto-mobil/audi-ingenieur-marc-baur-erklaert-den-elektronischen-quattro-ld.1545152&lt;/a&gt;&lt;/figcaption&gt;&lt;/figure&gt; &lt;figure class=&#34;wp-block-image size-full&#34;&gt;&lt;img loading=&#34;lazy&#34; decoding=&#34;async&#34; width=&#34;550&#34; height=&#34;283&#34; src=&#34;https://infopolis.org/images/2022/11/NTN_InWheelMotor_news201800034_5.jpg&#34; alt=&#34;&#34; class=&#34;wp-image-277&#34; srcset=&#34;https://infopolis.org/images/2022/11/NTN_InWheelMotor_news201800034_5.jpg 550w, https://infopolis.org/images/2022/11/NTN_InWheelMotor_news201800034_5-300x154.jpg 300w&#34; sizes=&#34;auto, (max-width: 550px) 100vw, 550px&#34; /&gt;&lt;figcaption class=&#34;wp-element-caption&#34;&gt;出典：NTN　&lt;a href=&#34;https://www.ntn.co.jp/japan/news/press/news201800034.html&#34;&gt;https://www.ntn.co.jp/japan/news/press/news201800034.html&lt;/a&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;今加工している部品が、その後も予定どおりの数量で必要なのかどうか分からない&lt;br&gt;
+開発のスピードが速い商品にはあるあるの問題ですね&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span class=&#34;fz-20px&#34;&gt;&lt;span class=&#34;red&#34;&gt;&lt;span class=&#34;fz-22px&#34;&gt;&lt;span class=&#34;fz-24px&#34;&gt;開発のスピードに製造が追いついていけない&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>技術的洗浄度 technical cleanlinessとは何だ？</title>
+      <link>http://localhost:1313/what-is-technical-cleanliness/</link>
+      <pubDate>Wed, 12 Oct 2022 06:16:14 +0000</pubDate>
+      <guid>http://localhost:1313/what-is-technical-cleanliness/</guid>
+      <description>&lt;p&gt;技術的洗浄度っていう単語が、電気自動車に関する記事に出てきた&lt;br&gt;
+「自動車部品の綺麗さ」ってことだけどどれくらい綺麗かってどうやって判断するの？&lt;br&gt;
+そういう疑問が浮かんだが、そのまま読み進めると・・・&lt;/p&gt;
+&lt;p&gt;その記事はドイツの専門誌Maschinenmarktのもの&lt;/p&gt;
+&lt;div class=&#34;blogcard&#34;&gt;
+    &lt;a href=&#34;https://www.maschinenmarkt.vogel.de/die-e-mobilitaet-verlangt-zur-technischen-sauberkeit-auch-die-dichtheit-a-4799bec5bea4ff6919c57fb46333744d/?p=1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+      &lt;div class=&#34;blogcard-container&#34;&gt;
+        &lt;div class=&#34;blogcard-info&#34;&gt;
+          &lt;div class=&#34;blogcard-title&#34;&gt;Die E-Mobilität verlangt zur technischen Sauberkeit auch die Dichtheit&lt;/div&gt;
+          &lt;div class=&#34;blogcard-description&#34;&gt;(Bild: Arnold Umformtechnik) Seit rund 40 Jahren spielt die technische Sauberkeit in der Industrie eine Rolle. Sie ist auch für Verbindungen in der E-Mobilität ...&lt;/div&gt;
+          &lt;div class=&#34;blogcard-url&#34;&gt;https://www.maschinenmarkt.vogel.de/die-e-mobilitaet-verlangt-zur-technischen-sauberkeit-auch-die-dichtheit-a-4799bec5bea4ff6919c57fb46333744d/?p=1&lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+&lt;h2 class=&#34;wp-block-heading&#34; id=&#34;洗浄度はどうやって判断する&#34;&gt;洗浄度はどうやって判断する？&lt;/h2&gt;
+&lt;ul class=&#34;wp-block-list&#34;&gt;
+  &lt;li&gt;
+    技術的洗浄度 (日本語)
+  &lt;/li&gt;
+  &lt;li&gt;
+    technische Sauberkeit (ドイツ語)
+  &lt;/li&gt;
+  &lt;li&gt;
+    technical cleanliness (英語)
+  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;何だ、綺麗さが定義されていて、既に規格が存在するではないか！&lt;/p&gt;
+&lt;p&gt;VDA19　および　ISO16232&lt;/p&gt;
+&lt;p&gt;スタートは自動車業界&lt;/p&gt;
+&lt;ul class=&#34;wp-block-list&#34;&gt;
+  &lt;li&gt;
+    VDA19&lt;br /&gt;　VDA19.1　技術的洗浄度測定&lt;br /&gt;　VDA19.2　技術的洗浄度測定（組立）
+  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;そして今は広がって&lt;/p&gt;
+&lt;ul class=&#34;wp-block-list&#34;&gt;
+  &lt;li&gt;
+    ISO16232
+  &lt;/li&gt;
+  &lt;li&gt;
+    ZVEI-ガイドライン（電子業界）
+  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 class=&#34;wp-block-heading&#34; id=&#34;清浄度だけじゃ足りないんだなーこれが&#34;&gt;清浄度だけじゃ足りないんだなー、これが&lt;/h2&gt;
+&lt;p&gt;記事の内容は&lt;br&gt;
+この技術的洗浄度は知っていて当たり前、って前提で書かれている^^;&lt;/p&gt;
+&lt;p&gt;電気自動車では洗浄度だけでなく、密閉度が要求される&lt;br&gt;
+そういう内容になっている&lt;/p&gt;
+&lt;p&gt;典型的なのはバッテリーケース&lt;br&gt;
+バッテリーケースでは密閉度、特に防水が重要視される&lt;/p&gt;
+&lt;p&gt;この防水を実現するために、洗浄度が必要だという&lt;br&gt;
+そうか！ゴミがいっぱい付いてたら隙間ができて、そこから漏れるってことだ！！&lt;/p&gt;
+&lt;h2 class=&#34;wp-block-heading&#34; id=&#34;防水性をどうやって実現してる&#34;&gt;防水性をどうやって実現してる？&lt;/h2&gt;
+&lt;p&gt;パッテリーケースの内部にもいくつかのシステムがあって&lt;br&gt;
+それらを接続して、しかも、防水を実現するのに必要なのは&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Grob-Werke、Manz、Dürrの3社がリチウムイオン電池製造で提携</title>
+      <link>http://localhost:1313/rob_manz_duerr_battery_production_partner/</link>
+      <pubDate>Thu, 22 Sep 2022 12:08:32 +0000</pubDate>
+      <guid>http://localhost:1313/rob_manz_duerr_battery_production_partner/</guid>
+      <description>&lt;p&gt;エレクトロモビリティとかeモビリティは電池がなければ成り立たない&lt;/p&gt;
+&lt;p&gt;Grob-Werkeは電気自動車のバッテリー組み立て装置を商品群に加えるという&lt;br&gt;
+英断を下した工作機械メーカだが&lt;/p&gt;
+&lt;p&gt;商品群に加えてのほほんとしているのではなく&lt;br&gt;
+その活動範囲を広げている&lt;/p&gt;
+&lt;p&gt;ドイツの業界専門誌MAVにその記事があった&lt;/p&gt;
+&lt;div class=&#34;blogcard&#34;&gt;
+    &lt;a href=&#34;https://mav.industrie.de/news/batterien-produktion-manz-grob-werke-und-duerr-schmieden-allianz/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+      &lt;div class=&#34;blogcard-container&#34;&gt;
+        &lt;div class=&#34;blogcard-info&#34;&gt;
+          &lt;div class=&#34;blogcard-title&#34;&gt;https://mav.industrie.de/news/batterien-produktion-manz-grob-werke-und-duerr-schmieden-allianz/&lt;/div&gt;
+          &lt;div class=&#34;blogcard-description&#34;&gt;&lt;/div&gt;
+          &lt;div class=&#34;blogcard-url&#34;&gt;https://mav.industrie.de/news/batterien-produktion-manz-grob-werke-und-duerr-schmieden-allianz/&lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+&lt;p&gt;背景は中国の電池製造体制に対抗するため&lt;br&gt;
+欧州独自の連携というところに大きな意味がある&lt;/p&gt;
+&lt;p&gt;Grobって基本的には自動車部品を加工する横形マシニングセンタを製造するメーカ&lt;/p&gt;
+&lt;p&gt;しかし、Grobの偉いところは&lt;br&gt;
+顧客のニーズを満たすことを常に忘れないところ&lt;/p&gt;
+&lt;p&gt;V型エンジンのシリンダ部を加工しようとすると&lt;br&gt;
+X，Y, Zの3軸だけだと両方のシリンダは加工できない&lt;/p&gt;
+&lt;p&gt;横形マシニングセンタにはテーブルのC軸があるから&lt;br&gt;
+シリンダヘッドをテーブルに立てて置けばV型の両方のシリンダが加工できる&lt;/p&gt;
+&lt;p&gt;でも、加工物を固定する治具も取り付け・取り外しも面倒&lt;br&gt;
+量産用の加工ラインでは、加工物が上から運搬されるので&lt;br&gt;
+シリンダヘッドは立てずに横のままテーブルに置きたい&lt;/p&gt;
+&lt;p&gt;そこでGrobはGシリーズという新しいコンセプトの機械を開発した&lt;/p&gt;
+&lt;div class=&#34;blogcard&#34;&gt;
+    &lt;a href=&#34;https://www.grobgroup.com/en/products/product-range/universal-machining-centers/milling-centers/g350/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+      &lt;div class=&#34;blogcard-container&#34;&gt;
+        &lt;div class=&#34;blogcard-info&#34;&gt;
+          &lt;div class=&#34;blogcard-title&#34;&gt;Universal machining center G350 - GROB&lt;/div&gt;
+          &lt;div class=&#34;blogcard-description&#34;&gt;The compact 5-axis machining center from GROB for milling workpieces of a wide variety of materials. Learn more.&lt;/div&gt;
+          &lt;div class=&#34;blogcard-url&#34;&gt;https://www.grobgroup.com/en/products/product-range/universal-machining-centers/milling-centers/g350/&lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+&lt;p&gt;テーブルのC軸とY軸をテーブル側に、主軸側にZ軸とX軸という&lt;br&gt;
+とてもユニークな構造がGシリーズの特徴だ&lt;/p&gt;
+&lt;p&gt;横形マシニングセンタでは典型的なコラムを無くした！&lt;/p&gt;
+&lt;p&gt;その後、長尺物のアルミ部品を加工するためにFシリーズを開発&lt;/p&gt;
+&lt;p&gt;そして電気自動車の需要が増えるのを見越して&lt;br&gt;
+金属加工機ではない製品を商品群に加えた&lt;br&gt;
+電動モータ、バッテリーセル、燃料電池などの組み立て装置だ&lt;/p&gt;
+&lt;div class=&#34;blogcard&#34;&gt;
+    &lt;a href=&#34;https://www.grobgroup.com/jp/%E8%A3%BD%E5%93%81%E6%83%85%E5%A0%B1/%E8%A3%BD%E5%93%81%E4%B8%80%E8%A6%A7/e-%E3%83%A2%E3%83%93%E3%83%AA%E3%83%86%E3%82%A3/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+      &lt;div class=&#34;blogcard-container&#34;&gt;
+        &lt;div class=&#34;blogcard-info&#34;&gt;
+          &lt;div class=&#34;blogcard-title&#34;&gt;E-&amp;amp;#12514;&amp;amp;#12499;&amp;amp;#12522;&amp;amp;#12486;&amp;amp;#12451;&amp;amp;#12398;&amp;amp;#38283;&amp;amp;#30330;&amp;amp;#12392;&amp;amp;#29983;&amp;amp;#29987; - GROB&lt;/div&gt;
+          &lt;div class=&#34;blogcard-description&#34;&gt;GROBのE-モビリティは、組立設備 システム設備製造のグローバルサービスです。長年の経験からお客様の要望に合わせ、カスタマイズが可能です。&lt;/div&gt;
+          &lt;div class=&#34;blogcard-url&#34;&gt;https://www.grobgroup.com/jp/%E8%A3%BD%E5%93%81%E6%83%85%E5%A0%B1/%E8%A3%BD%E5%93%81%E4%B8%80%E8%A6%A7/e-%E3%83%A2%E3%83%93%E3%83%AA%E3%83%86%E3%82%A3/&lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+&lt;p&gt;自動車産業の動向を冷静に判断して&lt;br&gt;
+その需要を満たす製品を開発する&lt;/p&gt;
+&lt;p&gt;その姿勢は英断と評されてしかるべきだろう&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

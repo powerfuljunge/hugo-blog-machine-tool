@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>素材 on 工作機械はおもしろい</title>
+    <link>http://localhost:1313/tags/%E7%B4%A0%E6%9D%90/</link>
+    <description>Recent content in 素材 on 工作機械はおもしろい</description>
+    <generator>Hugo -- 0.147.0</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Mon, 03 Oct 2022 09:16:27 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E7%B4%A0%E6%9D%90/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GrobのAM新製品＠オープンハウス　2022年5月</title>
+      <link>http://localhost:1313/new-product-of-grob-gmp300-for-additive-manufacturing/</link>
+      <pubDate>Mon, 03 Oct 2022 09:16:27 +0000</pubDate>
+      <guid>http://localhost:1313/new-product-of-grob-gmp300-for-additive-manufacturing/</guid>
+      <description>&lt;p&gt;Werkstatt&amp;amp;Betrieb誌にGrobのオープンハウスの記事があった&lt;/p&gt;
+&lt;div class=&#34;blogcard&#34;&gt;
+    &lt;a href=&#34;https://www.werkstatt-betrieb.de/a/fachartikel/grob-ist-auf-dem-weg-zum-lessbrgreatermu-2418230&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+      &lt;div class=&#34;blogcard-container&#34;&gt;
+        &lt;div class=&#34;blogcard-info&#34;&gt;
+          &lt;div class=&#34;blogcard-title&#34;&gt;Grob Hausmesse 2022 - Turnaround in der Elektromobilität erreicht&lt;/div&gt;
+          &lt;div class=&#34;blogcard-description&#34;&gt;Als vor etwa sechs Jahren der Transformationsprozess im Automobil hin zum batteriegespeisten Elektromotor verkündet wurde, begann man beim Systemspezialisten fü...&lt;/div&gt;
+          &lt;div class=&#34;blogcard-url&#34;&gt;https://www.werkstatt-betrieb.de/a/fachartikel/grob-ist-auf-dem-weg-zum-lessbrgreatermu-2418230&lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+&lt;p&gt;またまた、新製品を出しているのが驚きだった&lt;br&gt;
+それがAM（Additive Manufacturing）分野へ向けた製品だった&lt;/p&gt;
+&lt;h2 class=&#34;wp-block-heading&#34; id=&#34;additive-manufacturing--liquid-metal-printing-gmp300&#34;&gt;&lt;strong&gt;Additive Manufacturing – Liquid Metal Printing GMP300&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;主流のLPBF（Laser Powder Bed Fusion）ではなく&lt;br&gt;
+LMP（Liquid Metal Printing)を採用している&lt;/p&gt;
+&lt;p&gt;これはチャレンジでもあるが&lt;br&gt;
+製造工程に組み込むためにどうすべきかを考慮した決断だ&lt;/p&gt;
+&lt;p&gt;LPBFにも課題はある&lt;/p&gt;
+&lt;ul class=&#34;wp-block-list&#34;&gt;
+  &lt;li&gt;
+    素材である粉末のコストが高い
+  &lt;/li&gt;
+  &lt;li&gt;
+    粉末の固着率が低い
+  &lt;/li&gt;
+  &lt;li&gt;
+    なので製造時間がかかる
+  &lt;/li&gt;
+  &lt;li&gt;
+    後処理の手間が大きい&lt;br /&gt;など
+  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;採用したLMPは&lt;/p&gt;
+&lt;ul class=&#34;wp-block-list&#34;&gt;
+  &lt;li&gt;
+    経済的でフレキシブル&lt;br /&gt;ワイヤーが材料なので材料費が減る
+  &lt;/li&gt;
+  &lt;li&gt;
+    怪我や爆発の危険が無く、人身保護対策がかなり容易
+  &lt;/li&gt;
+  &lt;li&gt;
+    内部空間は不活性なので部品の酸化を防止できて、均質な材料特性を保証できる
+  &lt;/li&gt;
+  &lt;li&gt;
+    後工程の粉末除去やふるいにかけたり、粉末を回収する必要がない
+  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;いやー、AMのことはほとんど調べてきませんでしたので&lt;br&gt;
+ネットで調べたんですが、知らないことが多いこと多いこと（汗）&lt;/p&gt;
+&lt;p&gt;参考になったサイト：3Dプリント　レーザー　ガス で検索&lt;/p&gt;
+&lt;div class=&#34;blogcard&#34;&gt;
+    &lt;a href=&#34;https://i-maker.jp/blog/sls3d-13119.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+      &lt;div class=&#34;blogcard-container&#34;&gt;
+        &lt;div class=&#34;blogcard-info&#34;&gt;
+          &lt;div class=&#34;blogcard-title&#34;&gt;https://i-maker.jp/blog/sls3d-13119.html&lt;/div&gt;
+          &lt;div class=&#34;blogcard-description&#34;&gt;&lt;/div&gt;
+          &lt;div class=&#34;blogcard-url&#34;&gt;https://i-maker.jp/blog/sls3d-13119.html&lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+&lt;h2 class=&#34;wp-block-heading&#34; id=&#34;grobの開発に感じること&#34;&gt;Grobの開発に感じること&lt;/h2&gt;
+&lt;p&gt;自動車の今後の方向性に合っている&lt;br&gt;
+その意味で芯がブレていない・・・&lt;/p&gt;
+&lt;p&gt;それはGrobという会社の幹にあたる部分が自動車産業だという部分だ&lt;/p&gt;
+&lt;p&gt;しかも、自動車産業をターゲットにしているからといって&lt;br&gt;
+自動車にだけ使える技術ではない&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>高温合金の腐食を解決する方法</title>
+      <link>http://localhost:1313/coating-from-heraeus-can-increase-the-service-life-of-high-temperature-alloys-to-eight-times/</link>
+      <pubDate>Sat, 25 Sep 2021 23:59:59 +0000</pubDate>
+      <guid>http://localhost:1313/coating-from-heraeus-can-increase-the-service-life-of-high-temperature-alloys-to-eight-times/</guid>
+      <description>&lt;p&gt;テーマ：高性能合金を一段と強靭にする方法はあるのだろうか&lt;/p&gt;
+&lt;p&gt;Heraeus社が特許を持っているコーティングプロセスを使えば&lt;br&gt;
+焼却炉や化学設備に使う合金の寿命を最大8倍まで延ばせるという&lt;/p&gt;
+&lt;h3 id=&#34;高温合金を使う問題点&#34;&gt;高温合金を使う問題点&lt;/h3&gt;
+&lt;p&gt;高温合金では&lt;span style=&#34;font-size:18px;color:#FF0000;background-color:#FFFF00;&#34;&gt;腐食&lt;/span&gt;が大きな問題の一つ&lt;br&gt;
+&lt;span style=&#34;font-size:14px;text-decoration: underline;&#34;&gt;腐食が寿命を短くしてしまう&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;腐食すると設備を止めなきゃいけないだけではなく&lt;br&gt;
+粒子が剥離してしまうので&lt;br&gt;
+製造過程の途中で製品が汚れてしまう&lt;/p&gt;
+&lt;p&gt;つまり不良品ができてしまう&lt;/p&gt;
+&lt;h3 id=&#34;腐食問題を解決する方法&#34;&gt;腐食問題を解決する方法&lt;/h3&gt;
+&lt;p&gt;合金に&lt;span style=&#34;font-size:18px;color:#FF0000;background-color:#FFFF00;&#34;&gt;⍺-Al2O3の保護被膜&lt;/span&gt;を作る&lt;br&gt;
+そのために特許化された製法とは&lt;/p&gt;
+&lt;p&gt;&lt;span style=&#34;font-size:20px;color:#0000FF;font-weight:bold;&#34;&gt;Aerosol Deposition&lt;/span&gt;&lt;/p&gt;
+&lt;h3 id=&#34;効果がある使いみち&#34;&gt;効果がある使いみち&lt;/h3&gt;
+&lt;p&gt;製造過程で高いクリーン度が求められるもの&lt;/p&gt;
+&lt;p&gt;例えば&lt;br&gt;
+金属基板製造やバッテリー素材製造用の煆焼炉、乾燥炉&lt;/p&gt;
+&lt;p&gt;不純物が混じらないようにできれば&lt;br&gt;
+不良品を減らして生産性を向上させることになる&lt;/p&gt;
+&lt;h3 id=&#34;基本情報&#34;&gt;基本情報&lt;/h3&gt;
+&lt;p&gt;出典：2021年9月21日　Maschinenmarkt誌&lt;br&gt;
+&lt;a href=&#34;https://www.maschinenmarkt.vogel.de/heraeus-verfahren-macht-hochleistungslegierungen-wesentlich-robuster-a-1057996/?cmp=nl-97&amp;amp;uuid=59f81756f7bccffdf98785bb65dd9f7e&#34;&gt;https://www.maschinenmarkt.vogel.de/heraeus-verfahren-macht-hochleistungslegierungen-wesentlich-robuster-a-1057996/?cmp=nl-97&amp;amp;uuid=59f81756f7bccffdf98785bb65dd9f7e&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;関連記事：&lt;br&gt;
+&lt;a href=&#34;https://www.maschinenmarkt.vogel.de/neue-heraeus-beschichtungsmethode-ist-industriereif-a-1032878/&#34;&gt;https://www.maschinenmarkt.vogel.de/neue-heraeus-beschichtungsmethode-ist-industriereif-a-1032878/&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
