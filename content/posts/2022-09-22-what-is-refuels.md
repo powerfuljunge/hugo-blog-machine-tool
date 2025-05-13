@@ -1,12 +1,10 @@
 ---
 title: reFuelsとは何ぞや？
 author: 工作機械GURU
-type: machinery
+
 date: 2022-09-22T04:38:34+00:00
 url: /what-is-refuels/
-featured_image: /images/2022/09/co2-4767388__480.webp
-cover:
-  image: /images/2022/09/co2-4767388__480.webp
+image: "img/2022/09/co2-4767388__480.webp"
 last_modified:
   - 2022-09-22 14:15:33
 page_type:

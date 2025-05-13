@@ -1,12 +1,10 @@
 ---
 title: 電気自動車（EV)は高い　最安EVベスト10
 author: 工作機械GURU
-type: machinery
+
 date: 2022-11-27T14:22:46+00:00
 url: /these-are-the-ten-cheapest-ev/
-featured_image: /images/2022/11/e-mobility-car.jpg
-cover:
-  image: /images/2022/11/e-mobility-car.jpg
+image: "img/2022/11/e-mobility-car.jpg"
 last_modified:
   - 2022-11-27 23:22:48
 page_type:

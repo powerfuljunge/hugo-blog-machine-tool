@@ -1,12 +1,10 @@
 ---
 title: Bauma2022 建設機械展示会ハイライト
 author: 工作機械GURU
-type: machinery
+
 date: 2022-11-15T16:09:28+00:00
 url: /bauma2022-construction-machines-exhibition-high-light/
-featured_image: /images/2022/11/baumaschine_compressor-2580482__480.jpg
-cover:
-  image: /images/2022/11/baumaschine_compressor-2580482__480.jpg
+image: "img/2022/11/baumaschine_compressor-2580482__480.jpg"
 last_modified:
   - 2022-11-16 01:09:30
 page_type:

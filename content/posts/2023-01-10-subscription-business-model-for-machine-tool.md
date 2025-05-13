@@ -1,12 +1,10 @@
 ---
 title: 工作機械にもサブスクの波が来ている・・・
 author: 工作機械GURU
-type: machinery
+
 date: 2023-01-09T15:05:02+00:00
 url: /subscription-business-model-for-machine-tool/
-featured_image: /images/2023/01/subscribe-6472633__480.webp
-cover:
-  image: /images/2023/01/subscribe-6472633__480.webp
+image: "img/2023/01/subscribe-6472633__480.webp"
 last_modified:
   - 2023-01-10 00:05:02
 page_type:

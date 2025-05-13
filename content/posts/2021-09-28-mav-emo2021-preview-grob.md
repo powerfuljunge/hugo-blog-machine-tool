@@ -1,12 +1,10 @@
 ---
 title: 専門誌MAVのEMO2021-Preview Grob
 author: 工作機械GURU
-type: machinery
+
 date: 2021-09-28T02:50:05+00:00
 url: /mav-emo2021-preview-grob/
-featured_image: /images/2022/09/grob01.auszug.jpg
-cover:
-  image: /images/2022/09/grob01.auszug.jpg
+image: "img/2022/09/grob01.auszug.jpg"
 last_modified:
   - 2021-09-28 11:37:19
 page_type:

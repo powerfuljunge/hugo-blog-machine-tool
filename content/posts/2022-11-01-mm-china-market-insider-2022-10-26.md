@@ -1,12 +1,10 @@
 ---
 title: 【MM】China market insider 2022/10/26
 author: 工作機械GURU
-type: machinery
+
 date: 2022-10-31T17:31:43+00:00
 url: /mm-china-market-insider-2022-10-26/
-featured_image: /images/2022/11/mm_china_market_insider.jpeg
-cover:
-  image: /images/2022/11/mm_china_market_insider.jpeg
+image: "img/2022/11/mm_china_market_insider.jpeg"
 last_modified:
   - 2022-11-01 02:34:26
 page_type:

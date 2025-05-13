@@ -1,12 +1,10 @@
 ---
 title: 高温合金の腐食を解決する方法
 author: 工作機械GURU
-type: machinery
+
 date: 2021-09-25T23:59:59+00:00
 url: /coating-from-heraeus-can-increase-the-service-life-of-high-temperature-alloys-to-eight-times/
-featured_image: /images/2021/09/korrosion-buoy-1771761__480.jpg
-cover:
-  image: /images/2021/09/korrosion-buoy-1771761__480.jpg
+image: "img/2021/09/korrosion-buoy-1771761__480.jpg"
 last_modified:
   - 2022-09-19 16:42:18
 page_type:

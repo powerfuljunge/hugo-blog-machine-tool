@@ -1,12 +1,10 @@
 ---
 title: ドイツの機械設備産業は存亡の危機にある
 author: 工作機械GURU
-type: machinery
+
 date: 2023-02-05T14:42:21+00:00
 url: /machinery-and-plant-engineering-sector-under-structural-deficits-for-some-time/
-featured_image: /images/2023/02/Bainco_0109492979.jpeg
-cover:
-  image: /images/2023/02/Bainco_0109492979.jpeg
+image: "img/2023/02/Bainco_0109492979.jpeg"
 last_modified:
   - 2023-02-05 23:42:22
 page_type:

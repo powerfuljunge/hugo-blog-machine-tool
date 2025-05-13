@@ -1,12 +1,10 @@
 ---
 title: ベスト10 工作機械 ミリングマシン部門@2023/1/16
 author: 工作機械GURU
-type: machinery
+
 date: 2023-01-17T16:25:51+00:00
 url: /maschinen-check-best-10-milling-machine-by-fertigung-magazine/
-featured_image: /images/2023/01/grob_platz-1-grob-g150-e667b62f.webp
-cover:
-  image: /images/2023/01/grob_platz-1-grob-g150-e667b62f.webp
+image: "img/2023/01/grob_platz-1-grob-g150-e667b62f.webp"
 last_modified:
   - 2023-01-18 01:25:52
 page_type:

@@ -1,12 +1,10 @@
 ---
 title: AM技術 付加―除去製造工程のポテンシャルと課題
 author: 工作機械GURU
-type: machinery
+
 date: 2021-10-10T06:14:35+00:00
 url: /additive-subtractive-process-chain/
-featured_image: /images/2021/10/3d-druck_industry-3225119__480.jpg
-cover:
-  image: /images/2021/10/3d-druck_industry-3225119__480.jpg
+image: "img/2021/10/3d-druck_industry-3225119__480.jpg"
 last_modified:
   - 2022-12-04 11:59:12
 page_type:

@@ -1,12 +1,10 @@
 ---
 title: DMG MoriのDMU600 Gantry linear
 author: 工作機械GURU
-type: machinery
+
 date: 2022-10-23T17:03:12+00:00
 url: /dmg-mori-dmu600-gantry-linear/
-featured_image: /images/2022/10/dmu600mod.jpg
-cover:
-  image: /images/2022/10/dmu600mod.jpg
+image: "img/2022/10/dmu600mod.jpg"
 last_modified:
   - 2022-10-24 02:05:12
 page_type:

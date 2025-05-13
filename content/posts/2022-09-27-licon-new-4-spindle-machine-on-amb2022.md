@@ -1,12 +1,10 @@
 ---
 title: LiCON 最近気になる工作機械メーカ
 author: 工作機械GURU
-type: machinery
+
 date: 2022-09-27T08:16:32+00:00
 url: /licon-new-4-spindle-machine-on-amb2022/
-featured_image: /images/2022/09/licon-liflex-iv-244-keyvisual-1920x-q90.webp
-cover:
-  image: /images/2022/09/licon-liflex-iv-244-keyvisual-1920x-q90.webp
+image: "img/2022/09/licon-liflex-iv-244-keyvisual-1920x-q90.webp"
 last_modified:
   - 2022-09-27 17:16:34
 page_type:

@@ -1,0 +1,14 @@
+<div class="bg-white panel mb-3 p-4 dark:bg-warmgray-900 text-center">
+    <p class="text-xl text-center text-gray-700 py-3 pl-3 dark:text-gray-300 font-bold">Profile</p>
+    <img src="{{ .Site.Params.profile.image | default "/img/profile-copy.jpg" | relURL }}"
+         alt="Profile"
+         style="width: 128px; height: 128px;"
+         class="mx-auto rounded-full object-cover mb-3 border-2 border-gray-300 dark:border-gray-600" />
+    <h3 class="text-lg font-semibold text-gray-800 dark:text-white">
+      {{ .Site.Params.profile.name | default "Your Name" }}
+    </h3>
+    <p class="text-sm text-gray-600 dark:text-gray-300 mt-1">
+      {{ .Site.Params.profile.bio | default "自己紹介テキストをここに記述します。" }}
+    </p>
+  </div>
+  

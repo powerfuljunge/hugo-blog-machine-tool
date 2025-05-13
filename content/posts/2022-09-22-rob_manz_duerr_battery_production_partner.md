@@ -1,12 +1,10 @@
 ---
 title: Grob-Werke、Manz、Dürrの3社がリチウムイオン電池製造で提携
 author: 工作機械GURU
-type: machinery
+
 date: 2022-09-22T12:08:32+00:00
 url: /rob_manz_duerr_battery_production_partner/
-featured_image: /images/2022/09/ev-amsterdam-916561__480.jpg
-cover:
-  image: /images/2022/09/ev-amsterdam-916561__480.jpg
+image: "img/2022/09/ev-amsterdam-916561__480.jpg"
 last_modified:
   - 2022-09-22 21:08:33
 page_type:

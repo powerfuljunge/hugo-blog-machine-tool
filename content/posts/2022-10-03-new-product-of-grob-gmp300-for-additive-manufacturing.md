@@ -1,12 +1,10 @@
 ---
 title: GrobのAM新製品＠オープンハウス　2022年5月
 author: 工作機械GURU
-type: machinery
+
 date: 2022-10-03T09:16:27+00:00
 url: /new-product-of-grob-gmp300-for-additive-manufacturing/
-featured_image: /images/2022/10/e93cfbe2530a75ad1f04b542f4a583f359f68a6f.webp
-cover:
-  image: /images/2022/10/e93cfbe2530a75ad1f04b542f4a583f359f68a6f.webp
+image: "img/2022/10/e93cfbe2530a75ad1f04b542f4a583f359f68a6f.webp"
 last_modified:
   - 2022-10-03 18:16:29
 page_type:

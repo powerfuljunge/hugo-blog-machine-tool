@@ -1,12 +1,10 @@
 ---
 title: Smart Factory
 author: 工作機械GURU
-type: machinery
+
 date: 2022-09-23T12:42:49+00:00
 url: /smart-factory/
-featured_image: /images/2022/09/hands-1691225__480.webp
-cover:
-  image: /images/2022/09/hands-1691225__480.webp
+image: "img/2022/09/hands-1691225__480.webp"
 last_modified:
   - 2022-09-23 21:42:50
 page_type:

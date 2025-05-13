@@ -1,12 +1,10 @@
 ---
 title: 技術的洗浄度 technical cleanlinessとは何だ？
 author: 工作機械GURU
-type: machinery
+
 date: 2022-10-12T06:16:14+00:00
 url: /what-is-technical-cleanliness/
-featured_image: /images/2022/10/technical-cleanliness.jpg
-cover:
-  image: /images/2022/10/technical-cleanliness.jpg
+image: "img/2022/10/technical-cleanliness.jpg"
 last_modified:
   - 2022-10-12 15:16:15
 page_type:

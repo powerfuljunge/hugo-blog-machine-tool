@@ -1,12 +1,10 @@
 ---
 title: 在中国ドイツ企業アンケート　2022年
 author: 工作機械GURU
-type: machinery
+
 date: 2022-12-25T09:08:23+00:00
 url: /sentiment-of-german-companies-in-china-at-an-all-time-low/
-featured_image: /images/2022/12/shanghai-1484452__480.jpg
-cover:
-  image: /images/2022/12/shanghai-1484452__480.jpg
+image: "img/2022/12/shanghai-1484452__480.jpg"
 last_modified:
   - 2022-12-25 18:08:25
 page_type:

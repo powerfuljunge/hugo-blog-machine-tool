@@ -1,12 +1,9 @@
 ---
 title: ドイツ・イノベーションアワード2023
 author: 工作機械GURU
-type: machinery
 date: 2023-04-30T14:31:19+00:00
 url: /the-airless-brake-is-available-for-all-categories-of-rail-vehicles/
-featured_image: /images/2023/04/wheel-1957586__480.jpg
-cover:
-  image: /images/2023/04/wheel-1957586__480.jpg
+image: "img/2023/04/wheel-1957586__480.jpg"
 last_modified:
   - 2023-04-30 23:31:21
 page_type:
@@ -22,6 +19,7 @@ categories:
   - 産業機械
 tags:
   - イノベーション
+archives: ["2023/04"]
 
 ---
 ドイツでイノベーションっていうと  

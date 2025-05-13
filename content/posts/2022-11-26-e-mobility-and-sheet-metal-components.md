@@ -1,12 +1,10 @@
 ---
 title: eモビリティと部品加工 – 板金加工
 author: 工作機械GURU
-type: machinery
+
 date: 2022-11-26T09:47:59+00:00
 url: /e-mobility-and-sheet-metal-components/
-featured_image: /images/2022/11/bipolar-plate_maxresdefault-3637186606.jpg
-cover:
-  image: /images/2022/11/bipolar-plate_maxresdefault-3637186606.jpg
+image: "img/2022/11/bipolar-plate_maxresdefault-3637186606.jpg"
 last_modified:
   - 2022-11-26 18:48:01
 page_type:

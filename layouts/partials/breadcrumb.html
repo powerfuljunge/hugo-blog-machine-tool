@@ -1,0 +1,13 @@
+{{ if not .IsHome }}
+<nav class="text-sm text-gray-600 dark:text-gray-300 mb-4 flex items-center space-x-2">
+  <a href="{{ .Site.BaseURL }}" class="hover:underline">Home</a>
+  {{ with .Section }}
+    <span class="mx-1">›</span>
+    <a href="{{ $.Site.BaseURL }}{{ . | urlize }}" class="hover:underline">{{ . | humanize }}</a>
+  {{ end }}
+  {{ if .IsPage }}
+    <span class="mx-1">›</span>
+    <span>{{ .Title }}</span>
+  {{ end }}
+</nav>
+{{ end }}

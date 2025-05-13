@@ -1,12 +1,10 @@
 ---
 title: Trumpf　過去最高の売上高　2021/22決算
 author: 工作機械GURU
-type: machinery
+
 date: 2022-11-04T06:44:23+00:00
 url: /historic-sales-record-for-the-trumpf-group-annual-report-2021-22/
-featured_image: /images/2022/11/Trumpf_annual_report_2021_22.jpg
-cover:
-  image: /images/2022/11/Trumpf_annual_report_2021_22.jpg
+image: "img/2022/11/Trumpf_annual_report_2021_22.jpg"
 last_modified:
   - 2022-11-04 15:52:40
 page_type:

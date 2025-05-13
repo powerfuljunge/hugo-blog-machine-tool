@@ -1,12 +1,10 @@
 ---
 title: 自動車部品 Dr. Schneiderに会社更生法適用
 author: 工作機械GURU
-type: machinery
+
 date: 2022-09-26T05:53:01+00:00
 url: /automotive-supplier-dr-schneider-is-insolvent/
-featured_image: /images/2022/09/131104_Gebete_mod.jpg
-cover:
-  image: /images/2022/09/131104_Gebete_mod.jpg
+image: "img/2022/09/131104_Gebete_mod.jpg"
 last_modified:
   - 2022-09-26 14:53:02
 page_type:

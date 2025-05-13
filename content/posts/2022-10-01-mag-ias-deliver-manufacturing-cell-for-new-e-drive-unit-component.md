@@ -1,12 +1,10 @@
 ---
 title: MAG IASがVWカッセル工場にE駆動の部品加工ラインを納入
 author: 工作機械GURU
-type: machinery
+
 date: 2022-10-01T02:50:44+00:00
 url: /mag-ias-deliver-manufacturing-cell-for-new-e-drive-unit-component/
-featured_image: /images/2022/10/ffg_press_SP600_Cell_4.jpg
-cover:
-  image: /images/2022/10/ffg_press_SP600_Cell_4.jpg
+image: "img/2022/10/ffg_press_SP600_Cell_4.jpg"
 last_modified:
   - 2022-10-01 11:51:54
 page_type:

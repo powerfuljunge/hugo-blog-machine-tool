@@ -1,38 +1,28 @@
-{{ define "main" }}
-  <div class="post-list">
-    {{ $paginator := .Paginate (where site.RegularPages "Type" "in" site.Params.mainSections) }}
-    {{ range $index, $page := $paginator.Pages }}
-    <article class="post-entry">
-      <a href="{{ $page.RelPermalink }}" class="entry-card">
-    
-        {{ with $page.Params.cover.image }}
-          <div class="featured-image-wrapper">
-            <img src="{{ . }}" alt="{{ $page.Title }}" class="featured-image" />
-            {{ with $page.Params.categories }}
-              <div class="category-badge">{{ index . 0 }}</div>
-            {{ end }}
-          </div>
-        {{ end }}
-    
-        <div class="entry-text">
-          <header class="entry-header">
-            <h2>{{ $page.Title }}</h2>
-            <p class="post-date">{{ $page.Date.Format "2006-01-02" }}</p>
-          </header>
-    
-          <div class="entry-content">
-            <p>{{ $page.Summary | plainify }}{{ if $page.Truncated }}…{{ end }}</p>
-          </div>
-        </div>
-    
-      </a>
-    </article>
-    {{ end }}
-  </div>
+{{ define "header_css" }}{{ end }}
 
-  {{ if gt $paginator.TotalPages 1 }}
-    <footer class="page-footer">
-      {{ template "_internal/pagination.html" . }}
-    </footer>
+{{ define "main" }}
+<div class="grid grid-cols-3 gap-4">
+  {{ if .Site.Params.widgets.display }}
+  <div class="col-span-3 lg:col-span-2 mb-3">
+  {{ else }}
+  <div class="col-span-3 mb-3">
   {{ end }}
+    <h2 class="text-4xl dark:text-white">{{if not .IsHome}}{{ humanize .Title }}{{end}}</h2>
+    {{if .IsHome}}
+    {{.Scratch.Set "Paginator" (.Paginate (where .Site.RegularPages "Type" "in" site.Params.mainSections) (.Site.Params.paginator_pages) )}}
+    {{else}}
+    {{.Scratch.Set "Paginator" .Paginator}}
+    {{end}}
+    {{$paginator:=(.Scratch.Get "Paginator")}}
+    {{ range $paginator.Pages }}
+    <a href="{{.RelPermalink}}">
+      {{ .Render "summary" }}
+    </a>
+    {{ end }}
+    {{ partial "paginator.html" . }}
+  </div>
+  {{ if .Site.Params.widgets.display }}
+    {{ partial "widgets.html" . }}
+  {{ end }}
+</div>
 {{ end }}

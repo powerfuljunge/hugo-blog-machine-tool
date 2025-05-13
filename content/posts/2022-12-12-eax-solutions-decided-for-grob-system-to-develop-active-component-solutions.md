@@ -1,12 +1,10 @@
 ---
 title: eアクスル製造のエンジニアリング会社 eAx solutions
 author: 工作機械GURU
-type: machinery
+
 date: 2022-12-11T15:02:43+00:00
 url: /eax-solutions-decided-for-grob-system-to-develop-active-component-solutions/
-featured_image: /images/2022/12/manufacturing-35083__480.webp
-cover:
-  image: /images/2022/12/manufacturing-35083__480.webp
+image: "img/2022/12/manufacturing-35083__480.webp"
 last_modified:
   - 2022-12-12 00:02:45
 page_type:

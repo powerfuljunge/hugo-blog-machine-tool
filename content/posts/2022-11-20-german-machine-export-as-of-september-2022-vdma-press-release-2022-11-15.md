@@ -1,12 +1,10 @@
 ---
 title: ドイツ機械輸出 VDMA プレスリリース 2022/11/15
 author: 工作機械GURU
-type: machinery
+
 date: 2022-11-20T05:40:16+00:00
 url: /german-machine-export-as-of-september-2022-vdma-press-release-2022-11-15/
-featured_image: /images/2022/11/vdma_202211_machine-export-sep2022.jpg
-cover:
-  image: /images/2022/11/vdma_202211_machine-export-sep2022.jpg
+image: "img/2022/11/vdma_202211_machine-export-sep2022.jpg"
 last_modified:
   - 2022-11-20 14:40:18
 page_type:

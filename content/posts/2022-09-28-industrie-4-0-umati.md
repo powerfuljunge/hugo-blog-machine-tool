@@ -1,7 +1,7 @@
 ---
 title: Industrie 4.0 umati
 author: 工作機械GURU
-type: machinery
+
 date: 2022-09-27T17:24:44+00:00
 url: /industrie-4-0-umati/
 last_modified:

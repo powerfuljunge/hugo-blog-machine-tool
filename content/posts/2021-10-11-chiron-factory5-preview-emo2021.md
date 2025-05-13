@@ -1,12 +1,10 @@
 ---
 title: 専門誌MAVのEMO2021-Preview Chiron
 author: 工作機械GURU
-type: machinery
+
 date: 2021-10-11T05:33:12+00:00
 url: /chiron-factory5-preview-emo2021/
-featured_image: /images/2021/10/chiron06.jpg
-cover:
-  image: /images/2021/10/chiron06.jpg
+image: "img/2021/10/chiron06.jpg"
 last_modified:
   - 2022-09-28 02:20:10
 page_type:

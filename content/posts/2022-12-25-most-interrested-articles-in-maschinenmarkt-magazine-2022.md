@@ -1,12 +1,10 @@
 ---
 title: 【MM】2022年の人気記事（２）
 author: 工作機械GURU
-type: machinery
+
 date: 2022-12-25T07:58:50+00:00
 url: /most-interrested-articles-in-maschinenmarkt-magazine-2022/
-featured_image: /images/2022/12/trend-board-1193335__480.jpg
-cover:
-  image: /images/2022/12/trend-board-1193335__480.jpg
+image: "img/2022/12/trend-board-1193335__480.jpg"
 last_modified:
   - 2022-12-25 16:58:52
 page_type:

@@ -1,78 +1,162 @@
 baseURL = "https://dazzling-speculoos-bd5446.netlify.app/"
 title = "工作機械はおもしろい"
-theme = "PaperMod"
+author = "工作機械GURU"
 languageCode = "ja-jp"
-defaultContentLanguage = "ja"
+DefaultContentLanguage = "jp"
+enableInlineShortcodes = true
+theme = "Blonde"
+enableRobotsTXT = true
 
-[outputs]
-  home = ["HTML", "RSS", "JSON"]
+# Please enable this feature if the site is available in Japanese, Chinese or Korean.
+hasCJKLanguage = true
 
-[taxonomies]
-  category = "categories"
-  tag = "tags"
+# If you're using Google Analytics, you can enable this feature.
+#googleAnalytics = "G-1234567890"
+
+# Disqus Comment System
+#disqusShortname = ""
 
 [params]
-  ShowReadingTime = true
-  ShowToc = true
-  TocOpen = true
-  ShowPostNavLinks = true
-  ShowBreadCrumbs = true
-  ShowCodeCopyButtons = true
-  comments = false
-  ShowRecent = true
-  ShowCategories = true
-  ShowTags = true
-  title = "工作機械はおもしろい"
-  subtitle = "工作機械の世界をリアルに語る・・・かな"
-  fuseOpts = { isCaseSensitive = false, shouldSort = true, includeMatches = false, findAllMatches = true, minMatchCharLength = 2 }
-  ShowSearch = false
-  mainSections = ["posts", "machinery"]
- 
-  [params.cover]
-    image = "images/hero.jpg"
-    alt = "ヒーロー画像"
-    caption = "ようこそ"
-    hidden = false
+mainSections = ["posts"] 
 
-  [params.homeInfoParams]
-    ShowSidebar = true
-    ShowHomeInfo = false
+# Base color of the website.
+# https://tailwindcss.com/docs/background-color
+base_color = "bg-gray-800"
 
+#Site description
+description = "Blonde theme for Hugo."
 
-  [params.profileMode]
-    enabled = false
+# The number of articles to be displayed on a single page.
+paginator_pages = 5
 
-  [params.assets]
-    css = ["css/custom.css"]
+# Enable this if you want the archive list to be in a drop-down format.
+archive_dropdown = "false"
+
+# Number of tags to be displayed.
+tagsLimit = 20
+
+# Dark mode by default : dark
+# Light mode by default : light
+darkmode = "light"
+
+  [params.ad]
+    # Google AdSense
+    # ex. ca-pub-0000000000000000
+    googleAdSense = ""
+
+    # ex. 000000000
+    adslot = ""
+
+    # Placement of ads
+    postTop = false
+    postBottom = false
+
+  [params.post]
+    # Show thumbnails
+    thumbnail = true
+
+    # Disable the "NO IMAGE" image.
+    noimage = true
+
+    # See the Tailwind CSS documentation to set it up.
+    # Recommended settings are h-32 to h-48.
+    # https://tailwindcss.com/docs/height
+    thumbnail_height = "lg:h-44"
+
+    # https://tailwindcss.com/docs/width
+    thumbnail_width = "lg:w-auto"
+
+    # Number of characters in description
+    description = 130
+
+  [params.profile]
+    name = "工作機械GURU"
+    bio = "工作機械という目立たないが頼もしい縁の下の力持ちに光を当ててみた。工作機械の世界をリアルに語る・・・かな"
+    image = "/img/profile-machine-tool.png"
+  
+
+  [params.widgets]
+    # Display widgets
+    display = true
+
+    # Order of widgets to display
+    widgets = ["search", "related", "profile", "category", "tags", "recent"]
+
+# If you're using Yandex.Metrica, you can enable this feature.
+#[params.analytics.yandexmetrica]
+#    enabled = true
+#    tagNumber = ''
+
+[menu]
+
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "legal"
+    name = "特商法表記"
+    url = "/legal/"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url = "/contact/"
+    weight = 3
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+archive = "archives"
+
+[privacy]
+
+  [privacy.vimeo]
+    disabled = false
+    simple = true
+
+  [privacy.x]
+    disabled = false
+    enableDNT = true
+    simple = true
+
+  [privacy.instagram]
+    disabled = false
+    simple = true
+
+  [privacy.youtube]
+    disabled = false
+    privacyEnhanced = true
+
+[services]
+
+  [services.instagram]
+    disableInlineCSS = true
+
+  [services.x]
+    disableInlineCSS = true
 
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
 
-[menu]
-
-  [[menu.main]]
-    name = "ホーム"
-    url = "/"
-    weight = 1
-
-  [[menu.main]]
-    name = "特商法表記"
-    url = "/terms-of-service/"
-    weight = 2
-
 [related]
-  threshold = 80
-  includeNewer = true
-  toLower = true
+threshold = 80
+includeNewer = true
+toLower = true
 
-  [[related.indices]]
-    name  = "tags"
-    weight = 100
+[[related.indices]]
+name = "tags"
+weight = 100
 
-  [[related.indices]]
-    name  = "categories"
-    weight = 80
+[[related.indices]]
+name = "categories"
+weight = 80
 
-
+[[related.indices]]
+name = "title"
+weight = 20

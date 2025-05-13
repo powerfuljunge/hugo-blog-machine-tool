@@ -1,12 +1,10 @@
 ---
 title: ３Dプリントの実用化レベルに驚いた
 author: 工作機械GURU
-type: machinery
+
 date: 2022-12-03T17:49:32+00:00
 url: /3d-printing-in-praxis-daimler-truck-ag/
-featured_image: /images/2021/10/3d-druck_industry-3225119__480.jpg
-cover:
-  image: /images/2021/10/3d-druck_industry-3225119__480.jpg
+image: "img/2021/10/3d-druck_industry-3225119__480.jpg"
 last_modified:
   - 2022-12-04 02:49:33
 page_type:

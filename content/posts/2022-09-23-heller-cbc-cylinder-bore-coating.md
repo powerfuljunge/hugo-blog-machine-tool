@@ -1,12 +1,10 @@
 ---
 title: HellerのCBC Cylinder Bore Coatingがおもしろい
 author: 工作機械GURU
-type: machinery
+
 date: 2022-09-23T08:27:32+00:00
 url: /heller-cbc-cylinder-bore-coating/
-featured_image: /images/2022/09/mercedes-1861418__480.jpg
-cover:
-  image: /images/2022/09/mercedes-1861418__480.jpg
+image: "img/2022/09/mercedes-1861418__480.jpg"
 last_modified:
   - 2022-09-23 17:27:33
 page_type:

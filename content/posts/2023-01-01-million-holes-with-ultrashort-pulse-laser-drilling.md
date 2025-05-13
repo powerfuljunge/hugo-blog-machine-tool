@@ -1,12 +1,10 @@
 ---
 title: '百万個の穴を開ける　- ドリルがへたるｗｗｗ'
 author: 工作機械GURU
-type: machinery
+
 date: 2023-01-01T14:38:47+00:00
 url: /million-holes-with-ultrashort-pulse-laser-drilling/
-featured_image: /images/2023/01/blue-laser-6122980__480.jpg
-cover:
-  image: /images/2023/01/blue-laser-6122980__480.jpg
+image: "img/2023/01/blue-laser-6122980__480.jpg"
 last_modified:
   - 2023-01-01 23:38:49
 page_type:
