@@ -1,0 +1,33 @@
+# === Hugo build artifacts ===
+/public/
+/resources/_gen/
+/hugo_stats.json
+
+# === OS & Editor files ===
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# === Node.js / npm ===
+node_modules/
+package-lock.json
+
+# === VSCode or JetBrains IDE ===
+.vscode/
+.idea/
+
+# === Log files and build locks ===
+npm-debug.log
+.hugo_build.lock
+
+# === Temporary files ===
+*.log
+*.tmp
+*.bak
+
+# === GitHub-specific ===
+.github/
+
+# === Optional ===
+/netlify.toml
