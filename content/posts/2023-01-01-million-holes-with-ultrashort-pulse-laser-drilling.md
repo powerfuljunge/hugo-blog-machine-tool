@@ -27,7 +27,7 @@ tags:
 {{< blogcard
 url="https://www.maschinenmarkt.vogel.de/wie-man-eine-million-loecher-bohrt-a-1089416/?cmp=nl-97&#038;uuid=59f81756f7bccffdf98785bb65dd9f7e"
 title="Wie man eine Million Löcher bohrt"
-image="https://infopolis.org/images/cocoon-resources/blog-card-cache/841e2586bacf63c29f8147b6e68c596d.jpg"
+image="https://infopolis.org/img/cocoon-resources/blog-card-cache/841e2586bacf63c29f8147b6e68c596d.jpg"
 description="Der Laser ist das Werkzeug der Wahl, wenn es darum geht, eine große Zahl von gleichartigen Löchern nebeneinander zu bohren. Aber welches Lasersystem ist dann am..."
 >}} 
 
@@ -371,7 +371,7 @@ Sim Con Drillプロジェクトでは、すでにその方法で
 {{< blogcard
 url="https://laser-navi.com/media/technical_paper/a21"
 title="ファイバーレーザ加工機による航空機部品などへの孔あけ"
-image="https://infopolis.org/images/cocoon-resources/blog-card-cache/3f19799c0d35223a84f847acbab963f7.jpg"
+image="https://infopolis.org/img/cocoon-resources/blog-card-cache/3f19799c0d35223a84f847acbab963f7.jpg"
 description="月刊ツールエンジニア 2016年5月号より「ファイバーレーザ加工機による航空機部品などへの孔あけ」株..."
 >}} 
 

@@ -1,4 +1,4 @@
-baseURL = "https://dazzling-speculoos-bd5446.netlify.app/"
+baseURL = "https://infopolis.org/"
 title = "工作機械はおもしろい"
 author = "工作機械GURU"
 languageCode = "ja-jp"
@@ -18,6 +18,8 @@ hasCJKLanguage = true
 
 [params]
 mainSections = ["posts"] 
+toc_default_open = false  # true: 表示 / false: 非表示
+
 
 # Base color of the website.
 # https://tailwindcss.com/docs/background-color
@@ -96,9 +98,9 @@ darkmode = "light"
     weight = 1
 
   [[menu.main]]
-    identifier = "legal"
-    name = "特商法表記"
-    url = "/legal/"
+    identifier = "privacypolicy"
+    name = "Privacy Policy"
+    url = "/privacypolicy/"
     weight = 2
 
   [[menu.main]]
@@ -143,7 +145,10 @@ archive = "archives"
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
-
+  [markup.tableOfContents]
+      startLevel = 2
+      endLevel = 3
+  
 [related]
 threshold = 80
 includeNewer = true

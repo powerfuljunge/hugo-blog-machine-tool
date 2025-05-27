@@ -31,7 +31,7 @@ Maschinenmarkt誌に紹介されていたeAx solutions社の記事が目を引�
 {{< blogcard
 url="https://www.maschinenmarkt.vogel.de/prototypen-in-der-e-mobilitaet-flexibel-fertigen-a-39c48a485362752b2e0558f42c44a77b/?cmp=nl-159&#038;uuid=59f81756f7bccffdf98785bb65dd9f7e"
 title="Prototypen in der E-Mobilität flexibel fertigen"
-image="https://infopolis.org/images/cocoon-resources/blog-card-cache/ee4617d00f7b0abafa41fcbf813bbd29.jpeg"
+image="https://infopolis.org/img/cocoon-resources/blog-card-cache/ee4617d00f7b0abafa41fcbf813bbd29.jpeg"
 description="(Bild: Grob-Werke) Dass Grob im Bereich der Elektromobilität nicht nur mit OEMs erfolgreich zusammenarbeitet, zeigt die Kooperation mit eAx solutions. Beim Entw..."
 >}} 
 
@@ -81,7 +81,7 @@ eアクスルに関しては、以下のような記事も見つけました
 {{< blogcard
 url="https://newswitch.jp/p/30296"
 title="「eアクスル」開発過熱、ＥＶ時代へ日本電産・ボッシュなどが中国・欧州に熱視線 ニュースイッチ by 日刊工業新聞社"
-image="https://infopolis.org/images/cocoon-resources/blog-card-cache/0d9090c2250c45cd35843116d8d9f04f.png"
+image="https://infopolis.org/img/cocoon-resources/blog-card-cache/0d9090c2250c45cd35843116d8d9f04f.png"
 description="電気自動車（ＥＶ）の基幹部品であるモーターの開発や拡販競争が激しくなっている。特に「ｅアクスル」と呼ばれる、モーターと周辺部品を一体にした装置はＥＶの生産効率を向上でき、需要が急拡大すると見られる。本..."
 >}} 
 

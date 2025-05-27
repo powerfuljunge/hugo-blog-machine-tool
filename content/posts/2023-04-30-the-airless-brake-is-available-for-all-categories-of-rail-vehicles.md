@@ -35,7 +35,7 @@ archives: ["2023/04"]
 {{< blogcard
 url="https://business.nikkei.com/atcl/gen/19/00081/021600322/"
 title="シュンペーターとは？　イノベーション理論の実践例から考察する"
-image="https://infopolis.org/images/cocoon-resources/blog-card-cache/c73ae7bfe6d580b8bc69208dc33cda4a.jpg"
+image="https://infopolis.org/img/cocoon-resources/blog-card-cache/c73ae7bfe6d580b8bc69208dc33cda4a.jpg"
 description="イノベーション理論を提唱した、20世紀前半を代表する経済学者「ヨーゼフ・シュンペーター」。彼が示したイノベーションの概念は、21世紀の現代においても世界中の企業経営者たちによって実践されている。この記事ではそうした事例やシュンペーターにまつわる話題を過去記事から振り返る。"
 >}} 
 

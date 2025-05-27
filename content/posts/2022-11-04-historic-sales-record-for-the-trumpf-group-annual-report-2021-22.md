@@ -29,7 +29,7 @@ Maschinenmarkt誌の2022/10/28付にその記事が公開されている
 {{< blogcard
 url="https://www.maschinenmarkt.vogel.de/historischer-umsatzrekord-fuer-die-trumpf-gruppe-a-23161dfa19aa61dda4fc4bf95d02c936/"
 title="Historischer Umsatzrekord für die Trumpf-Gruppe"
-image="https://infopolis.org/images/cocoon-resources/blog-card-cache/aa294acbbf1242ef9d35eeeaa2f07f94.jpeg"
+image="https://infopolis.org/img/cocoon-resources/blog-card-cache/aa294acbbf1242ef9d35eeeaa2f07f94.jpeg"
 description="(Bild: Trumpf) Die Trumpf-Gruppe verzeichnet im Geschäftsjahrs 2021/22 ein Plus vn 20,5 Prozent auf 4,2 Milliarden Euro und damit den bisher höchsten Umsatz der..."
 >}} 
 
@@ -48,283 +48,25 @@ description="(Bild: Trumpf) Die Trumpf-Gruppe verzeichnet im Geschäftsjahrs 202
 創業99年だそうですが、受注は55億7700万ユーロ（約8070億円）あったので  
 創業100周年は、良い成績のまま迎えられそうです
 
-## 決算概要 {.wp-block-heading}<figure class="wp-block-table">
+## 決算概要 {.wp-block-heading} 
 
-<table>
-  <tr>
-    <td>
-      　 　 　 　 　 　 　 　 　
-    </td>
-    
-    <td>
-    </td>
-    
-    <td>
-      2021/2022
-    </td>
-    
-    <td>
-      前年比
-    </td>
-    
-    <td>
-      2020/2021
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      売上
-    </td>
-    
-    <td>
-      百万ユーロ
-    </td>
-    
-    <td>
-      4,223
-    </td>
-    
-    <td>
-      20.5%
-    </td>
-    
-    <td>
-      3,505
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      　部門別
-    </td>
-    
-    <td>
-      Machine Tool
-    </td>
-    
-    <td>
-      2,289
-    </td>
-    
-    <td>
-      12.2%
-    </td>
-    
-    <td>
-      2,039
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-    </td>
-    
-    <td>
-      Laser Technology
-    </td>
-    
-    <td>
-      1,609
-    </td>
-    
-    <td>
-      21.7%
-    </td>
-    
-    <td>
-      1,322
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-    </td>
-    
-    <td>
-      EUV
-    </td>
-    
-    <td>
-      795
-    </td>
-    
-    <td>
-      81.6%
-    </td>
-    
-    <td>
-      437
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      　国別
-    </td>
-    
-    <td>
-      NL
-    </td>
-    
-    <td>
-      838
-    </td>
-    
-    <td>
-      81.9%
-    </td>
-    
-    <td>
-      461
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-    </td>
-    
-    <td>
-      USA
-    </td>
-    
-    <td>
-      656
-    </td>
-    
-    <td>
-      35.4%
-    </td>
-    
-    <td>
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-    </td>
-    
-    <td>
-      GER
-    </td>
-    
-    <td>
-      589
-    </td>
-    
-    <td>
-      1.6%
-    </td>
-    
-    <td>
-      579
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-    </td>
-    
-    <td>
-      CN
-    </td>
-    
-    <td>
-      575
-    </td>
-    
-    <td>
-      9.6%
-    </td>
-    
-    <td>
-      525
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      受注
-    </td>
-    
-    <td>
-      百万ユーロ
-    </td>
-    
-    <td>
-      5,577
-    </td>
-    
-    <td>
-      42.1%
-    </td>
-    
-    <td>
-      3,925
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      EBIT
-    </td>
-    
-    <td>
-      百万ユーロ
-    </td>
-    
-    <td>
-      468
-    </td>
-    
-    <td>
-      26.8%
-    </td>
-    
-    <td>
-      370
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      従業員
-    </td>
-    
-    <td>
-      人
-    </td>
-    
-    <td>
-      16,554
-    </td>
-    
-    <td>
-    </td>
-    
-    <td>
-      14,767
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      ＊EBIT：利払前・税引前利益
-    </td>
-    
-    <td>
-    </td>
-    
-    <td>
-    </td>
-    
-    <td>
-    </td>
-    
-    <td>
-    </td>
-  </tr>
-</table><figcaption class="wp-element-caption">Trumpfの決算報告書をベースに作成</figcaption></figure> 
+||||2021/2022|前年比|2020/2021|
+|--|--|--|--|--|--|
+|売上|（百万ユーロ）||4,223|20.5%|3,505|
+||部門別|Machine Tool|2,289|12.2%|2m039|
+|||Laser Technology|1,609|21.7%|1,322|
+|||EUV|795|81.6%|437|
+|国別||NL|838|81.9%|461|
+|||USA|656|35.4%||
+|||GER|589|1.6%|579|
+|||CN|575|9.6%|525|
+|受注|（百万ユーロ）||5,577|42.1%|3,925|
+|EBIT|（百万ユーロ）||468|26.8%|370|
+|従業員|（人）||16,554||14,767|
+
+*EBIT:利払前・税引前利益
+
+Trumpfの決算報告書をベースに作成 
 
 ## EUVビジネスフィールドが売上に大きく貢献 {.wp-block-heading}
 

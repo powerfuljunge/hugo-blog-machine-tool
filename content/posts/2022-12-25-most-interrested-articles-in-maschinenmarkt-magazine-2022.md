@@ -44,7 +44,7 @@ Maschinenmarkt誌の2022年12月23日配信メルマガに
 {{< blogcard
 url="https://www.maschinenmarkt.vogel.de/kryogene-kuehltechnik-fuer-zerspanungsprozesse-einfach-nachruesten-a-553a6c9ce6b14e757c63b0073ac2446c/?cmp=nl-97&#038;uuid=59f81756f7bccffdf98785bb65dd9f7e"
 title="Kryogene Kühltechnik für Zerspanungsprozesse einfach nachrüsten"
-image="https://infopolis.org/images/cocoon-resources/blog-card-cache/e4d2ac04412206c9b87c15077aca1c0b.jpeg"
+image="https://infopolis.org/img/cocoon-resources/blog-card-cache/e4d2ac04412206c9b87c15077aca1c0b.jpeg"
 description="(Bild: Sandvik Coromant) Forscher aus Stuttgart haben mit der MHT GmbH Merz & Haag eine Nachrüsteinheit entwickelt, mit der die kryogene Kühlung per Kohlendioxi..."
 >}} 
 
@@ -67,7 +67,7 @@ description="(Bild: Sandvik Coromant) Forscher aus Stuttgart haben mit der MHT G
 {{< blogcard
 url="https://www.maschinenmarkt.vogel.de/hairpin-maschine-komplexes-aufgabenpaket-fuer-die-steuerungstechnik-a-3782de1123f713fa9e6553746878a85a/?cmp=nl-97&#038;uuid=59f81756f7bccffdf98785bb65dd9f7e"
 title="Hairpin-Maschine: Komplexes Aufgabenpaket für die Steuerungstechnik"
-image="https://infopolis.org/images/cocoon-resources/blog-card-cache/b287b400b037cce66b8499451a0a934d.jpeg"
+image="https://infopolis.org/img/cocoon-resources/blog-card-cache/b287b400b037cce66b8499451a0a934d.jpeg"
 description="(Bild: Beckhoff) Minimale Zykluszeiten und schnelle Prozesse gelten als Schlüsselkriterien, wenn es um Fertigungsanlagen für die Elektromobilität geht. Warum hi..."
 >}} 
 
@@ -80,7 +80,7 @@ description="(Bild: Beckhoff) Minimale Zykluszeiten und schnelle Prozesse gelten
 {{< blogcard
 url="https://www.maschinenmarkt.vogel.de/statorgehaeuse-im-dreh-bohr-verfahren-schneller-bearbeiten-a-1095265/?cmp=nl-97&#038;uuid=59f81756f7bccffdf98785bb65dd9f7e"
 title="Statorgehäuse im Dreh-Bohr-Verfahren schneller bearbeiten"
-image="https://infopolis.org/images/cocoon-resources/blog-card-cache/90178ec0e9136740574e0956edcd7f59.jpg"
+image="https://infopolis.org/img/cocoon-resources/blog-card-cache/90178ec0e9136740574e0956edcd7f59.jpg"
 description="Niles-Simmons und Mapal haben gemeinsam einen Prozess für die Bearbeitung von Statorgehäusen für E-Motoren entwickelt. Dabei ist es gelungen, die Produktionszei..."
 >}} 
 

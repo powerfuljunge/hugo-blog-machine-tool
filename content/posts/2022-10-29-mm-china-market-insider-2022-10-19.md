@@ -30,7 +30,7 @@ China Market Insider っていうのを専門誌のMaschinenmarkt（MM)が特集
 {{< blogcard
 url="https://www.maschinenmarkt.vogel.de/die-juengsten-trends-beim-thema-smart-manufacturing-a-1d02767eedb582cf89a3cbe501bd0f39/?cmp=nl-97&#038;uuid=59f81756f7bccffdf98785bb65dd9f7e"
 title="Die jüngsten Trends beim Thema Smart Manufacturing"
-image="https://infopolis.org/images/cocoon-resources/blog-card-cache/4753dd5506d5047841fbbe5db4395793.jpeg"
+image="https://infopolis.org/img/cocoon-resources/blog-card-cache/4753dd5506d5047841fbbe5db4395793.jpeg"
 description="(Bild: © Eisenhans - stock.adobe.com) Die Automatisierung der chinesischen Fertigungsindustrie macht weiter schnelle Fortschritte – trotz der vielen Corona-Lock..."
 >}} 
 
@@ -69,7 +69,7 @@ description="(Bild: © Eisenhans - stock.adobe.com) Die Automatisierung der chin
 世界中にインストールされたロボット全部の半分以上って凄すぎる  
 2位は日本だけど、中国がダントツの1位<figure class="wp-block-image size-full">
 
-<img loading="lazy" decoding="async" width="1094" height="769" src="https://infopolis.org/images/2022/10/image.png" alt="" class="wp-image-240" srcset="https://infopolis.org/images/2022/10/image.png 1094w, https://infopolis.org/images/2022/10/image-300x211.png 300w, https://infopolis.org/images/2022/10/image-1024x720.png 1024w, https://infopolis.org/images/2022/10/image-768x540.png 768w" sizes="auto, (max-width: 1094px) 100vw, 1094px" /> <figcaption>World Robotics 2022から抜粋</figcaption></figure> 
+<img loading="lazy" decoding="async" width="1094" height="769" src="https://infopolis.org/img/2022/10/image.png" alt="" class="wp-image-240" srcset="https://infopolis.org/img/2022/10/image.png 1094w, https://infopolis.org/img/2022/10/image-300x211.png 300w, https://infopolis.org/img/2022/10/image-1024x720.png 1024w, https://infopolis.org/img/2022/10/image-768x540.png 768w" sizes="auto, (max-width: 1094px) 100vw, 1094px" /> <figcaption>World Robotics 2022から抜粋</figcaption></figure> 
 
 ## 「World Robotics 2022」の詳細が見たい？ {.wp-block-heading}
 

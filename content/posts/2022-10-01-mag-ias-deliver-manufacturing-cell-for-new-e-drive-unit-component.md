@@ -30,7 +30,7 @@ MAGブランドの名前を目にしたので気になった
 {{< blogcard
 url="https://mav.industrie.de/news/mag-ias-liefert-produktionslinie"
 title="MAG IAS liefert Produktionslinie für E-Antriebe an VW in Kassel"
-image="https://infopolis.org/images/cocoon-resources/blog-card-cache/81419a8dff2f2ad5b183df5a5d562af5.jpg"
+image="https://infopolis.org/img/cocoon-resources/blog-card-cache/81419a8dff2f2ad5b183df5a5d562af5.jpg"
 description="Der Volkswagen Konzern hat die MAG IAS GmbH mit der Lieferung einer neuen Produktionslinie für Gehäusebauteile des zukünftigen E-Antriebs beauftragt."
 >}} 
 
@@ -49,7 +49,7 @@ description="Mit 15 Herstellermarken ist FFG Europe & Americas der globale Techn
 FFGって言えば展示会でも大きなスペースを取って  
 元々のブランド名で展示し、どのブランドがうちのだよってまとめて表示している<figure class="wp-block-image size-full">
 
-<img loading="lazy" decoding="async" width="1557" height="817" src="https://infopolis.org/images/2022/09/Screenshot-2022-09-29-at-18-53-56-FFG-v1.0.0.png" alt="" class="wp-image-213" srcset="https://infopolis.org/images/2022/09/Screenshot-2022-09-29-at-18-53-56-FFG-v1.0.0.png 1557w, https://infopolis.org/images/2022/09/Screenshot-2022-09-29-at-18-53-56-FFG-v1.0.0-300x157.png 300w, https://infopolis.org/images/2022/09/Screenshot-2022-09-29-at-18-53-56-FFG-v1.0.0-1024x537.png 1024w, https://infopolis.org/images/2022/09/Screenshot-2022-09-29-at-18-53-56-FFG-v1.0.0-768x403.png 768w, https://infopolis.org/images/2022/09/Screenshot-2022-09-29-at-18-53-56-FFG-v1.0.0-1536x806.png 1536w" sizes="auto, (max-width: 1557px) 100vw, 1557px" /> </figure> 
+<img loading="lazy" decoding="async" width="1557" height="817" src="https://infopolis.org/img/2022/09/Screenshot-2022-09-29-at-18-53-56-FFG-v1.0.0.png" alt="" class="wp-image-213" srcset="https://infopolis.org/img/2022/09/Screenshot-2022-09-29-at-18-53-56-FFG-v1.0.0.png 1557w, https://infopolis.org/img/2022/09/Screenshot-2022-09-29-at-18-53-56-FFG-v1.0.0-300x157.png 300w, https://infopolis.org/img/2022/09/Screenshot-2022-09-29-at-18-53-56-FFG-v1.0.0-1024x537.png 1024w, https://infopolis.org/img/2022/09/Screenshot-2022-09-29-at-18-53-56-FFG-v1.0.0-768x403.png 768w, https://infopolis.org/img/2022/09/Screenshot-2022-09-29-at-18-53-56-FFG-v1.0.0-1536x806.png 1536w" sizes="auto, (max-width: 1557px) 100vw, 1557px" /> </figure> 
 
 <http://brand-ffg.feeler.com/img/indexbg.b0bffea6.jpg>
 
@@ -93,7 +93,7 @@ Hüller Hille GmbHって会社があって、どうもFFGグループではな�
 {{< blogcard
 url="https://www.hueller-hille.com/"
 title="Startseite - Hüller Hille GmbH"
-image="https://infopolis.org/images/cocoon-resources/blog-card-cache/a39105275f6fe5e13e5f2d49bb7fccc4.png"
+image="https://infopolis.org/img/cocoon-resources/blog-card-cache/a39105275f6fe5e13e5f2d49bb7fccc4.png"
 description="Das Hüller Hille Premium Versprechen Zuverlässigkeit Typisch Hüller Hille – Experten in der Genauigkeit. Für die verlässliche Bearbeitung anspruchsvollster Anwe..."
 >}} 
 
@@ -117,7 +117,7 @@ Produktion誌の記事が出てきた
 {{< blogcard
 url="https://www.produktion.de/wirtschaft/zuse-holding-uebernimmt-hueller-hille-diedesheim-116.html"
 title="Zuse Holding übernimmt Hüller Hille Diedesheim"
-image="https://infopolis.org/images/cocoon-resources/blog-card-cache/1a04dd436a433689ac024314619d2782.jpg"
+image="https://infopolis.org/img/cocoon-resources/blog-card-cache/1a04dd436a433689ac024314619d2782.jpg"
 description="Die Zuse Holding GmbH übernimmt von der FFG Werke GmbH den Produktionsstandort Diedesheim mit der Marke Hüller Hille und den dazu gehörenden Produkten."
 >}} 
 
@@ -178,7 +178,7 @@ Hüller Hilleのブランドは残ったものの
 {{< blogcard
 url="https://www.nc-fertigung.de/rolf-schmidt-neuer-geschaeftsfuehrer-bei-hueller-hille"
 title="Rolf Schmidt neuer Geschäftsführer bei Hüller Hille"
-image="https://infopolis.org/images/cocoon-resources/blog-card-cache/99b22e06b2157a40978f2af27d4aa0a9.jpg"
+image="https://infopolis.org/img/cocoon-resources/blog-card-cache/99b22e06b2157a40978f2af27d4aa0a9.jpg"
 description="Neuer Geschäftsführer bei der Hüller Hille GmbH ist Rolf Schmidt. Das Mosbacher Unternehmen gehört seit einem Jahr zum chinesischen Investor Visionmax."
 >}} 
 

@@ -28,6 +28,20 @@
         {{ if .Params.image }}
         <img class="py-4" src="{{ .Params.image | absURL }}">
         {{ end }}
+
+        {{ if  .TableOfContents }}
+          <div class="toc-wrapper my-6 p-4 border rounded bg-gray-100">
+            <button id="toc-toggle" class="mb-2 px-3 py-1 bg-gray-300 text-sm rounded hover:bg-gray-400">
+              {{ if .Site.Params.toc_default_open }}[閉じる]{{ else }}目次[開く]{{ end }}
+            </button>
+
+            <div id="toc-content" {{ if not .Site.Params.toc_default_open }}style="display:none;"{{ end }}>
+              <h2 class="text-xl font-semibold mb-2">目次</h2>
+              {{ .TableOfContents }}
+            </div>
+          </div>
+        {{ end }}
+
         {{ if and (and (.Site.Params.ad.googleAdSense) (.Site.Params.ad.postTop)) (.Site.Params.ad.adslot) }}
         <ins class="adsbygoogle" style="display:block" data-ad-client="{{.Site.Params.ad.googleAdSense}}"
           data-ad-slot="{{.Site.Params.ad.adslot}}" data-ad-format="auto" data-full-width-responsive="true"></ins>

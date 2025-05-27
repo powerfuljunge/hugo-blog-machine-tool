@@ -29,7 +29,7 @@ Maschinenmarkt誌のシリーズ、China market insiderに
 {{< blogcard
 url="https://www.maschinenmarkt.vogel.de/was-unternehmen-von-der-aktuellen-china-politik-erwarten-muessen-a-5ef3e8c41086c695e59a61f5434da52d/?cmp=nl-97&#038;uuid=59f81756f7bccffdf98785bb65dd9f7"
 title="Was Unternehmen von der aktuellen China-Politik erwarten müssen"
-image="https://infopolis.org/images/cocoon-resources/blog-card-cache/39f190b09de562f1e681b4575b4f90e3.jpeg"
+image="https://infopolis.org/img/cocoon-resources/blog-card-cache/39f190b09de562f1e681b4575b4f90e3.jpeg"
 description="(Bild: © Eisenhans - stock.adobe.com) Aktuelle Äußerungen von Chinas Staatschefs Xi Jinping deuten auf eine rückwärtsgewandte Entwicklung bei der Wirtschaftspol..."
 >}} 
 

@@ -35,7 +35,7 @@ Product Sales Manager/Grob
 
 電気自動車用の技術<figure class="wp-block-image size-full">
 
-<img loading="lazy" decoding="async" width="1247" height="522" src="https://infopolis.org/images/2022/09/grob01.jpg" alt="" class="wp-image-184" srcset="https://infopolis.org/images/2022/09/grob01.jpg 1247w, https://infopolis.org/images/2022/09/grob01-300x126.jpg 300w, https://infopolis.org/images/2022/09/grob01-1024x429.jpg 1024w, https://infopolis.org/images/2022/09/grob01-768x321.jpg 768w" sizes="auto, (max-width: 1247px) 100vw, 1247px" /> </figure> 
+<img loading="lazy" decoding="async" width="1247" height="522" src="https://infopolis.org/img/2022/09/grob01.jpg" alt="" class="wp-image-184" srcset="https://infopolis.org/img/2022/09/grob01.jpg 1247w, https://infopolis.org/img/2022/09/grob01-300x126.jpg 300w, https://infopolis.org/img/2022/09/grob01-1024x429.jpg 1024w, https://infopolis.org/img/2022/09/grob01-768x321.jpg 768w" sizes="auto, (max-width: 1247px) 100vw, 1247px" /> </figure> 
 
 Grobの先を見据えた開発は比較的最近知った事だけど  
 新興企業が殴り込みをかけるのではなく
@@ -61,7 +61,7 @@ Grobの先を見据えた開発は比較的最近知った事だけど
 
 ## デジタル化 {.wp-block-heading}<figure class="wp-block-image size-full">
 
-<img loading="lazy" decoding="async" width="1324" height="728" src="https://infopolis.org/images/2022/09/grob02.jpg" alt="" class="wp-image-186" srcset="https://infopolis.org/images/2022/09/grob02.jpg 1324w, https://infopolis.org/images/2022/09/grob02-300x165.jpg 300w, https://infopolis.org/images/2022/09/grob02-1024x563.jpg 1024w, https://infopolis.org/images/2022/09/grob02-768x422.jpg 768w" sizes="auto, (max-width: 1324px) 100vw, 1324px" /> </figure> 
+<img loading="lazy" decoding="async" width="1324" height="728" src="https://infopolis.org/img/2022/09/grob02.jpg" alt="" class="wp-image-186" srcset="https://infopolis.org/img/2022/09/grob02.jpg 1324w, https://infopolis.org/img/2022/09/grob02-300x165.jpg 300w, https://infopolis.org/img/2022/09/grob02-1024x563.jpg 1024w, https://infopolis.org/img/2022/09/grob02-768x422.jpg 768w" sizes="auto, (max-width: 1324px) 100vw, 1324px" /> </figure> 
 
 デジタル化にしてもIndustrie4.０にしても  
 現実的な対応を強調していたのは好感が持てた
@@ -73,4 +73,4 @@ Grobの先を見据えた開発は比較的最近知った事だけど
 
 そう言えるようになりたいもんだ・・・<figure class="wp-block-image size-full">
 
-<img loading="lazy" decoding="async" width="1324" height="728" src="https://infopolis.org/images/2022/09/grob03.jpg" alt="" class="wp-image-187" srcset="https://infopolis.org/images/2022/09/grob03.jpg 1324w, https://infopolis.org/images/2022/09/grob03-300x165.jpg 300w, https://infopolis.org/images/2022/09/grob03-1024x563.jpg 1024w, https://infopolis.org/images/2022/09/grob03-768x422.jpg 768w" sizes="auto, (max-width: 1324px) 100vw, 1324px" /> </figure> <figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1324" height="728" src="https://infopolis.org/images/2022/09/grob04.jpg" alt="" class="wp-image-188" srcset="https://infopolis.org/images/2022/09/grob04.jpg 1324w, https://infopolis.org/images/2022/09/grob04-300x165.jpg 300w, https://infopolis.org/images/2022/09/grob04-1024x563.jpg 1024w, https://infopolis.org/images/2022/09/grob04-768x422.jpg 768w" sizes="auto, (max-width: 1324px) 100vw, 1324px" /></figure>
+<img loading="lazy" decoding="async" width="1324" height="728" src="https://infopolis.org/img/2022/09/grob03.jpg" alt="" class="wp-image-187" srcset="https://infopolis.org/img/2022/09/grob03.jpg 1324w, https://infopolis.org/img/2022/09/grob03-300x165.jpg 300w, https://infopolis.org/img/2022/09/grob03-1024x563.jpg 1024w, https://infopolis.org/img/2022/09/grob03-768x422.jpg 768w" sizes="auto, (max-width: 1324px) 100vw, 1324px" /> </figure> <figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1324" height="728" src="https://infopolis.org/img/2022/09/grob04.jpg" alt="" class="wp-image-188" srcset="https://infopolis.org/img/2022/09/grob04.jpg 1324w, https://infopolis.org/img/2022/09/grob04-300x165.jpg 300w, https://infopolis.org/img/2022/09/grob04-1024x563.jpg 1024w, https://infopolis.org/img/2022/09/grob04-768x422.jpg 768w" sizes="auto, (max-width: 1324px) 100vw, 1324px" /></figure>

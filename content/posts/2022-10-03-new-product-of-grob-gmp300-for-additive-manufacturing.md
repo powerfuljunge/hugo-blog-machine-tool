@@ -30,9 +30,11 @@ Werkstatt&Betrieb誌にGrobのオープンハウスの記事があった
 {{< blogcard
 url="https://www.werkstatt-betrieb.de/a/fachartikel/grob-ist-auf-dem-weg-zum-lessbrgreatermu-2418230"
 title="Grob Hausmesse 2022 - Turnaround in der Elektromobilität erreicht"
-image="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fwww.werkstatt-betrieb.de%2Fa%2Ffachartikel%2Fgrob-ist-auf-dem-weg-zum-lessbrgreatermu-2418230?w=160&#038;h=90"
+image="https://www.werkstatt-betrieb.de%2Fa%2Ffachartikel%2Fgrob-ist-auf-dem-weg-zum-lessbrgreatermu-2418230?w=160&#038;h=90"
 description="Als vor etwa sechs Jahren der Transformationsprozess im Automobil hin zum batteriegespeisten Elektromotor verkündet wurde, begann man beim Systemspezialisten fü..."
 >}} 
+
+
 
 またまた、新製品を出しているのが驚きだった  
 それがAM（Additive Manufacturing）分野へ向けた製品だった

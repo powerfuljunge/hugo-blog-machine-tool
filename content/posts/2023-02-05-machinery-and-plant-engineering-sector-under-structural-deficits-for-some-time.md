@@ -29,7 +29,7 @@ DACH地域とひとまとめにされるのは、D（ドイツ）、A（オー�
 
 USA、中国との比較で分析されています。<figure class="wp-block-image size-full">
 
-<img loading="lazy" decoding="async" width="968" height="581" src="https://infopolis.org/images/2023/02/Bainco_0109492979.jpeg" alt="" class="wp-image-365" srcset="https://infopolis.org/images/2023/02/Bainco_0109492979.jpeg 968w, https://infopolis.org/images/2023/02/Bainco_0109492979-300x180.jpeg 300w, https://infopolis.org/images/2023/02/Bainco_0109492979-768x461.jpeg 768w" sizes="auto, (max-width: 968px) 100vw, 968px" /> <figcaption class="wp-element-caption">（出典：Bain & Company)</figcaption></figure> 
+<img loading="lazy" decoding="async" width="968" height="581" src="https://infopolis.org/img/2023/02/Bainco_0109492979.jpeg" alt="" class="wp-image-365" srcset="https://infopolis.org/img/2023/02/Bainco_0109492979.jpeg 968w, https://infopolis.org/img/2023/02/Bainco_0109492979-300x180.jpeg 300w, https://infopolis.org/img/2023/02/Bainco_0109492979-768x461.jpeg 768w" sizes="auto, (max-width: 968px) 100vw, 968px" /> <figcaption class="wp-element-caption">（出典：Bain & Company)</figcaption></figure> 
 
 注１）DACHは、D（ドイツ）、A（オーストリア）、CH（スイス）
 
@@ -102,6 +102,6 @@ DACH地域の機械メーカが、中国企業との競争で市場シェアを�
 {{< blogcard
 url="https://www.maschinenmarkt.vogel.de/kommt-jetzt-die-grosse-auslese-im-maschinenbau-a-503d2dbdb2ddf09168d09f2a24bd64df/?cmp=nl-97&#038;uuid=59f81756f7bccffdf98785bb65dd9f7e"
 title="Kommt jetzt die große „Auslese“ im Maschinenbau?"
-image="https://infopolis.org/images/cocoon-resources/blog-card-cache/246c44f2528f4cf8abf30bbb9e1a97f5.jpeg"
+image="https://infopolis.org/img/cocoon-resources/blog-card-cache/246c44f2528f4cf8abf30bbb9e1a97f5.jpeg"
 description="(Bild: freshidea - stock.adobe.com) Die Unternehmensberatung Bain sieht viele Maschinen- und Anlagenbauer in Deutschland, Österreich und der Schweiz auf der Kip..."
 >}}

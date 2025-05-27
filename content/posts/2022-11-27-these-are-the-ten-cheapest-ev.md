@@ -29,7 +29,7 @@ Maschinenmarkt誌の姉妹誌であるkonstruktionspraxis誌に
 {{< blogcard
 url="https://www.konstruktionspraxis.vogel.de/elektroauto-e-auto-preise-a-da3eeb530fda8fd9bdf7c612a28be3d6/?cmp=nl-112&#038;uuid=821095a901c09ea66b2383b90637a5bd"
 title="Das sind die zehn günstigsten E-Autos"
-image="https://infopolis.org/images/cocoon-resources/blog-card-cache/1eadc18d5e86523f2319fc22a8726b60.jpeg"
+image="https://infopolis.org/img/cocoon-resources/blog-card-cache/1eadc18d5e86523f2319fc22a8726b60.jpeg"
 description="(Bild: Nissan) E-Autos kosten deutlich mehr Geld als vergleichbare Fahrzeuge mit Verbrennungsmotor. Es gibt nur wenige BEV unter 30.000 Euro."
 >}} 
 

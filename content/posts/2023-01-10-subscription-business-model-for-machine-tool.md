@@ -130,7 +130,7 @@ J.D.Powerの2021年の調査によると
 {{< blogcard
 url="https://japan.jdpower.com/ja/resources/2021_newsletter_CarSubscription_and_CarLease"
 title="2021年パルス調査～車の定額制サービス「サブスク」「リース」に関する意識"
-image="https://infopolis.org/images/cocoon-resources/blog-card-cache/002a0d0ed19fb0366a51890b3e432222.jpg"
+image="https://infopolis.org/img/cocoon-resources/blog-card-cache/002a0d0ed19fb0366a51890b3e432222.jpg"
 description=""
 >}} 
 

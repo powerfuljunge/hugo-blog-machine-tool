@@ -28,7 +28,7 @@ Maschinenmarkt誌に建設機械の展示会特集があった
 {{< blogcard
 url="https://www.maschinenmarkt.vogel.de/die-highlights-von-der-bauma-2022-in-bildern-a-6759066bd81e48d13a0b77793f3ad5e2/"
 title="Die Highlights von der Bauma 2022 in Bildern"
-image="https://infopolis.org/images/cocoon-resources/blog-card-cache/d5b02b43d8491e699baddcb167c9f74c.jpeg"
+image="https://infopolis.org/img/cocoon-resources/blog-card-cache/d5b02b43d8491e699baddcb167c9f74c.jpeg"
 description="(Bild: Sandro Kipar/VCG) Egal ob große Baumaschinen oder kleine Steuereinheiten, die extreme Bedingungen aushalten müssen: auf der Bauma ist für jeden etwas dab..."
 >}} 
 
@@ -119,7 +119,7 @@ Maschinenmarkt誌の記事は、写真メインなので
 {{< blogcard
 url="https://www.maschinenmarkt.vogel.de/die-highlights-von-der-bauma-2022-in-bildern-gal-6759066bd81e48d13a0b77793f3ad5e2/?p=4#gallerydetail"
 title="Die Highlights von der Bauma 2022 in Bildern"
-image="https://infopolis.org/images/cocoon-resources/blog-card-cache/48b80b63444393be52c5df177a2ec4d7.jpeg"
+image="https://infopolis.org/img/cocoon-resources/blog-card-cache/48b80b63444393be52c5df177a2ec4d7.jpeg"
 description="Mercedes-Benz Trucks zeigte auf der Bauma unter anderem den Baustellen-Lkw Arocs. Ihn soll es zukünftig auch als batterieelektrisches Fahrzeug geben. Der Batter..."
 >}} 
 
@@ -134,7 +134,7 @@ Arocsという建設現場用のトラックを展示していたようですが
 {{< blogcard
 url="https://www.maschinenmarkt.vogel.de/die-highlights-von-der-bauma-2022-in-bildern-gal-6759066bd81e48d13a0b77793f3ad5e2/?p=5#gallerydetail"
 title="Die Highlights von der Bauma 2022 in Bildern"
-image="https://infopolis.org/images/cocoon-resources/blog-card-cache/95e8c81a4297fe0c056568215f7c04d4.jpeg"
+image="https://infopolis.org/img/cocoon-resources/blog-card-cache/95e8c81a4297fe0c056568215f7c04d4.jpeg"
 description="Die Caterpillar Industrial Power Systems Division zeigte Industrieantriebsaggregate, die Erstausrüster bei ihren Zielen im Zusammenhang mit der Energiewende hin..."
 >}} 
 
@@ -145,7 +145,7 @@ C13Bは、EU排ガス基準 Euro5をクリア。
 {{< blogcard
 url="https://www.maschinenmarkt.vogel.de/die-highlights-von-der-bauma-2022-in-bildern-gal-6759066bd81e48d13a0b77793f3ad5e2/?p=6#gallerydetail"
 title="Die Highlights von der Bauma 2022 in Bildern"
-image="https://infopolis.org/images/cocoon-resources/blog-card-cache/307a6fc9d05b1ea38de1cf2c677abf36.jpeg"
+image="https://infopolis.org/img/cocoon-resources/blog-card-cache/307a6fc9d05b1ea38de1cf2c677abf36.jpeg"
 description="Der Liebherr H964 ist ein kompakter 9-Liter-4-Zylinder Wasserstoffmotor und befindet sich noch in der Entwicklung. Der Wasserstoff wird hierbei direkt in den Br..."
 >}} 
 
@@ -158,7 +158,7 @@ H964 は、コンパクトな9L、4気筒水素エンジンで現在開発中の
 {{< blogcard
 url="https://www.maschinenmarkt.vogel.de/die-highlights-von-der-bauma-2022-in-bildern-gal-6759066bd81e48d13a0b77793f3ad5e2/?p=7#gallerydetail"
 title="Die Highlights von der Bauma 2022 in Bildern"
-image="https://infopolis.org/images/cocoon-resources/blog-card-cache/1ac5ae25addd166e896719d4c3e2064c.jpeg"
+image="https://infopolis.org/img/cocoon-resources/blog-card-cache/1ac5ae25addd166e896719d4c3e2064c.jpeg"
 description="ZF stellte unter anderem sein elektrisches Antriebssystem Etrac vor. Dazu gehört auch die Baureihe eCD 110-210 für mittelgroße Radlader. Es besteht aus einem el..."
 >}} 
 
@@ -172,7 +172,7 @@ eCDシリーズの 110-210 は、ミドルサイズのホイールローダー�
 {{< blogcard
 url="https://www.maschinenmarkt.vogel.de/die-highlights-von-der-bauma-2022-in-bildern-gal-6759066bd81e48d13a0b77793f3ad5e2/?p=8#gallerydetail"
 title="Die Highlights von der Bauma 2022 in Bildern"
-image="https://infopolis.org/images/cocoon-resources/blog-card-cache/9d1445335c294589fc39576813e498d7.jpeg"
+image="https://infopolis.org/img/cocoon-resources/blog-card-cache/9d1445335c294589fc39576813e498d7.jpeg"
 description="Ebenfalls bei ZF: das Getriebe Traxon Dynamic Perform. Hier wurde ein neues Anfahrelement genutzt, dessen Lamellenkupplung durch einen Ölkreislauf gekühlt wird...."
 >}} 
 
@@ -187,7 +187,7 @@ Traxon Dynamic Performトランスミッション
 {{< blogcard
 url="https://www.maschinenmarkt.vogel.de/die-highlights-von-der-bauma-2022-in-bildern-gal-6759066bd81e48d13a0b77793f3ad5e2/?p=10#gallerydetail"
 title="Die Highlights von der Bauma 2022 in Bildern"
-image="https://infopolis.org/images/cocoon-resources/blog-card-cache/1a4a3daa9fccafefd8a756408def531c.jpeg"
+image="https://infopolis.org/img/cocoon-resources/blog-card-cache/1a4a3daa9fccafefd8a756408def531c.jpeg"
 description="Verbindungs- und Sensortechnologie gab es bei TE Connectivity zu sehen. Auf der Bauma konzentriert sich das Unternehmen auf Technik, die besonders in schwierige..."
 >}} 
 
@@ -199,7 +199,7 @@ TE Connectivity
 {{< blogcard
 url="https://www.maschinenmarkt.vogel.de/die-highlights-von-der-bauma-2022-in-bildern-gal-6759066bd81e48d13a0b77793f3ad5e2/?p=11#gallerydetail"
 title="Die Highlights von der Bauma 2022 in Bildern"
-image="https://infopolis.org/images/cocoon-resources/blog-card-cache/63d1d80f0b8e0da7adcd4128c5c4480c.jpeg"
+image="https://infopolis.org/img/cocoon-resources/blog-card-cache/63d1d80f0b8e0da7adcd4128c5c4480c.jpeg"
 description="Motec zeigte, wie kamerabasierte Fahrerassistenzsysteme funktionieren. Dazu gehören etwa die robuste Heavy-Duty Kamera oder die Universalkamera MC6000D mit Auto..."
 >}} 
 
@@ -212,7 +212,7 @@ Motec
 {{< blogcard
 url="https://www.maschinenmarkt.vogel.de/die-highlights-von-der-bauma-2022-in-bildern-gal-6759066bd81e48d13a0b77793f3ad5e2/?p=16#gallerydetail"
 title="Die Highlights von der Bauma 2022 in Bildern"
-image="https://infopolis.org/images/cocoon-resources/blog-card-cache/c7f1b1d4a791724e06638287fea6f3d1.jpeg"
+image="https://infopolis.org/img/cocoon-resources/blog-card-cache/c7f1b1d4a791724e06638287fea6f3d1.jpeg"
 description="Hitachi zeigte auf der Bauma insgesamt vier neue Zero-Emission-Bagger, darunter der ZX 135-7EB. Dass bei Baumschinen vermehrt auf alternative Antriebe gesetzt w..."
 >}} 
 
@@ -223,7 +223,7 @@ description="Hitachi zeigte auf der Bauma insgesamt vier neue Zero-Emission-Bagg
 {{< blogcard
 url="https://www.maschinenmarkt.vogel.de/die-highlights-von-der-bauma-2022-in-bildern-gal-6759066bd81e48d13a0b77793f3ad5e2/?p=20#gallerydetail"
 title="Die Highlights von der Bauma 2022 in Bildern"
-image="https://infopolis.org/images/cocoon-resources/blog-card-cache/6d16cde7c84eeedb79d559ead6824a66.jpeg"
+image="https://infopolis.org/img/cocoon-resources/blog-card-cache/6d16cde7c84eeedb79d559ead6824a66.jpeg"
 description="Für die Neuentwicklung des kontinuierlichen Tunnelvortriebs wurde die Herrenknecht AG mit dem Bauma Innovationspreis in der Kategorie „Maschinentechnik“ ausgeze..."
 >}} 
 
@@ -235,7 +235,7 @@ Herrenknecht AG
 {{< blogcard
 url="https://www.maschinenmarkt.vogel.de/die-highlights-von-der-bauma-2022-in-bildern-gal-6759066bd81e48d13a0b77793f3ad5e2/?p=22#gallerydetail"
 title="Die Highlights von der Bauma 2022 in Bildern"
-image="https://infopolis.org/images/cocoon-resources/blog-card-cache/3cc84b84a9794d056a48ff9f090ebaa5.jpeg"
+image="https://infopolis.org/img/cocoon-resources/blog-card-cache/3cc84b84a9794d056a48ff9f090ebaa5.jpeg"
 description="Siemens kam auf der Bauma mit einem vergleichsweise kleinen Stand aus. Das Unternehmen zeigte unter anderem Steuerungs- und Automatisierungseinheiten, die für e..."
 >}} 
 
@@ -248,7 +248,7 @@ Baumaに比較的小さなブースで出展した
 {{< blogcard
 url="https://www.maschinenmarkt.vogel.de/die-highlights-von-der-bauma-2022-in-bildern-gal-6759066bd81e48d13a0b77793f3ad5e2/?p=28#gallerydetail"
 title="Die Highlights von der Bauma 2022 in Bildern"
-image="https://infopolis.org/images/cocoon-resources/blog-card-cache/f47c3bd792e53fbc58662a3f7e119aea.jpeg"
+image="https://infopolis.org/img/cocoon-resources/blog-card-cache/f47c3bd792e53fbc58662a3f7e119aea.jpeg"
 description="Auch bei Hyundai waren alternative Antriebe vertreten. Auf der Bauma zeigte das Unternehmen seinen 14 Tonnen schweren Wasserstoffbagger. Außerdem präsentierte e..."
 >}} 
 
@@ -273,7 +273,7 @@ Baumaで展示したのは
 {{< blogcard
 url="https://www.maschinenmarkt.vogel.de/die-highlights-von-der-bauma-2022-in-bildern-gal-6759066bd81e48d13a0b77793f3ad5e2/?p=30#gallerydetail"
 title="Die Highlights von der Bauma 2022 in Bildern"
-image="https://infopolis.org/images/cocoon-resources/blog-card-cache/52da8f5eacc36a06e15a9bc2dadfd5e9.jpeg"
+image="https://infopolis.org/img/cocoon-resources/blog-card-cache/52da8f5eacc36a06e15a9bc2dadfd5e9.jpeg"
 description="Thyssenkrupp Rothe Erde zeigte auf der Bauma ein dreireihiges Rollenlager. Es ist ausgelegt für Drehbewegungen und Dauerbetrieb."
 >}} 
 

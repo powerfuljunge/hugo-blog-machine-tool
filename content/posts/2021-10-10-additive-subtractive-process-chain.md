@@ -29,7 +29,7 @@ tags:
     </h2>
     
     <p>
-      <a href="https://infopolis.org/images/2021/10/additive01.jpg"><img loading="lazy" decoding="async" class="alignnone size-medium wp-image-51" src="https://infopolis.org/images/2021/10/additive01-300x191.jpg" alt="" width="300" height="191" srcset="https://infopolis.org/images/2021/10/additive01-300x191.jpg 300w, https://infopolis.org/images/2021/10/additive01.jpg 529w" sizes="auto, (max-width: 300px) 100vw, 300px" /></a>
+      <a href="https://infopolis.org/img/2021/10/additive01.jpg"><img loading="lazy" decoding="async" class="alignnone size-medium wp-image-51" src="https://infopolis.org/img/2021/10/additive01-300x191.jpg" alt="" width="300" height="191" srcset="https://infopolis.org/img/2021/10/additive01-300x191.jpg 300w, https://infopolis.org/img/2021/10/additive01.jpg 529w" sizes="auto, (max-width: 300px) 100vw, 300px" /></a>
     </p>
     
     <p>
@@ -85,11 +85,11 @@ tags:
     </h2>
     
     <p>
-      <a href="https://infopolis.org/images/2021/10/additive03.jpg"><img loading="lazy" decoding="async" class="alignnone size-medium wp-image-53" src="https://infopolis.org/images/2021/10/additive03-300x187.jpg" alt="" width="300" height="187" srcset="https://infopolis.org/images/2021/10/additive03-300x187.jpg 300w, https://infopolis.org/images/2021/10/additive03-1024x639.jpg 1024w, https://infopolis.org/images/2021/10/additive03-768x479.jpg 768w, https://infopolis.org/images/2021/10/additive03.jpg 1170w" sizes="auto, (max-width: 300px) 100vw, 300px" /></a>
+      <a href="https://infopolis.org/img/2021/10/additive03.jpg"><img loading="lazy" decoding="async" class="alignnone size-medium wp-image-53" src="https://infopolis.org/img/2021/10/additive03-300x187.jpg" alt="" width="300" height="187" srcset="https://infopolis.org/img/2021/10/additive03-300x187.jpg 300w, https://infopolis.org/img/2021/10/additive03-1024x639.jpg 1024w, https://infopolis.org/img/2021/10/additive03-768x479.jpg 768w, https://infopolis.org/img/2021/10/additive03.jpg 1170w" sizes="auto, (max-width: 300px) 100vw, 300px" /></a>
     </p>
     
     <p>
-      <a href="https://infopolis.org/images/2021/10/additive04.jpg"><img loading="lazy" decoding="async" class="alignnone size-medium wp-image-54" src="https://infopolis.org/images/2021/10/additive04-300x187.jpg" alt="" width="300" height="187" srcset="https://infopolis.org/images/2021/10/additive04-300x187.jpg 300w, https://infopolis.org/images/2021/10/additive04-1024x639.jpg 1024w, https://infopolis.org/images/2021/10/additive04-768x479.jpg 768w, https://infopolis.org/images/2021/10/additive04.jpg 1170w" sizes="auto, (max-width: 300px) 100vw, 300px" /></a><br />上のシートに書かれてるのは
+      <a href="https://infopolis.org/img/2021/10/additive04.jpg"><img loading="lazy" decoding="async" class="alignnone size-medium wp-image-54" src="https://infopolis.org/img/2021/10/additive04-300x187.jpg" alt="" width="300" height="187" srcset="https://infopolis.org/img/2021/10/additive04-300x187.jpg 300w, https://infopolis.org/img/2021/10/additive04-1024x639.jpg 1024w, https://infopolis.org/img/2021/10/additive04-768x479.jpg 768w, https://infopolis.org/img/2021/10/additive04.jpg 1170w" sizes="auto, (max-width: 300px) 100vw, 300px" /></a><br />上のシートに書かれてるのは
     </p>
   </div>
 </div>
@@ -156,7 +156,7 @@ Wikipediaによれば
 
 ## AM技術を製品化するためのアプローチ
 
-[<img loading="lazy" decoding="async" class="alignnone size-medium wp-image-52" src="https://infopolis.org/images/2021/10/additive02-300x187.jpg" alt="" width="300" height="187" srcset="https://infopolis.org/images/2021/10/additive02-300x187.jpg 300w, https://infopolis.org/images/2021/10/additive02.jpg 753w" sizes="auto, (max-width: 300px) 100vw, 300px" />][1]  
+[<img loading="lazy" decoding="async" class="alignnone size-medium wp-image-52" src="https://infopolis.org/img/2021/10/additive02-300x187.jpg" alt="" width="300" height="187" srcset="https://infopolis.org/img/2021/10/additive02-300x187.jpg 300w, https://infopolis.org/img/2021/10/additive02.jpg 753w" sizes="auto, (max-width: 300px) 100vw, 300px" />][1]  
 下穴がある形状の場合も  
 どんな下穴にすれば、従来の除去加工と同様の品質が得られるか  
 つまり  
@@ -165,16 +165,16 @@ Wikipediaによれば
 
 などを気にしつつ、実験している
 
-[<img loading="lazy" decoding="async" class="alignnone size-medium wp-image-55" src="https://infopolis.org/images/2021/10/additive05-300x187.jpg" alt="" width="300" height="187" srcset="https://infopolis.org/images/2021/10/additive05-300x187.jpg 300w, https://infopolis.org/images/2021/10/additive05-1024x639.jpg 1024w, https://infopolis.org/images/2021/10/additive05-768x479.jpg 768w, https://infopolis.org/images/2021/10/additive05.jpg 1170w" sizes="auto, (max-width: 300px) 100vw, 300px" />][2]
+[<img loading="lazy" decoding="async" class="alignnone size-medium wp-image-55" src="https://infopolis.org/img/2021/10/additive05-300x187.jpg" alt="" width="300" height="187" srcset="https://infopolis.org/img/2021/10/additive05-300x187.jpg 300w, https://infopolis.org/img/2021/10/additive05-1024x639.jpg 1024w, https://infopolis.org/img/2021/10/additive05-768x479.jpg 768w, https://infopolis.org/img/2021/10/additive05.jpg 1170w" sizes="auto, (max-width: 300px) 100vw, 300px" />][2]
 
 ## まとめ方
 
-[<img loading="lazy" decoding="async" class="alignnone size-medium wp-image-56" src="https://infopolis.org/images/2021/10/additive06-300x187.jpg" alt="" width="300" height="187" srcset="https://infopolis.org/images/2021/10/additive06-300x187.jpg 300w, https://infopolis.org/images/2021/10/additive06-1024x639.jpg 1024w, https://infopolis.org/images/2021/10/additive06-768x479.jpg 768w, https://infopolis.org/images/2021/10/additive06.jpg 1170w" sizes="auto, (max-width: 300px) 100vw, 300px" />][3]  
+[<img loading="lazy" decoding="async" class="alignnone size-medium wp-image-56" src="https://infopolis.org/img/2021/10/additive06-300x187.jpg" alt="" width="300" height="187" srcset="https://infopolis.org/img/2021/10/additive06-300x187.jpg 300w, https://infopolis.org/img/2021/10/additive06-1024x639.jpg 1024w, https://infopolis.org/img/2021/10/additive06-768x479.jpg 768w, https://infopolis.org/img/2021/10/additive06.jpg 1170w" sizes="auto, (max-width: 300px) 100vw, 300px" />][3]  
 まとめがマインドマップ風に作られている
 
 問題点をきちんと押さえて  
 科学的アプローチをしようとしている事が感じられる
 
- [1]: https://infopolis.org/images/2021/10/additive02.jpg
- [2]: https://infopolis.org/images/2021/10/additive05.jpg
- [3]: https://infopolis.org/images/2021/10/additive06.jpg
+ [1]: https://infopolis.org/img/2021/10/additive02.jpg
+ [2]: https://infopolis.org/img/2021/10/additive05.jpg
+ [3]: https://infopolis.org/img/2021/10/additive06.jpg

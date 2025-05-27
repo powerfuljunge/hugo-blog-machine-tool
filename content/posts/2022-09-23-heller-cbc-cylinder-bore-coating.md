@@ -57,7 +57,7 @@ tags:
 {{< blogcard
 url="https://www.heller.biz/de/maschinen-und-loesungen/beschichtungsmodule-cbc-200/"
 title="Beschichtungsmodule für Zylinderbohrungen CBC 200 | HELLER"
-image="https://infopolis.org/images/cocoon-resources/blog-card-cache/f95c7ea7830d5894356b41be9ab7c66e.jpg"
+image="https://infopolis.org/img/cocoon-resources/blog-card-cache/f95c7ea7830d5894356b41be9ab7c66e.jpg"
 description="HELLER Beschichtungsmodule CBC 200 für die serienreife Beschichtung von Zylinderbohrungen mit Hilfe der CBC-Technologie (CylinderBoreCoating)."
 >}} 
 

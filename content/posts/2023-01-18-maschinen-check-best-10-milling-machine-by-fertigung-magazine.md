@@ -77,7 +77,7 @@ description=""
   </li>
 </ul><figure class="wp-block-image size-full">
 
-<img loading="lazy" decoding="async" width="725" height="544" src="https://infopolis.org/images/2023/01/grob_platz-1-grob-g150-e667b62f.webp" alt="" class="wp-image-356" srcset="https://infopolis.org/images/2023/01/grob_platz-1-grob-g150-e667b62f.webp 725w, https://infopolis.org/images/2023/01/grob_platz-1-grob-g150-e667b62f-300x225.webp 300w" sizes="auto, (max-width: 725px) 100vw, 725px" /> <figcaption class="wp-element-caption">出典：Grob</figcaption></figure> 
+<img loading="lazy" decoding="async" width="725" height="544" src="https://infopolis.org/img/2023/01/grob_platz-1-grob-g150-e667b62f.webp" alt="" class="wp-image-356" srcset="https://infopolis.org/img/2023/01/grob_platz-1-grob-g150-e667b62f.webp 725w, https://infopolis.org/img/2023/01/grob_platz-1-grob-g150-e667b62f-300x225.webp 300w" sizes="auto, (max-width: 725px) 100vw, 725px" /> <figcaption class="wp-element-caption">出典：Grob</figcaption></figure> 
 
 ## 第二位 Heller HF3500 {.wp-block-heading}
 
@@ -101,7 +101,8 @@ description=""
   </li>
 </ul><figure class="wp-block-image size-full">
 
-<img loading="lazy" decoding="async" width="725" height="544" src="https://infopolis.org/images/2023/01/heller_platz-2-heller-hf-5500-dcb3d75e.webp" alt="" class="wp-image-358" srcset="https://infopolis.org/images/2023/01/heller_platz-2-heller-hf-5500-dcb3d75e.webp 725w, https://infopolis.org/images/2023/01/heller_platz-2-heller-hf-5500-dcb3d75e-300x225.webp 300w" sizes="auto, (max-width: 725px) 100vw, 725px" /> <figcaption class="wp-element-caption">出典：Heller</figcaption></figure> 
+
+<img loading="lazy" decoding="async" width="725" height="544" src="https://infopolis.org/img/2023/01/heller_platz-2-heller-hf-5500-dcb3d75e.webp" alt="" class="wp-image-358" srcset="https://infopolis.org/img/2023/01/heller_platz-2-heller-hf-5500-dcb3d75e.webp 725w, https://infopolis.org/img/2023/01/heller_platz-2-heller-hf-5500-dcb3d75e-300x225.webp 300w" sizes="auto, (max-width: 725px) 100vw, 725px" /> <figcaption class="wp-element-caption">出典：Heller</figcaption></figure> 
 
 ## 第三位 DMG森 DMU 65 Monoblock {.wp-block-heading}
 
@@ -130,7 +131,7 @@ DMU 65 Monoblockの特徴は、非常に高い汎用性だ。
   </li>
 </ul><figure class="wp-block-image size-full">
 
-<img loading="lazy" decoding="async" width="725" height="544" src="https://infopolis.org/images/2023/01/dmgmori_platz-3-dmu-monoblock-4b02484f.webp" alt="" class="wp-image-359" srcset="https://infopolis.org/images/2023/01/dmgmori_platz-3-dmu-monoblock-4b02484f.webp 725w, https://infopolis.org/images/2023/01/dmgmori_platz-3-dmu-monoblock-4b02484f-300x225.webp 300w" sizes="auto, (max-width: 725px) 100vw, 725px" /> <figcaption class="wp-element-caption">出典：DMG森</figcaption></figure> 
+<img loading="lazy" decoding="async" width="725" height="544" src="https://infopolis.org/img/2023/01/dmgmori_platz-3-dmu-monoblock-4b02484f.webp" alt="" class="wp-image-359" srcset="https://infopolis.org/img/2023/01/dmgmori_platz-3-dmu-monoblock-4b02484f.webp 725w, https://infopolis.org/img/2023/01/dmgmori_platz-3-dmu-monoblock-4b02484f-300x225.webp 300w" sizes="auto, (max-width: 725px) 100vw, 725px" /> <figcaption class="wp-element-caption">出典：DMG森</figcaption></figure> 
 
 ## 考察 {.wp-block-heading}
 

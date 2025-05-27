@@ -29,7 +29,7 @@ Maschinenmarkt誌2022年12月15日付
 {{< blogcard
 url="https://www.maschinenmarkt.vogel.de/stimmung-deutscher-unternehmen-in-china-auf-tiefstand-a-66b278b1d288902cceeb672a13a6bc43/"
 title="Stimmung deutscher Unternehmen in China auf Tiefstand"
-image="https://infopolis.org/images/cocoon-resources/blog-card-cache/4a48a7cdde23ae4cde0a54f6a7b0a06b.jpeg"
+image="https://infopolis.org/img/cocoon-resources/blog-card-cache/4a48a7cdde23ae4cde0a54f6a7b0a06b.jpeg"
 description="(Bild: Rawf8 - stock.adobe.com) Die restriktive Corona-Politik der chinesischen Regierung hat ihre Spuren hinterlassen. Doch die Unternehmen blicken optimistisc..."
 >}} 
 

@@ -85,4 +85,19 @@
       }
     }
   </script>
+
+  <script>
+   document.addEventListener("DOMContentLoaded", function () {
+    const tocToggle = document.getElementById("toc-toggle");
+    const tocContent = document.getElementById("toc-content");
+
+    if (tocToggle && tocContent) {
+      tocToggle.addEventListener("click", function () {
+        const isHidden = tocContent.style.display === "none";
+        tocContent.style.display = isHidden ? "block" : "none";
+        tocToggle.textContent = isHidden ? "[閉じる]" : "目次[開く]";
+      });
+     }
+    });
+  </script>
 </footer>
