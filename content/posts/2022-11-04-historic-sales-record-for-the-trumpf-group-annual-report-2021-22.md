@@ -56,7 +56,7 @@ description="(Bild: Trumpf) Die Trumpf-Gruppe verzeichnet im Geschäftsjahrs 202
 ||部門別|Machine Tool|2,289|12.2%|2m039|
 |||Laser Technology|1,609|21.7%|1,322|
 |||EUV|795|81.6%|437|
-|国別||NL|838|81.9%|461|
+||国別|NL|838|81.9%|461|
 |||USA|656|35.4%||
 |||GER|589|1.6%|579|
 |||CN|575|9.6%|525|
