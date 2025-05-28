@@ -44,14 +44,14 @@ darkmode = "light"
   [params.ad]
     # Google AdSense
     # ex. ca-pub-0000000000000000
-    googleAdSense = ""
+    googleAdSense = "pub-6985173168577613"
 
     # ex. 000000000
     adslot = ""
 
     # Placement of ads
-    postTop = false
-    postBottom = false
+    postTop = true
+    postBottom = true
 
   [params.post]
     # Show thumbnails
