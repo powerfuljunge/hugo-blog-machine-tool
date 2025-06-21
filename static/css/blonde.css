@@ -64,54 +64,6 @@ textarea {
   -webkit-appearance: none;
 }
 
-.blogcard {
-  border: 1px solid #ccc;
-  border-radius: 8px;
-  background: #f9f9f9;
-  margin: 1em 0;
-  max-width: 700px;
-  font-size: 0.95em;
-  box-shadow: 1px 1px 6px rgba(0, 0, 0, 0.05);
-  overflow: hidden;
-  transition: box-shadow 0.2s ease, transform 0.2s ease;
-}
-
-.blogcard a {
-  display: block;
-  text-decoration: none;
-  color: inherit;
-}
-
-.blogcard a:hover {
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
-  transform: translateY(-2px);
-}
-
-.blogcard-container {
-  padding: 12px;
-}
-
-.blogcard-info {
-  display: flex;
-  flex-direction: column;
-  gap: 6px;
-}
-
-.blogcard-title {
-  font-weight: bold;
-  font-size: 1em;
-}
-
-.blogcard-description {
-  color: #555;
-  font-size: 0.9em;
-}
-
-.blogcard-url {
-  font-size: 0.75em;
-  color: #999;
-}
-
 a.external-link {
   display: inline-block;
   word-break: break-all;

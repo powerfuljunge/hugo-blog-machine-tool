@@ -24,7 +24,7 @@ tags:
 ---
 2022年9月のドイツ機械輸出の結果とコメントです
 
-## ドイツ機械産業の輸出は好調を維持 {.wp-block-heading}
+## ドイツ機械産業の輸出は好調を維持
 
 中国とロシアへの輸出が減ったものの、米国への輸出でそれをカバーできた
 
@@ -35,137 +35,18 @@ tags:
 
 値上げ分を調整した実質輸出高は-2.8％ということで、微減とも取れます。
 
-## 国別、地域別での状況 {.wp-block-heading}
+## 国別、地域別での状況
 
-2022年1-9月期のドイツ機械輸出高を国別、地域別で見ると<figure class="wp-block-table">
+2022年1-9月期のドイツ機械輸出高を国別、地域別で見ると
 
-<table>
-  <tr>
-    <td class="has-text-align-center" data-align="center">
-      ランキング
-    </td>
-    
-    <td class="has-text-align-center" data-align="center">
-      国
-    </td>
-    
-    <td class="has-text-align-right" data-align="right">
-      百万ユーロ
-    </td>
-    
-    <td class="has-text-align-right" data-align="right">
-      前年同期比
-    </td>
-    
-    <td class="has-text-align-right" data-align="right">
-      シェア
-    </td>
-  </tr>
-  
-  <tr>
-    <td class="has-text-align-center" data-align="center">
-      1
-    </td>
-    
-    <td class="has-text-align-center" data-align="center">
-      USA
-    </td>
-    
-    <td class="has-text-align-right" data-align="right">
-      17,946.1
-    </td>
-    
-    <td class="has-text-align-right" data-align="right">
-      19.4%
-    </td>
-    
-    <td class="has-text-align-right" data-align="right">
-      12.8%
-    </td>
-  </tr>
-  
-  <tr>
-    <td class="has-text-align-center" data-align="center">
-      2
-    </td>
-    
-    <td class="has-text-align-center" data-align="center">
-      中国
-    </td>
-    
-    <td class="has-text-align-right" data-align="right">
-      14,055.8
-    </td>
-    
-    <td class="has-text-align-right" data-align="right">
-      -2.8%
-    </td>
-    
-    <td class="has-text-align-right" data-align="right">
-      10.0%
-    </td>
-  </tr>
-  
-  <tr>
-    <td class="has-text-align-center" data-align="center">
-      17
-    </td>
-    
-    <td class="has-text-align-center" data-align="center">
-      ロシア
-    </td>
-    
-    <td class="has-text-align-right" data-align="right">
-      2,310.8
-    </td>
-    
-    <td class="has-text-align-right" data-align="right">
-      -44.4%
-    </td>
-    
-    <td class="has-text-align-right" data-align="right">
-      1.6%
-    </td>
-  </tr>
-  
-  <tr>
-    <td class="has-text-align-center" data-align="center">
-    </td>
-    
-    <td class="has-text-align-center" data-align="center">
-    </td>
-    
-    <td class="has-text-align-right" data-align="right">
-    </td>
-    
-    <td class="has-text-align-right" data-align="right">
-    </td>
-    
-    <td class="has-text-align-right" data-align="right">
-    </td>
-  </tr>
-  
-  <tr>
-    <td class="has-text-align-center" data-align="center">
-    </td>
-    
-    <td class="has-text-align-center" data-align="center">
-      EU-27
-    </td>
-    
-    <td class="has-text-align-right" data-align="right">
-      61,366.6
-    </td>
-    
-    <td class="has-text-align-right" data-align="right">
-      2.1%
-    </td>
-    
-    <td class="has-text-align-right" data-align="right">
-      43.7%
-    </td>
-  </tr>
-</table><figcaption class="wp-element-caption">VDMA資料より作成</figcaption></figure> 
+|ランキング|国|百万ユーロ|前年同期比|シェア|
+|--|--|--|--|--|
+|1|USA|17,946.1|19.4%|12.8%|
+|2|中国|14,055.8|-2.8%|10.0%|
+|17|ロシア|2,310.8|-44.4%|1.6%|
+||EU-27|61,366.6|2.1%|43.7%|
+
+VDMA資料より作成 
 
 2022年1-9月期のEU内輸出は、614億ユーロ。これは、前年同期比名目+2.1％。  
 輸出全体の43.7％を占めています。  
@@ -183,7 +64,7 @@ tags:
 ロシアは名目-44.4％の23億ユーロ。全体のわずか1.6％。  
 これは、ウクライナ戦争の影響です。
 
-## まとめ {.wp-block-heading}
+## まとめ 
 
 世界経済の行方は混沌としています
 
@@ -191,7 +72,7 @@ tags:
 中国のゼロコロナ政策は、産業界に大きなダメージを与えていて  
 その政策転換が今後の注目点となります
 
-## 情報ソース {.wp-block-heading}
+## 情報ソース 
 
 VDMAのプレスリリース
 

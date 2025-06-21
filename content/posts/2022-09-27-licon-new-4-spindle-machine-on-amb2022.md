@@ -27,7 +27,7 @@ tags:
 ---
 LiCONという名前を最近よく見かけるようになった
 
-## LiCONがAMB2022に新製品を投入 {.wp-block-heading}
+## LiCONがAMB2022に新製品を投入 
 
 以下のMAV誌に掲載された記事がその一つだが  
 展示会AMB2022に出品した4スピンドル機が紹介されている
@@ -41,7 +41,7 @@ description=""
 
 Liflex IV 244というモデルがその4スピンドル機
 
-## 何がおもしろいの？ {.wp-block-heading}
+## 何がおもしろいの？
 
 直近の2スピンドル機の開発で何をしたのか？
 
@@ -80,7 +80,7 @@ MQLってMinimum Quantity Lubricationの略
 
 キメが細かいじゃありませんか
 
-## 気になってLiCON社のサイトを訪問しちゃった {.wp-block-heading}
+## 気になってLiCON社のサイトを訪問しちゃった
 
 {{< blogcard
 url="https://www.licon.com"

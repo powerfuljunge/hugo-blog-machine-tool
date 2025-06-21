@@ -34,7 +34,7 @@ image="https://infopolis.org/img/cocoon-resources/blog-card-cache/81419a8dff2f2a
 description="Der Volkswagen Konzern hat die MAG IAS GmbH mit der Lieferung einer neuen Produktionslinie für Gehäusebauteile des zukünftigen E-Antriebs beauftragt."
 >}} 
 
-## MAGの現在 {.wp-block-heading}
+## MAGの現在 
 
 MAGも既に個々のドイツ著名ブランドが合併してできたグループだが  
 今は台湾のフェアフレンドグループ（FFG)に所属するブランドの一つになっているんだね
@@ -63,7 +63,7 @@ FFGって言えば展示会でも大きなスペースを取って
 良くも悪くも大きな影響を与えているわけだが  
 やはり、寂しい感じは拭い去れない
 
-## 電気自動車の新しい部品　eドライブユニット {.wp-block-heading}
+## 電気自動車の新しい部品　eドライブユニット
 
 部品加工を担当するのは　　　<span class="fz-22px"><strong>SPECHT 450/500 DUO</strong></span>
 
@@ -85,7 +85,7 @@ MAGというよりもHüller Hilleの時代に開発された機械だ（古い�
 
 それが顧客にとってのメリットだ（という）
 
-## ちょっと脱線　Hüller Hille {.wp-block-heading}
+## ちょっと脱線　Hüller Hille
 
 あれ？！Hüller Hilleを調べてみようとネット検索していると  
 Hüller Hille GmbHって会社があって、どうもFFGグループではなさそうだ
@@ -108,7 +108,7 @@ description="Das Hüller Hille Premium Versprechen Zuverlässigkeit Typisch Hül
 
 ひょっとするとHüller Hille GmbHは、FFGが引き取らなかったってこと？？？
 
-## FFGから再度Hüller Hilleへ {.wp-block-heading}
+## FFGから再度Hüller Hilleへ 
 
 ネットってすごいなー
 
@@ -130,7 +130,7 @@ Diedesheim工場の従業員185人と15人の研修工はそのまま引き継�
 
 おー、少しずつ流れが分かってきたぞ！
 
-## Hüller Hilleの数奇な運命 {.wp-block-heading}
+## Hüller Hilleの数奇な運命 
 
 何だか気になっていろいろ調べてしまいました
 
