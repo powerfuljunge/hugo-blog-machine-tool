@@ -19,7 +19,7 @@ googleAnalytics = "G-QY7XSJP9PJ"
 [params]
 mainSections = ["posts"] 
 toc_default_open = false  # true: 表示 / false: 非表示
-
+toc = true
 
 # Base color of the website.
 # https://tailwindcss.com/docs/background-color
@@ -70,6 +70,8 @@ darkmode = "light"
 
     # Number of characters in description
     description = 130
+
+    toc = true
 
   [params.profile]
     name = "工作機械GURU"
@@ -148,6 +150,7 @@ archive = "archives"
   [markup.tableOfContents]
       startLevel = 2
       endLevel = 3
+      ordered = false
   
 [related]
 threshold = 80

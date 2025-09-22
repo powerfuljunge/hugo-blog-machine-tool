@@ -1,14 +1,8 @@
-# netlify.toml
 [build]
+  command = "npm ci --include=dev && npm run build"
   publish = "public"
-  command = "hugo --minify"
 
-[context.production.environment]
-  HUGO_VERSION = "0.147.0"  # 使用中のHugoバージョンをここに指定
-
-[context.deploy-preview.environment]
+[build.environment]
   HUGO_VERSION = "0.147.0"
-
-[context.branch-deploy.environment]
-  HUGO_VERSION = "0.147.0"
-
+  HUGO_ENV = "production"
+  NODE_VERSION = "20"

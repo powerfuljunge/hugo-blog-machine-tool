@@ -1,0 +1,10 @@
+{{/* layouts/partials/toc.html */}}
+{{ $toc := .Page.TableOfContents }}
+{{ if $toc }}
+<details id="dj-toc" class="prose max-w-none dark:prose-invert mb-8">
+  <summary class="cursor-pointer select-none text-lg leading-6">目次</summary>
+  <div id="dj-toc-content" class="mt-2">
+    {{ $toc | safeHTML }}
+  </div>
+</details>
+{{ end }}

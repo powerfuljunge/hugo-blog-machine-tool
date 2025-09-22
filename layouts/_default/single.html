@@ -1,4 +1,5 @@
-{{ define "header_css" }}{{ end }}
+{{ define "header_css" }}
+{{ end }}
 
 {{ define "main" }}
 <div class="grid grid-cols-3 gap-4">
@@ -8,6 +9,22 @@
         <div class="bg-white col-span-3 p-5 dark:bg-warmgray-900 dark:text-white">
             {{ end }}
             <h1 class="title text-4xl font-bold mb-2">{{.Title}}</h1>
+
+            {{/* image / thumbnail / cover の順に使い、無ければページ内の最初の画像を採用 */}}
+            {{ $img := or .Params.image (or .Params.thumbnail .Params.cover) }}
+            {{ if not $img }}
+            {{ with .Resources.ByType "image" }}
+                {{ with (index . 0) }} {{ $img = .RelPermalink }} {{ end }}
+            {{ end }}
+            {{ end }}
+            {{ with $img }}
+            <figure class="post-thumb my-4">
+                <img src="{{ . | absURL }}" alt="{{ $.Title }}">
+            </figure>
+            {{ end }}
+
+            {{ if eq .Section "posts" }}{{ partial "toc.html" . }}{{ end }}
+
             <div class="content prose md:prose-lg lg:prose-xl max-w-none dark:prose-invert py-1">{{.Content}}</div>
         </div>
         {{ if .Site.Params.widgets.display }}

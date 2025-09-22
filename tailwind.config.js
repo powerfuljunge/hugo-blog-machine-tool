@@ -1,6 +1,18 @@
+// tailwind.config.js
 module.exports = {
-  content: ["./**/*.html", "./**/*.md", "config.toml"],
+  content: [
+    "./content/**/*.{md,html}",
+    "./layouts/**/*.html",
+    "./themes/Blonde/layouts/**/*.html",
+    "./config.toml",
+  ],
+  safelist: [
+    "prose","prose-invert",
+    { pattern: /prose-.*/ },
+    "dj-toc","dj-toc-content","toc","toc-content"
+  ],
   darkMode: "class",
+
   theme: {
     extend: {
       colors: {
